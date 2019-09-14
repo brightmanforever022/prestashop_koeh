@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+#khlgdprMessageContainer{
+	position: fixed;
+	width: 100%;
+	height: 45px;
+	background-color: #333333;
+	bottom: 0;
+	right: 0;
+	z-index: 100;
+	display: none;
+}
+@media (max-width: 768px){
+	#khlgdprMessageContainer{
+		height: 120px;
+	}
+}
+@media (min-width: 768px) and (max-width: 1170px){
+	#khlgdprMessageContainer{
+		height: 80px;
+	}
+}
+#khlgdprMessage{
+	color: white;
+	padding: 10px 20px;
+}
+#khlgdprMessage button{
+	padding: 3px 20px;
+}

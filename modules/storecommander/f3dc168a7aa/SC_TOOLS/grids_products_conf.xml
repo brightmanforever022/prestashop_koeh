@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+  <xml_version><![CDATA[2]]></xml_version>
+  <grids>
+    <grid>
+      <name><![CDATA[grid_light]]></name>
+      <text>
+        <fr><![CDATA[Einfache Ansicht]]></fr>
+        <en><![CDATA[Light view]]></en>
+      </text>
+      <value><![CDATA[id,active,image,quantity,supplier_reference,price,price_inc_tax,position,name,reference,minimal_quantity,id_tax_rules_group,ecotax,quantityupdate]]></value>
+    </grid>
+    <grid>
+      <name><![CDATA[grid_large]]></name>
+      <text>
+        <fr><![CDATA[Detail Ansicht]]></fr>
+        <en><![CDATA[Large view]]></en>
+      </text>
+      <value><![CDATA[id,active,image,supplier_reference,quantity,name,minimal_quantity,wholesale_price,price,id_manufacturer,id_supplier,available_now,available_later,ecotax,weight,ean13,upc,location,date_add,reduction_price,price_with_reduction,reduction_percent,price_with_reduction_percent,reduction_from,quantityupdate,reduction_to,out_of_stock,on_sale,available_for_order,available_date,visibility,show_price,online_only,condition,position,price_inc_tax,id_tax_rules_group]]></value>
+    </grid>
+    <grid>
+      <name><![CDATA[grid_ck]]></name>
+      <text>
+        <fr><![CDATA[CK]]></fr>
+        <en><![CDATA[CK]]></en>
+      </text>
+      <value><![CDATA[id,active,image,supplier_reference,quantity,name,wholesale_price,price,id_manufacturer,id_supplier,available_now,available_later,upc,ean13,position,margin,id_tax_rules_group,price_inc_tax,ecotax]]></value>
+    </grid>
+  </grids>
+  <fields></fields>
+</extension>

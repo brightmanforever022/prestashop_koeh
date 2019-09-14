@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapping version="3"><field><id><![CDATA[1566392975469]]></id><used><![CDATA[1]]></used><name><![CDATA[id_product]]></name><lang><![CDATA[]]></lang><options><![CDATA[]]></options><modifications><![CDATA[]]></modifications><column_name><![CDATA[]]></column_name></field>
+<field><id><![CDATA[1566392975474]]></id><used><![CDATA[1]]></used><name><![CDATA[name]]></name><lang><![CDATA[de]]></lang><options><![CDATA[]]></options><modifications><![CDATA[]]></modifications><column_name><![CDATA[]]></column_name></field>
+<field><id><![CDATA[1566392975475]]></id><used><![CDATA[1]]></used><name><![CDATA[price_exctax_without_reduction]]></name><lang><![CDATA[]]></lang><options><![CDATA[]]></options><modifications><![CDATA[]]></modifications><column_name><![CDATA[]]></column_name></field>
+<field><id><![CDATA[1566392975476]]></id><used><![CDATA[1]]></used><name><![CDATA[vat]]></name><lang><![CDATA[]]></lang><options><![CDATA[]]></options><modifications><![CDATA[]]></modifications><column_name><![CDATA[]]></column_name></field>
+</mapping>

@@ -1,0 +1,60 @@
+2016-07-08 21:20:05 [127.0.0.1] > exception 'NewsletterProTemplateException' with message 'The template &quot;delete_1&quot; does not exists.' in C:\webserver\www\prestashop\prestashop1610\modules\newsletterpro\classes\NewsletterProTemplateFile.php:44
+Stack trace:
+#0 C:\webserver\www\prestashop\prestashop1610\modules\newsletterpro\css.php(57): NewsletterProTemplateFile->load(1)
+#1 {main}
+2016-07-08 21:20:05 [127.0.0.1] > exception 'NewsletterProTemplateException' with message 'The template &quot;delete_1&quot; does not exists.' in C:\webserver\www\prestashop\prestashop1610\modules\newsletterpro\classes\NewsletterProTemplateFile.php:44
+Stack trace:
+#0 C:\webserver\www\prestashop\prestashop1610\modules\newsletterpro\css.php(57): NewsletterProTemplateFile->load(2)
+#1 {main}
+2016-07-08 21:20:05 [127.0.0.1] > exception 'NewsletterProTemplateException' with message 'The template &quot;delete_1&quot; does not exists.' in C:\webserver\www\prestashop\prestashop1610\modules\newsletterpro\classes\NewsletterProTemplateFile.php:44
+Stack trace:
+#0 C:\webserver\www\prestashop\prestashop1610\modules\newsletterpro\css.php(57): NewsletterProTemplateFile->load(4)
+#1 {main}
+2016-07-08 21:20:05 [127.0.0.1] > exception 'NewsletterProTemplateException' with message 'The template &quot;delete_1&quot; does not exists.' in C:\webserver\www\prestashop\prestashop1610\modules\newsletterpro\classes\NewsletterProTemplateFile.php:44
+Stack trace:
+#0 C:\webserver\www\prestashop\prestashop1610\modules\newsletterpro\css.php(57): NewsletterProTemplateFile->load(3)
+#1 {main}
+2016-07-08 21:20:05 [127.0.0.1] > exception 'NewsletterProTemplateException' with message 'The template &quot;delete_1&quot; does not exists.' in C:\webserver\www\prestashop\prestashop1610\modules\newsletterpro\classes\NewsletterProTemplateFile.php:44
+Stack trace:
+#0 C:\webserver\www\prestashop\prestashop1610\modules\newsletterpro\css.php(57): NewsletterProTemplateFile->load(5)
+#1 {main}
+2018-07-13 18:19:41 [31.18.18.245] > exception 'NewsletterProTemplateException' with message 'The template &quot;ABC_temporär&quot; does not exists.' in /home/koehlert/public_html/modules/newsletterpro/classes/NewsletterProTemplateFile.php:44
+Stack trace:
+#0 /home/koehlert/public_html/modules/newsletterpro/css.php(57): NewsletterProTemplateFile->load(1)
+#1 {main}
+2018-11-20 18:52:05 [31.17.121.139] > exception 'NewsletterProTemplateException' with message 'The template &quot;Breuninger_Mail&quot; does not exists.' in /home/koehlert/public_html/modules/newsletterpro/classes/NewsletterProTemplateFile.php:44
+Stack trace:
+#0 /home/koehlert/public_html/modules/newsletterpro/css.php(57): NewsletterProTemplateFile->load(3)
+#1 {main}
+2018-11-20 18:52:06 [31.17.121.139] > exception 'NewsletterProTemplateException' with message 'The template &quot;Breuninger_Mail&quot; does not exists.' in /home/koehlert/public_html/modules/newsletterpro/classes/NewsletterProTemplateFile.php:44
+Stack trace:
+#0 /home/koehlert/public_html/modules/newsletterpro/css.php(57): NewsletterProTemplateFile->load(4)
+#1 {main}
+2018-11-20 18:52:07 [31.17.121.139] > exception 'NewsletterProTemplateException' with message 'The template &quot;Breuninger_Mail&quot; does not exists.' in /home/koehlert/public_html/modules/newsletterpro/classes/NewsletterProTemplateFile.php:44
+Stack trace:
+#0 /home/koehlert/public_html/modules/newsletterpro/css.php(57): NewsletterProTemplateFile->load(5)
+#1 {main}
+2019-04-08 15:18:50 [90.186.211.93] > exception 'NewsletterProTemplateException' with message 'The template &quot;VBBFW2019spanish&quot; does not exists.' in /home/koehlert/public_html/modules/newsletterpro/classes/NewsletterProTemplateFile.php:44
+Stack trace:
+#0 /home/koehlert/public_html/modules/newsletterpro/css.php(57): NewsletterProTemplateFile->load(2)
+#1 {main}
+2019-04-08 15:18:50 [90.186.211.93] > exception 'NewsletterProTemplateException' with message 'The template &quot;VBBFW2019spanish&quot; does not exists.' in /home/koehlert/public_html/modules/newsletterpro/classes/NewsletterProTemplateFile.php:44
+Stack trace:
+#0 /home/koehlert/public_html/modules/newsletterpro/css.php(57): NewsletterProTemplateFile->load(1)
+#1 {main}
+2019-04-08 15:18:51 [90.186.211.93] > exception 'NewsletterProTemplateException' with message 'The template &quot;VBBFW2019spanish&quot; does not exists.' in /home/koehlert/public_html/modules/newsletterpro/classes/NewsletterProTemplateFile.php:44
+Stack trace:
+#0 /home/koehlert/public_html/modules/newsletterpro/css.php(57): NewsletterProTemplateFile->load(5)
+#1 {main}
+2019-04-08 15:18:51 [90.186.211.93] > exception 'NewsletterProTemplateException' with message 'The template &quot;VBBFW2019spanish&quot; does not exists.' in /home/koehlert/public_html/modules/newsletterpro/classes/NewsletterProTemplateFile.php:44
+Stack trace:
+#0 /home/koehlert/public_html/modules/newsletterpro/css.php(57): NewsletterProTemplateFile->load(3)
+#1 {main}
+2019-04-08 15:18:51 [90.186.211.93] > exception 'NewsletterProTemplateException' with message 'The template &quot;VBBFW2019spanish&quot; does not exists.' in /home/koehlert/public_html/modules/newsletterpro/classes/NewsletterProTemplateFile.php:44
+Stack trace:
+#0 /home/koehlert/public_html/modules/newsletterpro/css.php(57): NewsletterProTemplateFile->load(2)
+#1 {main}
+2019-04-08 15:18:52 [90.186.211.93] > exception 'NewsletterProTemplateException' with message 'The template &quot;VBBFW2019spanish&quot; does not exists.' in /home/koehlert/public_html/modules/newsletterpro/classes/NewsletterProTemplateFile.php:44
+Stack trace:
+#0 /home/koehlert/public_html/modules/newsletterpro/css.php(57): NewsletterProTemplateFile->load(4)
+#1 {main}

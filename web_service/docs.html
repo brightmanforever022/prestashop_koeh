@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>API</title>
+</head>
+<body>
+	<h1>Koehlert.com web service</h1>
+	<p>
+		URL: https://www.koehlert.com/web_service/index.php<br>
+		All requests sent using HTTP POST method.
+	</p>
+	<!-- 
+	<h2>web_service=languages</h2>
+	<p>
+		Return languages
+	</p>
+	<hr>
+
+	<h2>web_service=currency</h2>
+	<p>
+		Return currencies
+	</p>
+	<hr>
+
+	<h2>web_service=size</h2>
+	<p>
+		Return sizes
+	</p>
+
+	<hr>
+	
+	
+	<h2>web_service=supplier</h2>
+	<p>
+		Return suppliers
+	</p>
+	<hr>
+
+	<h2>web_service=notesFilter</h2>
+	<p>
+		Return notes filter options
+	</p>
+	<hr>
+	
+	<h2>web_service=products</h2>
+	<p>
+		Return products
+	</p>
+	<dl>
+		<dt>shop_id</dt>
+		<dd>Products of the shop</dd>
+		<dt>active</dt>
+		<dd>Product active or not(0,1)</dd>
+		<dt>id</dt>
+		<dd>ID of product</dd>
+		<dt>supplier_id</dt>
+		<dd>Supplier ID</dd>
+		<dt>attr_id</dt>
+		<dd>Array of Prestashop attributes</dd>
+		<dt>dbk_name</dt>
+		<dd>Name of DBK product</dd>
+		<dt>ps_sku</dt>
+		<dd>Prestashop's supplier reference</dd>
+		<dt>price</dt>
+		<dd>CK product price</dd>
+		<dt>dbk_price</dt>
+		<dd>DBK's sale price</dd>
+		<dt>dbk_lagerbestand</dt>
+		<dd>DBK quantity</dd>
+		<dt>ps_lagerbestand</dt>
+		<dd>CK quantity</dd>
+		<dt>ean</dt>
+		<dd>EAN 13 / Barcode of the product</dd>
+		<dt>sortField</dt>
+		<dd>
+			Sort by:
+			<ul>
+				<li>quantity: sold quantity</li>
+				<li>id: sale id</li>
+			</ul>
+			Sorting by other returned fields available
+		</dd>		
+		<dt>perPage</dt>
+		<dd>Items per page</dd>		
+		<dt>page</dt>
+		<dd>Page number</dd>		
+		
+	</dl>
+
+	<hr>
+	
+	<h2>web_service=shop</h2>
+	<p>
+		Return DBK shops
+	</p>
+
+	<hr>
+	<h2>web_service=deliveryFilter</h2>
+	<p>
+		Return Delivery Filter
+	</p>
+	
+	<hr>
+	
+	<h2>web_service=preOrderFilter</h2>
+	<p>
+		Return pre orders
+	</p>
+	
+	<hr>
+	
+	<h2>web_service=orders</h2>
+	<p>
+		Return DBK orders
+	</p>
+	<h4>Parameters</h4>
+	<dl>
+		<dt>shop_id</dt>
+		<dd>Sales of particular shop</dd>
+		<dt>order_id</dt>
+		<dd>Particular order info</dd>
+		<dt>attr_id</dt>
+		<dd>Array of Prestashop attributes</dd>
+		<dt>sale_date_from</dt>
+		<dd>Date from</dd>
+		<dt>sale_date_to</dt>
+		<dd>Date to</dd>
+		<dt>dbk_name</dt>
+		<dd>Name of DBK product</dd>
+		<dt>ps_sku</dt>
+		<dd>Prestashop's supplier reference</dd>
+		<dt>sale_price</dt>
+		<dd>CK product price</dd>
+		<dt>dbk_price</dt>
+		<dd>DBK's sale price</dd>
+		<dt>quantity</dt>
+		<dd>Product sold quantity</dd>
+		<dt>total</dt>
+		<dd>Sold quantity * DBK price</dd>
+		<dt>delivery_request</dt>
+		<dd>
+			See "web_service=deliveryFilter"	
+		</dd>		
+		<dt>preorder</dt>
+		<dd>
+			-1 => Alle (default)
+			See "web_service=preOrderFilter"
+		</dd>
+		<dt>noteExists</dt>
+		<dd>1 => Is the sale has notes, 0 => Is the sale has no notes</dd>
+		<dt>notes</dt>
+		<dd>
+			With set preorder > -1, search text in notes
+		</dd>		
+		<dt>sortField</dt>
+		<dd>
+			Sort by:
+			<ul>
+				<li>quantity: sold quantity</li>
+				<li>id: sale id</li>
+			</ul>
+			Sorting by other returned fields available
+		</dd>
+		<dt>hide_zero_dbk_price</dt>
+		<dd>Hide DBK prices that are equal to zero</dd>
+		<dt>perPage</dt>
+		<dd>Items per page</dd>		
+		<dt>page</dt>
+		<dd>Page number</dd>		
+		
+	</dl>
+	<hr>
+
+	<h2>web_service=returns</h2>
+	<p>
+		Return sale returns
+	</p>
+	<h4>Parameters</h4>
+		<dl>
+		<dt>shop_id</dt>
+		<dd>Sales of particular shop</dd>
+		<dt>order_id</dt>
+		<dd>Particular order info</dd>
+		<dt>sale_date_from</dt>
+		<dd>Date from</dd>
+		<dt>sale_date_to</dt>
+		<dd>Date to</dd>
+		<dt>perPage</dt>
+		<dd>Items per page</dd>		
+		<dt>page</dt>
+		<dd>Page number</dd>		
+		
+	</dl>
+	<hr>
+		-->
+	<h2>web_service=sale_stats_daily</h2>
+	<p>
+		Returns daily sale statistics. 
+	</p>
+	
+	<p>
+		Response fields:<br>
+		"sold_quantity" - quantity sold<br>
+		"sale_revenue" - sales revenue<br>
+		"report_date" - report date
+	</p>
+	<h4>Parameters</h4>
+	<dl>
+		<dt>date_year_month</dt>
+		<dd>Date in format YYYY-MM</dd>
+	</dl>
+	
+	<h2>web_service=sale_stats_weekly</h2>
+	<p>
+		Returns weekly sale statistics. 
+	</p>
+
+	<p>
+		Response fields:<br>
+		"sold_quantity" - quantity sold<br>
+		"sale_revenue" - sales revenue<br>
+		"report_date" - report date
+	</p>
+	<h4>Parameters</h4>
+	<dl>
+		<dt>date_year</dt>
+		<dd>Year of the report, in YYYY</dd>
+	</dl>
+	
+	
+	<h2>web_service=sale_stats_monthly</h2>
+	<p>
+		Returns monthly sale statistics. 
+	</p>
+	<p>
+		Response fields:<br>
+		"sold_quantity" - quantity sold<br>
+		"sale_revenue" - sales revenue<br>
+		"report_date" - report date
+	</p>
+	<h4>Parameters</h4>
+	<dl>
+		<dt>date_year</dt>
+		<dd>Year of the report, in YYYY</dd>
+	</dl>
+	<hr>
+	
+	<h2>web_service=photos</h2>
+	<p>
+		Return photos urls for all products. 
+	</p>
+	
+	<!-- 
+	<hr>
+	<h2>Web services for getting supply orders information</h2>
+	<h3>https://www.vipdress.de/admin123/index_service.php/supplier_orders/show_supplier_orders_by_sku/[SEARH PARAM]?json=1</h3>
+	<p>Returns information for supplier ordered product. 
+		Search parameter can be "supplier reference" or "ean"
+	</p>
+	
+	<h3>https://www.vipdress.de/admin123/index_service.php/supplier_orders/show_supplier_orders_for_combs/[SEARCH PARAM]</h3>
+	<p>Returns information for supplier ordered product's combinations. 
+	Search parameter is "supplier reference" without size postfix, eg "0000_Posy Green"
+	</p>
+	 -->
+</body>
+
+
+</html>

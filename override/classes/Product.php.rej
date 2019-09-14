@@ -1,0 +1,20 @@
+--- override/classes/Product.php
++++ override/classes/Product.php
+@@ -147,7 +147,7 @@
+     public function getExpectedDelivery()
+     {
+         $query = '
+-            SELECT vd_soi.quantity AS expected_quantity, vd_so.exp_arrive_date, 
++            SELECT vd_soi.quantity-vd_soi.arrived_quantity AS expected_quantity, vd_so.exp_arrive_date, 
+                 vd_pa.supplier_reference, pa.id_product_attribute,
+                 vd_pa.id_product_attribute as vd_id_product_attribute
+             FROM '.VIPDRESS_DB_NAME .'.'. VIPDRESS_DB_PREFIX.'product vd_p
+@@ -162,7 +162,7 @@
+             WHERE vd_p.supplier_reference = "'. pSQL($this->supplier_reference) .'"
+                 AND vd_so.order_arrived = 0
+                 AND UNIX_TIMESTAMP(vd_so.exp_arrive_date) > 0
+-                AND vd_soi.quantity > 0
++                AND vd_soi.quantity-vd_soi.arrived_quantity > 0
+             ORDER BY vd_so.exp_arrive_date ASC
+         ';
+         //GROUP BY pa.id_product_attribute

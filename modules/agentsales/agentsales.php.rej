@@ -1,0 +1,11 @@
+--- modules/agentsales/agentsales.php
++++ modules/agentsales/agentsales.php
+@@ -123,7 +123,7 @@
+ 		');
+         $adminIds = array();
+         $accessEmails = array(
+-            'info@vipdress.de', 'developer@vipdress.de', 'davidszielenski@gmail.com'
++            'info@vipdress.de', 'developer@vipdress.de', 'davidszielenski@gmail.com', 'info@wheelronix.com'
+         );
+         foreach($shopEmployees as $employee){
+             if( ($employee['id_profile'] == 1) && in_array($employee['email'], $accessEmails) ){

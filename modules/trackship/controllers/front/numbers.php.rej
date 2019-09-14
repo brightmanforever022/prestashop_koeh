@@ -1,0 +1,38 @@
+--- modules/trackship/controllers/front/numbers.php
++++ modules/trackship/controllers/front/numbers.php
+@@ -28,7 +28,7 @@
+             'message' => ''
+         );
+         
+-        if( ($requireToken != $paramToken) || ($_SERVER['REQUEST_METHOD'] != 'POST') ){
++        if( ($requireToken != $paramToken)  ){  // || ($_SERVER['REQUEST_METHOD'] != 'POST')
+             $responseData['message'] = 'Invalid request';
+             echo json_encode($responseData);
+             die;
+@@ -68,7 +68,25 @@
+             $requestData[$i] = pSQL($data);
+         }
+         
+-        Db::getInstance()->insert('order_tracking_number', $requestData);
++        // record tracking number
++        if ($requestData['id_order'] < 5000)
++        {
++            // it is old id order
++            $requestData['id_order'] = Db::getInstance()->getValue('select id_shipping_label_print from '._DB_PREFIX_.'shipping_label_print '.
++                    'where id_order='.$requestData['id_order']);
++        }
++        
++        Db::getInstance()->execute('update '._DB_PREFIX_.'shipping_label_print set tracking_number=\''.$requestData['code'].'\' where '.
++                'id_shipping_label_print='.$requestData['id_order']);
++        
++        // if shipping is related with order, save it 
++        $orderId = Db::getInstance()->getValue('select id_order from '._DB_PREFIX_.'shipping_label_print '.
++                    'where id_shipping_label_print='.$requestData['id_order']);
++        if ($orderId>0)
++        {
++            $requestData['id_order'] = $orderId;
++            Db::getInstance()->insert('order_tracking_number', $requestData);
++        }
+         $responseData['success'] = true;
+         $responseData['message'] = 'Tracking code saved';
+         echo json_encode($responseData);

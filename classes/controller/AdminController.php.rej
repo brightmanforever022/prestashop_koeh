@@ -1,0 +1,11 @@
+--- classes/controller/AdminController.php
++++ classes/controller/AdminController.php
+@@ -536,7 +536,7 @@
+      */
+     public function initBreadcrumbs($tab_id = null, $tabs = null)
+     {
+-        if (is_array($tabs) || count($tabs)) {
++        if (!is_array($tabs)) {
+             $tabs = array();
+         }
+ 

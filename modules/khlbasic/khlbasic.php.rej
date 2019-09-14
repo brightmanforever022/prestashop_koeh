@@ -1,0 +1,64 @@
+--- modules/khlbasic/khlbasic.php
++++ modules/khlbasic/khlbasic.php
+@@ -162,60 +162,7 @@
+         
+     }
+ 
+-    public function sendProductsClearStock($productIds, $status)
+-    {
+-        $errors = array();
+-        $shopDomain = $this->context->shop->domain;
+-        if($shopDomain == 'nsweb.server'){
+-            $remoteApiUrl = 'http://nsweb.server/vipdress/';
+-        }
+-        elseif($shopDomain == 'dmitri.wheel'){
+-            $remoteApiUrl = 'http://dmitri.wheel/vipdress.de1/';
+-        }
+-        else{
+-            $remoteApiUrl = 'https://www.vipdress.de/';
+-        }
+-        
+-        $remoteApiKey = Configuration::get('KHLBSC_VD_API_KEY');
+-        
+-        $remoteApiUrl .= 'admin123/index_service.php/supplier_products/ws_set_stock_clearance?'
+-            .http_build_query(array('ws_key' => $remoteApiKey));
+-        
+-        $productRefsToUpdate = array();
+-        foreach($productIds as $prodId){
+-            $psProduct = new Product($prodId);
+-        
+-            $productRefsToUpdate[] = $psProduct->supplier_reference;
+-        }
+-
+-        $curl = new CurlWrapper();
+-        $wsRequestUrl = $remoteApiUrl;
+-
+-        $requestParams = array(
+-            'clearance_state' => ($status ? 'set' : 'unset'),
+-            'supplier_references' => $productRefsToUpdate
+-        );
+-        
+-        $jsonData = json_encode($requestParams);
+-
+-        try{
+-            $response = $curl->post($wsRequestUrl, array('post_data' => $jsonData));
+-        }
+-        catch(Exception $e){
+-            $errors[] = 'Vipdress error, POST supplier_references: '. $e->getMessage();
+-        }
+-
+-        if(count($errors)){
+-            return array(
+-                'success' => false,
+-                'messages' => $errors
+-            );
+-        }
+-        else{
+-            return json_decode($response, true);
+-        }
+-    }
+-
++    
+     public function hookActionObjectProductSupplierAddBefore($params)
+     {
+         $query = '

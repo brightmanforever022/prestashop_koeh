@@ -1,0 +1,11 @@
+--- override/controllers/front/CartController.php
++++ override/controllers/front/CartController.php
+@@ -74,7 +74,7 @@
+             // not enough quantity in stock, check expected supply
+             if( !$quantity_wanted_covered ){
+                 $quantity_expected_supply = 0;
+-                $productExpectedDeliveryList = $product->getExpectedDelivery();
++                $productExpectedDeliveryList = $product->getExpectedDeliveryAndDbkStock();
+                 foreach( $productExpectedDeliveryList as $productExpectedDelivery ){
+                     if( $this->id_product_attribute == $productExpectedDelivery['id_product_attribute'] ){
+                         // summarize all expected supplies for attribute

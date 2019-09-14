@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>tacartreminder</name>
+	<displayName><![CDATA[Smart Cart Reminder]]></displayName>
+	<version><![CDATA[1.0.47]]></version>
+	<description><![CDATA[The advanced cart reminder solution. Create rules with criteria to remind the customer.]]></description>
+	<author><![CDATA[Timactive]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

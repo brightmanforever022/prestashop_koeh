@@ -1,0 +1,22 @@
+--- override/controllers/admin/AdminOrdersController.php
++++ override/controllers/admin/AdminOrdersController.php
+@@ -2503,9 +2503,7 @@
+             $msss_client = ModuleCore::getInstanceByName('msss_client');
+             // report stock update 
+             $msss_client->scheduleStockUpdateById($order_detail->product_id, $order_detail->product_attribute_id,
+-                        $qty_cancel_product, $order_detail->id_order, $delete?0 : $order_detail->product_quantity -
+-                    $order_detail->product_quantity_refunded - $order_detail->product_quantity_return -
+-                    $order_detail->shipped);
++                        $qty_cancel_product, $order_detail->id_order);
+             $msss_client->sendMessagesToServerParallel();
+         }
+     }
+@@ -2830,7 +2828,7 @@
+             $msss_client = ModuleCore::getInstanceByName('msss_client');
+             // report stock update 
+             $msss_client->scheduleStockUpdateById($product_informations['product_id'], $product_informations['product_attribute_id'],
+-                        -$product_informations['product_quantity'], $order->id, $product_informations['product_quantity']);
++                        -$product_informations['product_quantity'], $order->id);
+             $msss_client->sendMessagesToServerParallel();
+         }
+         

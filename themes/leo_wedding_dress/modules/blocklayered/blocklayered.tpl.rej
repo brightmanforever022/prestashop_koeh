@@ -1,0 +1,11 @@
+--- themes/leo_wedding_dress/modules/blocklayered/blocklayered.tpl
++++ themes/leo_wedding_dress/modules/blocklayered/blocklayered.tpl
+@@ -257,7 +257,7 @@
+ 	{addJsDef blocklayeredSliderName=$blocklayeredSliderName}
+ 
+ 	{if isset($filters) && $filters|@count}
+-		{addJsDef filters=$filters|@json_encode}
++		{addJsDef filters=$filters}
+ 	{/if}
+ {/strip}
+ {/if}

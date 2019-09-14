@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Supplier admin</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<style type="text/css">
+body{
+    padding: 20px 0;
+}
+.row-margin{
+    margin-bottom: 15px;
+}
+#imageBigCont{
+    z-index:10;
+    box-shadow:0 0 5px #000;
+    position:absolute;
+    background: #fff;
+}
+</style>
+<script type="text/javascript">
+$(function(){
+	$('select[name="per_page"]').change(function(){
+        $('#listingForm').submit();
+    });
+    $('#toggleAllCheckboxes').click(function(){
+        var checked = $(this).prop('checked');
+        $('#listingForm').find('tbody').find('input[name="id_product_attribute[]"]').prop('checked', checked);
+    });
+    $('button[value="pdf_labels"]').click(function(){
+    	$('#listingForm').attr('target', '_blank');
+    })
+    .blur(function(){
+    	$('#listingForm').attr('target', '_self');
+    });
+    $('img.listing-image').mouseenter(function(){
+        var imageBigUrl = $(this).data('srcbig');
+        var posRight = 20;
+        var posTop = $('html').scrollTop() + 20;
+        $('body').append('<div style="top:'+posTop+'px;right:'+posRight+'px" id="imageBigCont"><img src="'+imageBigUrl+'"></div>');
+    })
+    .mouseleave(function(){
+        $('#imageBigCont').remove();
+    });
+});
+</script>
+</head>
+<body>
+  
+  <div class="container">
+    <nav class="navbar navbar-default">
+      <ul class="nav navbar-nav">
+        <li><a href="<?php echo Context::getContext()->shop->getBaseURL() .'spladmin'?>">List</a></li>
+      </ul>
+    </nav>
+  </div>
+  
+  <div class="container" id="containerMain">
+    <div class="row">
+      <div class="col-lg-12">
+      <?php if(isset($viewVars['errors'])){ ?>
+        <ul class="alert alert-danger">
+        <?php foreach($viewVars['errors'] as $errorMessage){ ?>
+          <li><?php echo $errorMessage?></li>
+        <?php } ?>
+        </ul>
+      <?php } ?>
+        
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-lg-12">
+        <h3>Orders</h3>
+      <?php if( is_array($viewVars['supplierOrdersNotDeliveredList']) ){ ?>
+        
+        <form action="" method="post" id="supplierOrderListForm" target="_blank">
+          <input type="hidden" name="action" value="supplier_order_pdf_labels">
+          <table class="table table-condensed table-bordered">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Date</th>
+                <th>Expected delivery</th>
+                <th>Quantity</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+            <?php foreach( $viewVars['supplierOrdersNotDeliveredList'] as $supplierOrder ): ?>
+              <tr>
+                <td><?php echo $supplierOrder['order_name']?></td>
+                <td><?php echo Tools::displayDate($supplierOrder['order_date'])?></td>
+                <td><?php echo Tools::displayDate($supplierOrder['exp_arrive_date'])?></td>
+                <td><?php echo $supplierOrder['total_quantity'] .' / '. $supplierOrder['total_arrived']?></td>
+                <td>
+                  <button name="supplier_order_id" value="<?php echo $supplierOrder['id']?>" class="btn btn-default btn-xs">Print labels</button>
+                </td>
+              </tr>
+            <?php endforeach; ?>
+            </tbody>
+          </table>
+        </form>
+      <?php } else { ?>
+        <p class="alert alert-warning">No undelivered supplier orders</p>
+      <?php } ?>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-lg-12">
+        <h3>Products</h3>
+      <?php if(isset($viewVars['attributesList']) && count($viewVars['attributesList'])){ ?>
+        <form action="" method="post" id="listingForm">
+        <input name="action" value="list" type="hidden">
+        <table class="table table-condensed table-bordered">
+          
+          <thead>
+            <tr>
+              <th><input type="checkbox" id="toggleAllCheckboxes"></th>
+              <th>Image</th>
+              <th>Reference</th>
+              <th>Action</th>
+            </tr>
+            <tr>
+              <th></th>
+              <th></th>
+              <th><input value="<?php echo $viewVars['searchReference']?>" name="reference" class="form-control input-sm"></th>
+              <th>
+                <button type="submit" name="subact" value="search" class="btn btn-default btn-sm">Search</button>
+                <button type="submit" name="subact" value="reset" class="btn btn-default btn-sm">Reset</button>
+              </th>
+            </tr>
+
+          </thead>
+          <tbody>
+          <?php 
+          foreach($viewVars['attributesList'] as $attributeData ){
+              $image = new Image($attributeData['id_image']);
+              $imageUrl = Context::getContext()->shop->getBaseURL() .'img/p/'. $image->getExistingImgPath() . '-cart_default.jpg';
+              $imageBigUrl = Context::getContext()->shop->getBaseURL() .'img/p/'. $image->getExistingImgPath() . '-large_default.jpg';
+          ?>
+            <tr>
+              <td><input type="checkbox" name="id_product_attribute[]" value="<?php echo $attributeData['id_product_attribute']?>"></td>
+              <td><img src="<?php echo $imageUrl ?>" data-srcbig="<?php echo $imageBigUrl?>" alt="" class="listing-image"></td>
+              <td><?php echo $attributeData['supplier_reference']?></td>
+              <td></td>
+            </tr>
+          <?php } ?>
+          </tbody>
+        </table>
+        <div class="row row-margin">
+          <div class="col-lg-4">
+            <span class="pull-left">Records found: <?php echo $viewVars['attributesListTotalCount']?></span>
+          </div>
+          
+          <div class="col-lg-2 form-inline">
+            <div class="form-group">
+              <label>per page</label>
+              <?php $perPageOptions = array(50,100,300,1000);?>
+              <select name="per_page" class="form-control col-md-1">
+              <?php foreach($perPageOptions as $perPageOption){ ?>
+                <option <?php echo ($viewVars['paginationPerPage'] == $perPageOption ? 'selected' : '')?>><?php echo $perPageOption?></option>
+              <?php } ?>
+              </select> 
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="btn-group" role="group" aria-label="...">
+            <?php if( $viewVars['paginationPage'] > 1 ){ ?>
+              <button name="page" value="1" type="submit" class="btn btn-default">First</button>
+              <button name="page" value="<?php echo ($viewVars['paginationPage']-1)?>" type="submit" class="btn btn-default">Previous</button>
+            <?php } ?>
+              <span class="btn btn-default"><?php echo $viewVars['paginationPage']?></span>
+            <?php if( $viewVars['paginationPagesCount'] > $viewVars['paginationPage'] ){?>
+              <button name="page" value="<?php echo ($viewVars['paginationPage']+1)?>" type="submit" class="btn btn-default">Next</button>
+            <?php } ?>
+              
+            </div>
+            
+            
+
+          </div>
+          <div class="col-lg-4"></div>
+        </div>
+        
+        <div class="row row-margin">
+          <div class="col-lg-12 text-center">
+            <button type="submit" name="action" value="download_photos" class="btn btn-primary">Download photos</button>
+            <button type="submit" name="action" value="pdf_labels" class="btn btn-primary">Print PDF labels</button>
+          </div>
+        </div>
+        
+        </form>
+      <?php } ?>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

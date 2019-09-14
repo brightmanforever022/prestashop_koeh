@@ -1,0 +1,33 @@
+--- modules/orderedit/orderedit.php
++++ modules/orderedit/orderedit.php
+@@ -2180,9 +2180,8 @@
+                 {
+                     // quantity updated
+                     $msss_client->scheduleStockUpdateById($beforeOd['product_id'], $beforeOd['product_attribute_id'], 
+-                            $beforeOd['product_quantity']-$orderDetailsMapAfter[$key]['product_quantity'], $std_rq->order->id, 
+-                            $orderDetailsMapAfter[$key]['product_quantity']-$orderDetailsMapAfter[$key]['product_quantity_refunded']-
+-                            $orderDetailsMapAfter[$key]['product_quantity_return']-$orderDetailsMapAfter[$key]['shipped']);
++                            $beforeOd['product_quantity']-$orderDetailsMapAfter[$key]['product_quantity'], $std_rq->order->id 
++                            );
+                 }
+                 unset($orderDetailsMapAfter[$key]);
+             }
+@@ -2190,7 +2189,7 @@
+             {
+                 // product was deleted
+                 $msss_client->scheduleStockUpdateById($beforeOd['product_id'], $beforeOd['product_attribute_id'], 
+-                            $beforeOd['product_quantity'], $std_rq->order->id, 0);
++                            $beforeOd['product_quantity'], $std_rq->order->id);
+             }
+         }
+         
+@@ -2198,8 +2197,7 @@
+         foreach ($orderDetailsMapAfter as $afterOd)
+         {
+             $msss_client->scheduleStockUpdateById($afterOd['product_id'], $afterOd['product_attribute_id'], 
+-                            -$afterOd['product_quantity'], $std_rq->order->id, $afterOd['product_quantity']-
+-                    $afterOd['product_quantity_refunded']-$afterOd['product_quantity_return']-$afterOd['shipped']);
++                            -$afterOd['product_quantity'], $std_rq->order->id);
+         }
+         $msss_client->sendMessagesToServerParallel();
+         

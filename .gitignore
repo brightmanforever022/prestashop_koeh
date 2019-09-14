@@ -1,0 +1,16 @@
+/backup
+/cache
+/config
+/Core
+/cphpMyAdmin
+/docs
+/download
+/invoices
+/invoices_print
+/tmp
+/upload
+/img
+/log
+
+/.well-known
+/.vscode

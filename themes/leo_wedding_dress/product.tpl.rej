@@ -1,0 +1,16 @@
+--- themes/leo_wedding_dress/product.tpl
++++ themes/leo_wedding_dress/product.tpl
+@@ -475,8 +475,11 @@
+                                             <span class="available_status lower_stock " title="{l s='Delivery expected at'} {dateFormat date=$group.expected_delivery.$id_attribute full=false}" data-toggle="tooltip">
+                                             </span>
+                                         {elseif $group.attributes_quantity.$id_attribute > 0}
+-                                            <span class="available_status in_stock " title="{l s='Green'}" data-toggle="tooltip">
+-                                            </span>
++                                            {if $group.attributes_quantity.$id_attribute > $group.dbk_quantity.$id_attribute}
++                                                <span class="available_status in_stock " title="{l s='Green'}" data-toggle="tooltip"></span>
++                                            {else}
++                                                <span class="available_status lower_stock " title="{l s='Delivery expected at'} {dateFormat date=date('Y-m-d', time()+7*34*3600) full=false}" data-toggle="tooltip"></span>
++                                            {/if}
+                                         {/if}
+                                     </td>
+                                {/foreach}

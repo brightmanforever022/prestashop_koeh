@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+  <xml_version><![CDATA[2]]></xml_version>
+  <grids>
+    <grid>
+      <name><![CDATA[grid_combination]]></name>
+      <text>
+        <fr><![CDATA[]]></fr>
+        <en><![CDATA[]]></en>
+      </text>
+      <value><![CDATA[supplier_reference,quantity,ATTR,priceextax,ean13,price,pprice,ppriceextax,unit_price_impact,unit_price_impact_inc_tax,id_product_attribute,wholesale_price,default_on,upc]]></value>
+    </grid>
+  </grids>
+  <fields></fields>
+</extension>

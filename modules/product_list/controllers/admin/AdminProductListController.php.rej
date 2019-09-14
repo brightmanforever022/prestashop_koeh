@@ -1,0 +1,16 @@
+--- modules/product_list/controllers/admin/AdminProductListController.php
++++ modules/product_list/controllers/admin/AdminProductListController.php
+@@ -53,11 +53,11 @@
+             left join '. VIPDRESS_DB_NAME .'.'. VIPDRESS_DB_PREFIX.'product_attribute vpa on pa.supplier_reference=vpa.supplier_reference 
+             left join '. VIPDRESS_DB_NAME.'.os_dbk_sale vdsa on vdsa.ps_attr_id=vpa.id_product_attribute 
+             left join (select so.id, exp_arrive_date, soi.product_id, 
+-                group_concat(concat(ifnull(vpa1.supplier_reference, \'\'), \':\', soi.quantity) separator \',\') as delivery 
++                group_concat(concat(ifnull(vpa1.supplier_reference, \'\'), \':\', soi.quantity-arrived_quantity) separator \',\') as delivery 
+                 from '.VIPDRESS_DB_NAME.'.os_supplier_order_item soi 
+                 inner join '.VIPDRESS_DB_NAME.'.os_supplier_order so on soi.order_id=so.id and so.order_arrived=0 
+                 left join '.VIPDRESS_DB_NAME .'.'. VIPDRESS_DB_PREFIX.'product_attribute vpa1 on vpa1.id_product_attribute=soi.combination_id 
+-                where soi.quantity>0 
++                where soi.quantity-arrived_quantity>0 
+                 group by so.id, soi.product_id) vso on vso.product_id=vp.id_product 
+             left join ' . _DB_PREFIX_ .'stock_available sta on sta.id_product=a.id_product and sta.id_product_attribute=0 and sta.id_shop=' . $this->context->shop->id .' 
+             left join ' . _DB_PREFIX_ . 'stock_available sa1 on sa1.id_product=a.id_product and sa1.id_product_attribute=pa.id_product_attribute and sa1.id_shop=' . $this->context->shop->id.' 

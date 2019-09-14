@@ -1,0 +1,27 @@
+--- override/controllers/front/ProductController.php
++++ override/controllers/front/ProductController.php
+@@ -8,7 +8,7 @@
+         $groups = array();
+         $combinations = array();
+         
+-        $combinations_expected_delivery = $this->product->getExpectedDelivery();
++        $combinations_expected_delivery = $this->product->getExpectedDeliveryAndDbkStock();
+     
+         // @todo (RM) should only get groups and not all declination ?
+         $attributes_groups = $this->product->getAttributesGroups($this->context->language->id);
+@@ -122,6 +122,7 @@
+                                 'date' => $exp_del['exp_arrive_date'],
+                                 'quantity' => intval($exp_del['expected_quantity'])
+                             );
++                        $combinations[ $row['id_product_attribute'] ]['dbk_quantity'] = $exp_del['dbk_quantity'];
+                         /*$combinations[ $row['id_product_attribute'] ]['expected_delivery'] =
+                             $exp_del['exp_arrive_date'];*/
+                     }
+@@ -169,6 +170,7 @@
+                     if( in_array($combination['attributes'][0], array_keys($group['attributes'])) ){
+                         $groups[$gri]['expected_delivery'][ $combination['attributes'][0] ] = 
+                             $combination['expected_delivery'];
++                        $groups[$gri]['dbk_quantity'][ $combination['attributes'][0] ] = $combination['dbk_quantity'];
+                     }
+                 }
+             }

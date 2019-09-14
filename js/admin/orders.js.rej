@@ -1,0 +1,10 @@
+--- js/admin/orders.js
++++ js/admin/orders.js
+@@ -310,6 +310,7 @@
+ 
+ function updateDocuments(documents_html)
+ {
++    return;
+ 	$('#documents_table').attr('id', 'documents_table_old');
+ 	$('#documents_table_old').after(documents_html);
+ 	$('#documents_table_old').remove();

@@ -1,0 +1,5 @@
+AuthType basic
+AuthUserFile "/home/koehlert/public_html/xcache1234/.htpasswd"
+AuthGroupFile /dev/null
+AuthName "Secure directory"
+Require valid-user

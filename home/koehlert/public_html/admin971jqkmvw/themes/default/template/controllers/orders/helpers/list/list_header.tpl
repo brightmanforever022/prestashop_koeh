@@ -1,0 +1,222 @@
+{*
+* 2007-2015 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author PrestaShop SA <contact@prestashop.com>
+*  @copyright  2007-2015 PrestaShop SA
+*  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*}
+
+{extends file="helpers/list/list_header.tpl"}
+
+{block name=leadin}
+{if !empty($smarty.request.orders_search)}
+    {assign var=show_filters value=1}    
+    {assign var=filters_has_value value=1}    
+{/if}
+{if isset($updateOrderStatus_mode) && $updateOrderStatus_mode}
+	<div class="panel">
+		<div class="panel-heading">
+			{l s='Choose an order status'}
+		</div>
+		<form action="{$REQUEST_URI}" method="post">
+			<div class="radio">
+				<label for="id_order_state">
+					<select id="id_order_state" name="id_order_state">
+{foreach from=$order_statuses item=order_status_name key=id_order_state}
+						<option value="{$id_order_state|intval}">{$order_status_name|escape}</option>
+{/foreach}
+					</select>
+				</label>
+			</div>
+{foreach $POST as $key => $value}
+	{if is_array($value)}
+		{foreach $value as $val}
+			<input type="hidden" name="{$key|escape:'html':'UTF-8'}[]" value="{$val|escape:'html':'UTF-8'}" />
+		{/foreach}
+	{elseif strtolower($key) != 'id_order_state'}
+			<input type="hidden" name="{$key|escape:'html':'UTF-8'}" value="{$value|escape:'html':'UTF-8'}" />
+
+	{/if}
+{/foreach}
+			<div class="panel-footer">
+				<button type="submit" name="cancel" class="btn btn-default">
+					<i class="icon-remove"></i>
+					{l s='Cancel'}
+				</button>
+				<button type="submit" class="btn btn-default" name="submitUpdateOrderStatus">
+					<i class="icon-check"></i>
+					{l s='Update Order Status'}
+				</button>
+			</div>
+		</form>
+	</div>
+{/if}
+{/block}
+{block name="preTable"}
+    <table style="width:100%">
+        <tr>
+            <td>{l s='Search:'}&nbsp;&nbsp;</td>
+            <td style="width:100%"><input type="text" name="orders_search" value="{if !empty($smarty.request.orders_search)}{$smarty.request.orders_search}{/if}" autocomplete="off" />
+                <a href="#" onClick="$('#searchOptions').slideToggle();">{l s='Search options'}</a>
+            </td>
+        </tr>
+        <tr id="searchOptions" style="display:none">
+              <td colspan="2">{l s='Search in fileds:'}
+                  <input type="hidden" name="scfg[customer_name]" value="0" />
+              <input type="checkbox" name="scfg[customer_name]" value="1" {if !isset($smarty.request.scfg.customer_name) || !empty($smarty.request.scfg.customer_name)}checked="checked"{/if} autocomplete="off"> {l s='Customer Name'}&nbsp;&nbsp;
+              <input type="hidden" name="scfg[customer_email]" value="0" />
+              <input type="checkbox" name="scfg[customer_email]" value="1" {if !isset($smarty.request.scfg.customer_email) || !empty($smarty.request.scfg.customer_email)}checked="checked"{/if} autocomplete="off"> {l s='Customer Email'}&nbsp;&nbsp;
+              <input type="hidden" name="scfg[customer_address]" value="0" />
+              <input type="checkbox" name="scfg[customer_address]" value="1" {if !isset($smarty.request.scfg.customer_address) || !empty($smarty.request.scfg.customer_address)}checked="checked"{/if} autocomplete="off"> {l s='Customer address'}&nbsp;&nbsp;
+              <input type="hidden" name="scfg[customer_phone]" value="0" />
+               <input type="checkbox" name="scfg[customer_phone]" value="1" {if !isset($smarty.request.scfg.customer_phone) || !empty($smarty.request.scfg.customer_phone)}checked="checked"{/if} autocomplete="off"> {l s='Customer Phone'}&nbsp;&nbsp;
+               {*<input type="checkbox" name="scfg[order_id]" value="1" {if !isset($smarty.request.scfg.order_id) || !empty($smarty.request.scfg.order_id)}checked="checked"{/if} autocomplete="off"> {l s='Order id'}&nbsp;&nbsp;*}
+               <input type="hidden" name="scfg[product_id]" value="0" />
+               <input type="checkbox" name="scfg[product_id]" value="1" {if !isset($smarty.request.scfg.product_id) || !empty($smarty.request.scfg.product_id)}checked="checked"{/if} autocomplete="off"> {l s='Product id'}&nbsp;&nbsp;
+               <input type="hidden" name="scfg[supplier_reference]" value="0" />
+               <input type="checkbox" name="scfg[supplier_reference]" value="1" {if !isset($smarty.request.scfg.supplier_reference) || !empty($smarty.request.scfg.supplier_reference)}checked="checked"{/if} autocomplete="off"> {l s='Supplier reference'}&nbsp;&nbsp;
+               <input type="hidden" name="scfg[product_name]" value="0" />
+               <input type="checkbox" name="scfg[product_name]" value="1" {if !isset($smarty.request.scfg.product_name) || !empty($smarty.request.scfg.product_name)}checked="checked"{/if} autocomplete="off"> {l s='Product name'}&nbsp;&nbsp;
+               <input type="hidden" name="scfg[invoice_id]" value="0" />
+               <input type="checkbox" name="scfg[invoice_id]" value="1" {if !isset($smarty.request.scfg.invoice_id) || !empty($smarty.request.scfg.invoice_id)}checked="checked"{/if} autocomplete="off"> {l s='Invoice id'}&nbsp;&nbsp;
+               <input type="hidden" name="scfg[supplier_name]" value="0" />
+               <input type="checkbox" name="scfg[supplier_name]" value="1" {if !isset($smarty.request.scfg.supplier_name) || !empty($smarty.request.scfg.supplier_name)}checked="checked"{/if} autocomplete="off"> {l s='Supplier name'}&nbsp;&nbsp;
+               <input type="hidden" name="scfg[country_name]" value="0" />
+               <input type="checkbox" name="scfg[country_name]" value="1" {if !isset($smarty.request.scfg.country_name) || !empty($smarty.request.scfg.country_name)}checked="checked"{/if} autocomplete="off"> {l s='Country name'}&nbsp;&nbsp;
+               	<input type="hidden" name="scfg[company_name]" value="0" />
+               	<input type="checkbox" name="scfg[company_name]" value="1" {if !isset($smarty.request.scfg.company_name) || !empty($smarty.request.scfg.company_name)}checked="checked"{/if} autocomplete="off"> {l s='Company'}
+               	<input type="hidden" name="scfg[notes]" value="0" />
+               	<input type="checkbox" name="scfg[notes]" value="1" {if !isset($smarty.request.scfg.notes) || !empty($smarty.request.scfg.notes)}checked="checked"{/if} autocomplete="off"> {l s='Notes'}
+               	|
+               	<p>{l s='Postcode starts..'}
+               	{if isset($smarty.request.postcode_starts)}
+					{assign var=postcode_starts_selected value=$smarty.request.postcode_starts}
+				{else}
+					{assign var=postcode_starts_selected value=[]}
+				{/if}
+               	{html_checkboxes name='postcode_starts' values=$postcode_options output=$postcode_options
+					selected=$postcode_starts_selected  separator=' &nbsp; '}
+               	</p>
+               <div class="clearfix">
+	               <div style="width:20%;float:left;margin-right:10px">
+	               {l s='Order type'}
+	               {html_options name='id_order_type[]' id='id_order_type' options=$order_types selected=$order_type_selected multiple='multiple'}
+	               </div>
+	               <div style="width:20%;float:left;margin-right:10px">
+	               {l s='Order statuses'}
+	               {html_options name='id_order_statuses[]' id='id_order_statuses' options=$order_statuses selected=$order_statuses_selected multiple='multiple'}
+	               </div>
+	               <div style="width:20%;float:left;margin-right:10px;">
+	               {l s='Supplier'}
+	               {html_options name='id_supplier[]' id='id_supplier' options=$supplier_filter_options selected=$supplier_filter_selected multiple='multiple'}
+	               </div>
+
+               </div>
+               
+               <div>
+               
+               <input type="checkbox" name="not_shipped" value="1" {if isset($smarty.request.not_shipped) && !empty($smarty.request.not_shipped)}checked="checked"{/if} autocomplete="off"> {l s='Not shipped (Orders that has not shipped products)'}&nbsp;&nbsp;
+               
+               <br>
+               <input type="checkbox" name="invoice_30_paid" value="1" {if isset($smarty.request.invoice_30_paid) && !empty($smarty.request.invoice_30_paid)}checked="checked"{/if}> {l s='30% invoice is paid'}&nbsp;&nbsp;
+               <br>
+               <input type="checkbox" name="invoice_prepay_paid" value="1" {if isset($smarty.request.invoice_prepay_paid) && !empty($smarty.request.invoice_prepay_paid)}checked="checked"{/if}> {l s='Advanced payment invoice is paid'}&nbsp;&nbsp;
+               <br>
+
+               <input type="checkbox" name="ship_by_invoice" value="1" {if isset($smarty.request.ship_by_invoice) && !empty($smarty.request.ship_by_invoice)}checked="checked"{/if}> {l s='Ship by invoice'}&nbsp;&nbsp;
+               <br>
+               <input type="checkbox" name="noship_paid30_shipinvoice" value="1" {if isset($smarty.request.noship_paid30_shipinvoice) && !empty($smarty.request.noship_paid30_shipinvoice)}checked="checked"{/if}> 
+               	{l s='Orders that has not shipped products AND 30% invoice is paid OR customer is Ship by invoice customer OR Advanced payment invoice is paid'}&nbsp;&nbsp;
+                <br>
+                <input type="checkbox" name="can_be_shipped_only" value="1" {if isset($smarty.request.can_be_shipped_only) && !empty($smarty.request.can_be_shipped_only)}checked="checked"{/if}> 
+               	{l s='Show only orders that can be shipped by stock state and shipping priority'}&nbsp;&nbsp;
+				<br>
+               	{l s='Customers that has overdued invoices (marked red)'}:
+				{html_radios name='overdued_customers' options=$overdued_filter_options selected=$overdued_filter_selected
+					labels=false}
+               </div>
+              </td>
+        </tr>
+    </table>
+    
+    <a href="#" onClick="$('#filtersDescription').slideToggle();">{l s='Filters description'}</a>  &nbsp;&nbsp;
+    <a href="{$currentIndex|escape:'html':'UTF-8'}&token={$token|escape:'html':'UTF-8'}&getSmartShippingList">{l s='Smart shipping list'}</a> 
+    <i class="icon-info-circle fa-2x" id="smartShippingListHelpIcon" rel="#smartShippingListHelp"></i>
+    <ul id="filtersDescription" style="display:none">
+    	<li>
+    		<strong>{l s='May be shipped'}</strong>: 
+    		Product not shipped and (Order quantity minus Quantity refunded minus Quantity returned) 
+    		is higher than 0 and Physical stock of product is higher than 0.
+    	</li>
+    </ul>
+    <div id="smartShippingListHelp" style="display:none">
+        <div>
+            Generates pdf list of products that can be shipped right now. Products are grouped by order. 
+            Orders for list are selected by following rules:
+            <ol>
+                <li>Orders of customers, who has overdued not paid invoices, are ignored ("red" customers).</li>
+                <li>Orders of customers, who has not paid invoices on sum more then credit limit, are ignored (orange customers). </li>
+                <li>Only orders, that have not shipped products which can be shipped according with shipping priority, are taken into account.</li>
+                <li>Only orders, that 30% invoice is paid OR customer is Ship by invoice customer OR Advanced payment invoice is paid, are taken into account. </li>
+                <li>Orders with statuses 15, 18, 19, 16, 42 are ignored.</li>
+            </ol>
+            <br>
+            Shipping priority is calculated by following rules:<br>
+            Common rule is that earlier order should be shipped earlier, products are reserved for order even if it is not paid yet.<br/>
+            We calculate quantity of products available to fulfil current ordered item and show this quantity as "avail for ship".<br/>
+            Here is formulas by which we calculate this quantity:<br>
+            physQty = avail(db stock) + notShippedKoehlert + notShippedDbk  -- quantity physically presenting in our wirehouse (part in vipdress, part in dbk)<br>
+            avForCurAndBelow = physQty - sumQtyOfHigherPriorityOrders(dbk preorders+koehlert) -- available for ship in current order and in orders below by priority<br>
+            avForCurAndBelow = avail(db stock) + notShippedDbkCurAndBelow + notShippiedKhlCurAndBelow <br>
+            if avForCurAndBelow<=0 it means we need to ship -avForCurAndBelow items first (in higher priority orders) to start to fulfil current order<br>
+            if avForCurAndBelow<=0, then we need to look in supplier orders. To understand that supplier order may be used for current order we calculate following:<br>
+            supOrderOffset = sum of all earlier orders + curSupOrderQty -- position of supplier order in supplier order queue<br>
+            What supplier order can be used to fulfil current order? :<br>
+            1. All that have supOrderOffset > -avForCurAndBelow -- other words supOrderOffset fulfils all higher priority orders<br>
+            2. There may be many such supplier orders. We need to take from supplier orders only ordered quantity for current order. I.e. we don't need supplier orders
+            that start from offset greater, then we need to fulfil current order:
+            supOrderOffset - soOrdered > -(avForCurAndBelow - ordered), we need:
+supOrderOffset - soOrdered <= -(avForCurAndBelow - ordered)
+        </div>
+    </div>
+         
+<script>
+    $("#id_order_type").multipleSelect({
+        multiple: true,
+        multipleWidth: 100
+    });
+    $("#id_order_statuses").multipleSelect({
+        multiple: true,
+        multipleWidth: 200
+    });
+    $("#id_supplier").multipleSelect({
+        multiple: true,
+        multipleWidth: 200
+    });
+
+$(function(){
+    $('select[name="orderFilter_country!id_country[]"]').multipleSelect({
+        multiple: true,
+        multipleWidth: 100
+    });
+    $('#smartShippingListHelpIcon').cluetip({ local: true, showTitle: false, cluezIndex: 108, width:700});
+});
+</script>
+{/block}

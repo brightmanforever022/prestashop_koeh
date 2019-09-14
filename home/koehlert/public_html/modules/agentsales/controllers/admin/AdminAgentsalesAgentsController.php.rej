@@ -1,0 +1,72 @@
+--- modules/agentsales/controllers/admin/AdminAgentsalesAgentsController.php
++++ modules/agentsales/controllers/admin/AdminAgentsalesAgentsController.php
+@@ -54,6 +54,15 @@
+                 'filter_key' => 'o!id_order',
+                 'filter_type' => 'int',
+             ),
++            'order_date_add' => array(
++                'title' => $this->l('Order date'),
++                'type' => 'date',
++                'filter_key' => 'o!date_add',
++            ),
++            'total_paid_tax_excl' => array(
++                'title' => $this->l('Order total tax excl'),
++                'type' => 'price',
++            ),
+             'invoice_total_products' => array(
+                 'title' => $this->l('Inv. total'),
+                 'type' => 'price',
+@@ -85,7 +94,7 @@
+             'invoice_date_add' => array(
+                 'title' => $this->l('Inv. date'),
+                 'align' => 'text-right',
+-                'type' => 'datetime',
++                'type' => 'date',
+                 //'callback' => 'showInvoiceNumber',
+                 'filter_key' => 'oi!date_add',
+                 //'filter_type' => 'int',
+@@ -102,7 +111,7 @@
+             'invoice_payment_day' => array(
+                 'title' => $this->l('Payment date'),
+                 'align' => 'text-right',
+-                'type' => 'datetime',
++                'type' => 'date',
+                 //'callback' => 'showInvoiceNumber',
+                 'filter_key' => 'oi!payment_date',
+                 //'filter_type' => 'int',
+@@ -130,7 +139,7 @@
+         $this->_select = '
+             a.paidout AS invoice_paidout,
+             CONCAT_WS(" ", ca.`firstname`, ca.lastname) AS agent_name,
+-            o.`id_order`, o.`reference` AS order_reference, 
++            o.`id_order`, o.`reference` AS order_reference, o.date_add as order_date_add, o.total_paid_tax_excl,
+             IF((bai.payment_type != '. BaOrderInvoice::PAYMENT_TYPE_CREDIT_SLIP .') OR 
+                 (bai.payment_type = '. BaOrderInvoice::PAYMENT_TYPE_CREDIT_SLIP .' AND oi.`sum_to_pay` < 0 ), 
+                 (oi.`sum_to_pay` - (oi.`sum_to_pay` * '.$taxValue.' / (100 + '.$taxValue.'))),
+@@ -150,9 +159,9 @@
+                 )
+             ) AS invoice_commision,
+             oi.date_add AS invoice_date_add, oi.payment_date as invoice_payment_day,
+-            IF(LENGTH(cc.company), 
++            concat(IF(LENGTH(cc.company), 
+                 CONCAT(cc.`firstname`, " ", cc.lastname, " (", cc.company, ")"), 
+-                CONCAT(cc.`firstname`, " ", cc.lastname) ) AS customer_name,
++                CONCAT(cc.`firstname`, " ", cc.lastname) ),", ",cc.id_customer) AS customer_name,
+             oi.id_order_invoice, oi.paid AS invoice_paid, oi.number AS invoice_number
+         ';
+         $this->_join = '
+@@ -1030,6 +1039,14 @@
+     }
+     
+     /*
++    public function renderList()
++    {
++        $listHtml = parent::renderList();
++
++        echo $this->_listsql;
++        return $listHtml;
++    }*/
++    /*
+     private function _addMissedCommisions()
+     {
+         $query = '

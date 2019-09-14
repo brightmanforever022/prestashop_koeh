@@ -1,0 +1,12 @@
+--- override/classes/order/OrderDetail.php
++++ override/classes/order/OrderDetail.php
+@@ -144,8 +144,7 @@
+     {
+         $msss_client = ModuleCore::getInstanceByName('msss_client');
+         $msss_client->scheduleStockUpdateById($this->product_id, $this->product_attribute_id,
+-                        0, $this->id_order, $this->product_quantity - $this->product_quantity_refunded - $this->product_quantity_return -
+-                    $this->shipped);
++                        0, $this->id_order);
+         $msss_client->sendMessagesToServerParallel();
+     }
+     

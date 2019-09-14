@@ -1,0 +1,981 @@
+00H00 Launch batch
+SHOP ID:1
+============================================================================00H00 SHOP ID:1
+00H00 SHOP                   : 1
+00H00 ************ STEP CHECK NEW CART REMINDER ****************
+00H00 **** START                  : 00:00:01.699247
+00H00 MAIN SQL               START: 00:00:01.699274
+00H00 MAIN SQL               END: 00:00:01.711602
+00H00 Carts to check  : 18
+00H00 *** CART 10476 ***
+00H00 Cart update          : 2019-09-11 10:45:37
+00H00 Rule                : No rule applicable
+00H00 *** CART 10478 ***
+00H00 Cart update          : 2019-09-11 11:17:13
+00H00 Rule                : No rule applicable
+00H00 *** CART 10483 ***
+00H00 Cart update          : 2019-09-11 12:20:48
+00H00 Rule                : No rule applicable
+00H00 *** CART 10484 ***
+00H00 Cart update          : 2019-09-11 13:53:28
+00H00 Rule                : No rule applicable
+00H00 *** CART 10485 ***
+00H00 Cart update          : 2019-09-11 13:58:08
+00H00 Rule                : No rule applicable
+00H00 *** CART 10487 ***
+00H00 Cart update          : 2019-09-11 15:47:16
+00H00 Rule                : No rule applicable
+00H00 *** CART 10490 ***
+00H00 Cart update          : 2019-09-11 16:56:22
+00H00 Rule                : No rule applicable
+00H00 *** CART 10493 ***
+00H00 Cart update          : 2019-09-11 17:28:38
+00H00 Rule                : No rule applicable
+00H00 *** CART 10494 ***
+00H00 Cart update          : 2019-09-11 18:43:07
+00H00 Rule                : No rule applicable
+00H00 *** CART 10495 ***
+00H00 Cart update          : 2019-09-11 18:50:42
+00H00 Rule                : No rule applicable
+00H00 *** CART 10496 ***
+00H00 Cart update          : 2019-09-11 22:26:52
+00H00 Rule                : No rule applicable
+00H00 *** CART 10497 ***
+00H00 Cart update          : 2019-09-11 23:05:45
+00H00 Rule                : No rule applicable
+00H00 *** CART 10498 ***
+00H00 Cart update          : 2019-09-12 09:37:59
+00H00 Rule                : No rule applicable
+00H00 *** CART 10500 ***
+00H00 Cart update          : 2019-09-12 11:02:50
+00H00 Rule                : No rule applicable
+00H00 *** CART 10501 ***
+00H00 Cart update          : 2019-09-12 12:47:31
+00H00 Rule                : No rule applicable
+00H00 *** CART 10504 ***
+00H00 Cart update          : 2019-09-12 14:44:08
+00H00 Rule                : No rule applicable
+00H00 *** CART 10503 ***
+00H00 Cart update          : 2019-09-12 15:16:09
+00H00 Rule                : Reminder1
+00H00 Preview to launch         : 2019-09-13 03:16:09
+00H00 Reminder position         : 1
+00H00 Reminder nb hours         : 4.00
+00H00 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+00H00 Reminder manual           : 0
+00H00 Time left                 : 11768
+00H00 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-13 03:16:09
+00H00 *** CART 10506 ***
+00H00 Cart update          : 2019-09-12 15:27:17
+00H00 Rule                : No rule applicable
+00H00 END                  : 00:00:01.716817
+00H00 ************ STEP CLEANING  ****************
+00H00 END                  : 00:00:01.720119
+00H00 ************ STEP CHECK RUNNING REMINDER  ****************
+00H00 **** START                  : 00:00:01.720179
+00H00 *** CART 10301 ***
+00H00 Execution date not reached
+00H00 *** CART 10312 ***
+00H00 Execution date not reached
+00H00 *** CART 10357 ***
+00H00 Execution date not reached
+00H00 *** CART 10371 ***
+00H00 Execution date not reached
+00H00 *** CART 10372 ***
+00H00 Execution date not reached
+00H00 *** CART 10405 ***
+00H00 Execution date not reached
+00H00 *** CART 10409 ***
+00H00 Execution date not reached
+00H00 *** CART 10466 ***
+00H00 Execution date not reached
+00H00 *** CART 10491 ***
+00H00 Execution date not reached
+00H00 *** CART 10499 ***
+00H00 Execution date not reached
+00H00 END                  : 00:00:01.732428
+00H15 Launch batch
+SHOP ID:1
+============================================================================00H15 SHOP ID:1
+00H15 SHOP                   : 1
+00H15 ************ STEP CHECK NEW CART REMINDER ****************
+00H15 **** START                  : 00:15:01.999362
+00H15 MAIN SQL               START: 00:15:01.999395
+00H15 MAIN SQL               END: 00:15:02.18016
+00H15 Carts to check  : 18
+00H15 *** CART 10476 ***
+00H15 Cart update          : 2019-09-11 10:45:37
+00H15 Rule                : No rule applicable
+00H15 *** CART 10478 ***
+00H15 Cart update          : 2019-09-11 11:17:13
+00H15 Rule                : No rule applicable
+00H15 *** CART 10483 ***
+00H15 Cart update          : 2019-09-11 12:20:48
+00H15 Rule                : No rule applicable
+00H15 *** CART 10484 ***
+00H15 Cart update          : 2019-09-11 13:53:28
+00H15 Rule                : No rule applicable
+00H15 *** CART 10485 ***
+00H15 Cart update          : 2019-09-11 13:58:08
+00H15 Rule                : No rule applicable
+00H15 *** CART 10487 ***
+00H15 Cart update          : 2019-09-11 15:47:16
+00H15 Rule                : No rule applicable
+00H15 *** CART 10490 ***
+00H15 Cart update          : 2019-09-11 16:56:22
+00H15 Rule                : No rule applicable
+00H15 *** CART 10493 ***
+00H15 Cart update          : 2019-09-11 17:28:38
+00H15 Rule                : No rule applicable
+00H15 *** CART 10494 ***
+00H15 Cart update          : 2019-09-11 18:43:07
+00H15 Rule                : No rule applicable
+00H15 *** CART 10495 ***
+00H15 Cart update          : 2019-09-11 18:50:42
+00H15 Rule                : No rule applicable
+00H15 *** CART 10496 ***
+00H15 Cart update          : 2019-09-11 22:26:52
+00H15 Rule                : No rule applicable
+00H15 *** CART 10497 ***
+00H15 Cart update          : 2019-09-11 23:05:45
+00H15 Rule                : No rule applicable
+00H15 *** CART 10498 ***
+00H15 Cart update          : 2019-09-12 09:37:59
+00H15 Rule                : No rule applicable
+00H15 *** CART 10500 ***
+00H15 Cart update          : 2019-09-12 11:02:50
+00H15 Rule                : No rule applicable
+00H15 *** CART 10501 ***
+00H15 Cart update          : 2019-09-12 12:47:31
+00H15 Rule                : No rule applicable
+00H15 *** CART 10504 ***
+00H15 Cart update          : 2019-09-12 14:44:08
+00H15 Rule                : No rule applicable
+00H15 *** CART 10503 ***
+00H15 Cart update          : 2019-09-12 15:16:09
+00H15 Rule                : Reminder1
+00H15 Preview to launch         : 2019-09-13 03:16:09
+00H15 Reminder position         : 1
+00H15 Reminder nb hours         : 4.00
+00H15 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+00H15 Reminder manual           : 0
+00H15 Time left                 : 10867
+00H15 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-13 03:16:09
+00H15 *** CART 10506 ***
+00H15 Cart update          : 2019-09-12 15:27:17
+00H15 Rule                : No rule applicable
+00H15 END                  : 00:15:02.26425
+00H15 ************ STEP CLEANING  ****************
+00H15 END                  : 00:15:02.32225
+00H15 ************ STEP CHECK RUNNING REMINDER  ****************
+00H15 **** START                  : 00:15:02.32315
+00H15 *** CART 10301 ***
+00H15 Execution date not reached
+00H15 *** CART 10312 ***
+00H15 Execution date not reached
+00H15 *** CART 10357 ***
+00H15 Execution date not reached
+00H15 *** CART 10371 ***
+00H15 Execution date not reached
+00H15 *** CART 10372 ***
+00H15 Execution date not reached
+00H15 *** CART 10405 ***
+00H15 Execution date not reached
+00H15 *** CART 10409 ***
+00H15 Execution date not reached
+00H15 *** CART 10466 ***
+00H15 Execution date not reached
+00H15 *** CART 10491 ***
+00H15 Execution date not reached
+00H15 *** CART 10499 ***
+00H15 Execution date not reached
+00H15 END                  : 00:15:02.45124
+00H30 Launch batch
+SHOP ID:1
+============================================================================00H30 SHOP ID:1
+00H30 SHOP                   : 1
+00H30 ************ STEP CHECK NEW CART REMINDER ****************
+00H30 **** START                  : 00:30:01.962008
+00H30 MAIN SQL               START: 00:30:01.962034
+00H30 MAIN SQL               END: 00:30:01.980842
+00H30 Carts to check  : 18
+00H30 *** CART 10476 ***
+00H30 Cart update          : 2019-09-11 10:45:37
+00H30 Rule                : No rule applicable
+00H30 *** CART 10478 ***
+00H30 Cart update          : 2019-09-11 11:17:13
+00H30 Rule                : No rule applicable
+00H30 *** CART 10483 ***
+00H30 Cart update          : 2019-09-11 12:20:48
+00H30 Rule                : No rule applicable
+00H30 *** CART 10484 ***
+00H30 Cart update          : 2019-09-11 13:53:28
+00H30 Rule                : No rule applicable
+00H30 *** CART 10485 ***
+00H30 Cart update          : 2019-09-11 13:58:08
+00H30 Rule                : No rule applicable
+00H30 *** CART 10487 ***
+00H30 Cart update          : 2019-09-11 15:47:16
+00H30 Rule                : No rule applicable
+00H30 *** CART 10490 ***
+00H30 Cart update          : 2019-09-11 16:56:22
+00H30 Rule                : No rule applicable
+00H30 *** CART 10493 ***
+00H30 Cart update          : 2019-09-11 17:28:38
+00H30 Rule                : No rule applicable
+00H30 *** CART 10494 ***
+00H30 Cart update          : 2019-09-11 18:43:07
+00H30 Rule                : No rule applicable
+00H30 *** CART 10495 ***
+00H30 Cart update          : 2019-09-11 18:50:42
+00H30 Rule                : No rule applicable
+00H30 *** CART 10496 ***
+00H30 Cart update          : 2019-09-11 22:26:52
+00H30 Rule                : No rule applicable
+00H30 *** CART 10497 ***
+00H30 Cart update          : 2019-09-11 23:05:45
+00H30 Rule                : No rule applicable
+00H30 *** CART 10498 ***
+00H30 Cart update          : 2019-09-12 09:37:59
+00H30 Rule                : No rule applicable
+00H30 *** CART 10500 ***
+00H30 Cart update          : 2019-09-12 11:02:50
+00H30 Rule                : No rule applicable
+00H30 *** CART 10501 ***
+00H30 Cart update          : 2019-09-12 12:47:31
+00H30 Rule                : No rule applicable
+00H30 *** CART 10504 ***
+00H30 Cart update          : 2019-09-12 14:44:08
+00H30 Rule                : No rule applicable
+00H30 *** CART 10503 ***
+00H30 Cart update          : 2019-09-12 15:16:09
+00H30 Rule                : Reminder1
+00H30 Preview to launch         : 2019-09-13 03:16:09
+00H30 Reminder position         : 1
+00H30 Reminder nb hours         : 4.00
+00H30 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+00H30 Reminder manual           : 0
+00H30 Time left                 : 9967
+00H30 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-13 03:16:09
+00H30 *** CART 10506 ***
+00H30 Cart update          : 2019-09-12 15:27:17
+00H30 Rule                : No rule applicable
+00H30 END                  : 00:30:02.12510
+00H30 ************ STEP CLEANING  ****************
+00H30 END                  : 00:30:02.17723
+00H30 ************ STEP CHECK RUNNING REMINDER  ****************
+00H30 **** START                  : 00:30:02.17820
+00H30 *** CART 10301 ***
+00H30 Execution date not reached
+00H30 *** CART 10312 ***
+00H30 Execution date not reached
+00H30 *** CART 10357 ***
+00H30 Execution date not reached
+00H30 *** CART 10371 ***
+00H30 Execution date not reached
+00H30 *** CART 10372 ***
+00H30 Execution date not reached
+00H30 *** CART 10405 ***
+00H30 Execution date not reached
+00H30 *** CART 10409 ***
+00H30 Execution date not reached
+00H30 *** CART 10466 ***
+00H30 Execution date not reached
+00H30 *** CART 10491 ***
+00H30 Execution date not reached
+00H30 *** CART 10499 ***
+00H30 Execution date not reached
+00H30 END                  : 00:30:02.30476
+00H45 Launch batch
+SHOP ID:1
+============================================================================00H45 SHOP ID:1
+00H45 SHOP                   : 1
+00H45 ************ STEP CHECK NEW CART REMINDER ****************
+00H45 **** START                  : 00:45:01.242938
+00H45 MAIN SQL               START: 00:45:01.243013
+00H45 MAIN SQL               END: 00:45:01.258643
+00H45 Carts to check  : 19
+00H45 *** CART 10476 ***
+00H45 Cart update          : 2019-09-11 10:45:37
+00H45 Rule                : No rule applicable
+00H45 *** CART 10478 ***
+00H45 Cart update          : 2019-09-11 11:17:13
+00H45 Rule                : No rule applicable
+00H45 *** CART 10483 ***
+00H45 Cart update          : 2019-09-11 12:20:48
+00H45 Rule                : No rule applicable
+00H45 *** CART 10484 ***
+00H45 Cart update          : 2019-09-11 13:53:28
+00H45 Rule                : No rule applicable
+00H45 *** CART 10485 ***
+00H45 Cart update          : 2019-09-11 13:58:08
+00H45 Rule                : No rule applicable
+00H45 *** CART 10487 ***
+00H45 Cart update          : 2019-09-11 15:47:16
+00H45 Rule                : No rule applicable
+00H45 *** CART 10490 ***
+00H45 Cart update          : 2019-09-11 16:56:22
+00H45 Rule                : No rule applicable
+00H45 *** CART 10493 ***
+00H45 Cart update          : 2019-09-11 17:28:38
+00H45 Rule                : No rule applicable
+00H45 *** CART 10494 ***
+00H45 Cart update          : 2019-09-11 18:43:07
+00H45 Rule                : No rule applicable
+00H45 *** CART 10495 ***
+00H45 Cart update          : 2019-09-11 18:50:42
+00H45 Rule                : No rule applicable
+00H45 *** CART 10496 ***
+00H45 Cart update          : 2019-09-11 22:26:52
+00H45 Rule                : No rule applicable
+00H45 *** CART 10497 ***
+00H45 Cart update          : 2019-09-11 23:05:45
+00H45 Rule                : No rule applicable
+00H45 *** CART 10498 ***
+00H45 Cart update          : 2019-09-12 09:37:59
+00H45 Rule                : No rule applicable
+00H45 *** CART 10500 ***
+00H45 Cart update          : 2019-09-12 11:02:50
+00H45 Rule                : No rule applicable
+00H45 *** CART 10501 ***
+00H45 Cart update          : 2019-09-12 12:47:31
+00H45 Rule                : No rule applicable
+00H45 *** CART 10504 ***
+00H45 Cart update          : 2019-09-12 14:44:08
+00H45 Rule                : No rule applicable
+00H45 *** CART 10503 ***
+00H45 Cart update          : 2019-09-12 15:16:09
+00H45 Rule                : Reminder1
+00H45 Preview to launch         : 2019-09-13 03:16:09
+00H45 Reminder position         : 1
+00H45 Reminder nb hours         : 4.00
+00H45 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+00H45 Reminder manual           : 0
+00H45 Time left                 : 9068
+00H45 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-13 03:16:09
+00H45 *** CART 10506 ***
+00H45 Cart update          : 2019-09-12 15:27:17
+00H45 Rule                : No rule applicable
+00H45 *** CART 10509 ***
+00H45 Cart update          : 2019-09-12 16:32:57
+00H45 Rule                : No rule applicable
+00H45 END                  : 00:45:01.283522
+00H45 ************ STEP CLEANING  ****************
+00H45 END                  : 00:45:01.289209
+00H45 ************ STEP CHECK RUNNING REMINDER  ****************
+00H45 **** START                  : 00:45:01.289331
+00H45 *** CART 10301 ***
+00H45 Execution date not reached
+00H45 *** CART 10312 ***
+00H45 Execution date not reached
+00H45 *** CART 10357 ***
+00H45 Execution date not reached
+00H45 *** CART 10371 ***
+00H45 Execution date not reached
+00H45 *** CART 10372 ***
+00H45 Execution date not reached
+00H45 *** CART 10405 ***
+00H45 Execution date not reached
+00H45 *** CART 10409 ***
+00H45 Execution date not reached
+00H45 *** CART 10466 ***
+00H45 Execution date not reached
+00H45 *** CART 10491 ***
+00H45 Execution date not reached
+00H45 *** CART 10499 ***
+00H45 Execution date not reached
+00H45 END                  : 00:45:01.303222
+01H00 Launch batch
+SHOP ID:1
+============================================================================01H00 SHOP ID:1
+01H00 SHOP                   : 1
+01H00 ************ STEP CHECK NEW CART REMINDER ****************
+01H00 **** START                  : 01:00:02.23613
+01H00 MAIN SQL               START: 01:00:02.23643
+01H00 MAIN SQL               END: 01:00:02.42049
+01H00 Carts to check  : 19
+01H00 *** CART 10476 ***
+01H00 Cart update          : 2019-09-11 10:45:37
+01H00 Rule                : No rule applicable
+01H00 *** CART 10478 ***
+01H00 Cart update          : 2019-09-11 11:17:13
+01H00 Rule                : No rule applicable
+01H00 *** CART 10483 ***
+01H00 Cart update          : 2019-09-11 12:20:48
+01H00 Rule                : No rule applicable
+01H00 *** CART 10484 ***
+01H00 Cart update          : 2019-09-11 13:53:28
+01H00 Rule                : No rule applicable
+01H00 *** CART 10485 ***
+01H00 Cart update          : 2019-09-11 13:58:08
+01H00 Rule                : No rule applicable
+01H00 *** CART 10487 ***
+01H00 Cart update          : 2019-09-11 15:47:16
+01H00 Rule                : No rule applicable
+01H00 *** CART 10490 ***
+01H00 Cart update          : 2019-09-11 16:56:22
+01H00 Rule                : No rule applicable
+01H00 *** CART 10493 ***
+01H00 Cart update          : 2019-09-11 17:28:38
+01H00 Rule                : No rule applicable
+01H00 *** CART 10494 ***
+01H00 Cart update          : 2019-09-11 18:43:07
+01H00 Rule                : No rule applicable
+01H00 *** CART 10495 ***
+01H00 Cart update          : 2019-09-11 18:50:42
+01H00 Rule                : No rule applicable
+01H00 *** CART 10496 ***
+01H00 Cart update          : 2019-09-11 22:26:52
+01H00 Rule                : No rule applicable
+01H00 *** CART 10497 ***
+01H00 Cart update          : 2019-09-11 23:05:45
+01H00 Rule                : No rule applicable
+01H00 *** CART 10498 ***
+01H00 Cart update          : 2019-09-12 09:37:59
+01H00 Rule                : No rule applicable
+01H00 *** CART 10500 ***
+01H00 Cart update          : 2019-09-12 11:02:50
+01H00 Rule                : No rule applicable
+01H00 *** CART 10501 ***
+01H00 Cart update          : 2019-09-12 12:47:31
+01H00 Rule                : No rule applicable
+01H00 *** CART 10504 ***
+01H00 Cart update          : 2019-09-12 14:44:08
+01H00 Rule                : No rule applicable
+01H00 *** CART 10503 ***
+01H00 Cart update          : 2019-09-12 15:16:09
+01H00 Rule                : Reminder1
+01H00 Preview to launch         : 2019-09-13 03:16:09
+01H00 Reminder position         : 1
+01H00 Reminder nb hours         : 4.00
+01H00 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+01H00 Reminder manual           : 0
+01H00 Time left                 : 8167
+01H00 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-13 03:16:09
+01H00 *** CART 10506 ***
+01H00 Cart update          : 2019-09-12 15:27:17
+01H00 Rule                : No rule applicable
+01H00 *** CART 10509 ***
+01H00 Cart update          : 2019-09-12 16:32:57
+01H00 Rule                : No rule applicable
+01H00 END                  : 01:00:02.49585
+01H00 ************ STEP CLEANING  ****************
+01H00 END                  : 01:00:02.53672
+01H00 ************ STEP CHECK RUNNING REMINDER  ****************
+01H00 **** START                  : 01:00:02.53737
+01H00 *** CART 10301 ***
+01H00 Execution date not reached
+01H00 *** CART 10312 ***
+01H00 Execution date not reached
+01H00 *** CART 10357 ***
+01H00 Execution date not reached
+01H00 *** CART 10371 ***
+01H00 Execution date not reached
+01H00 *** CART 10372 ***
+01H00 Execution date not reached
+01H00 *** CART 10405 ***
+01H00 Execution date not reached
+01H00 *** CART 10409 ***
+01H00 Execution date not reached
+01H00 *** CART 10466 ***
+01H00 Execution date not reached
+01H00 *** CART 10491 ***
+01H00 Execution date not reached
+01H00 *** CART 10499 ***
+01H00 Execution date not reached
+01H00 END                  : 01:00:02.68033
+01H15 Launch batch
+SHOP ID:1
+============================================================================01H15 SHOP ID:1
+01H15 SHOP                   : 1
+01H15 ************ STEP CHECK NEW CART REMINDER ****************
+01H15 **** START                  : 01:15:02.103198
+01H15 MAIN SQL               START: 01:15:02.103286
+01H15 MAIN SQL               END: 01:15:02.128589
+01H15 Carts to check  : 19
+01H15 *** CART 10476 ***
+01H15 Cart update          : 2019-09-11 10:45:37
+01H15 Rule                : No rule applicable
+01H15 *** CART 10478 ***
+01H15 Cart update          : 2019-09-11 11:17:13
+01H15 Rule                : No rule applicable
+01H15 *** CART 10483 ***
+01H15 Cart update          : 2019-09-11 12:20:48
+01H15 Rule                : No rule applicable
+01H15 *** CART 10484 ***
+01H15 Cart update          : 2019-09-11 13:53:28
+01H15 Rule                : No rule applicable
+01H15 *** CART 10485 ***
+01H15 Cart update          : 2019-09-11 13:58:08
+01H15 Rule                : No rule applicable
+01H15 *** CART 10487 ***
+01H15 Cart update          : 2019-09-11 15:47:16
+01H15 Rule                : No rule applicable
+01H15 *** CART 10490 ***
+01H15 Cart update          : 2019-09-11 16:56:22
+01H15 Rule                : No rule applicable
+01H15 *** CART 10493 ***
+01H15 Cart update          : 2019-09-11 17:28:38
+01H15 Rule                : No rule applicable
+01H15 *** CART 10494 ***
+01H15 Cart update          : 2019-09-11 18:43:07
+01H15 Rule                : No rule applicable
+01H15 *** CART 10495 ***
+01H15 Cart update          : 2019-09-11 18:50:42
+01H15 Rule                : No rule applicable
+01H15 *** CART 10496 ***
+01H15 Cart update          : 2019-09-11 22:26:52
+01H15 Rule                : No rule applicable
+01H15 *** CART 10497 ***
+01H15 Cart update          : 2019-09-11 23:05:45
+01H15 Rule                : No rule applicable
+01H15 *** CART 10498 ***
+01H15 Cart update          : 2019-09-12 09:37:59
+01H15 Rule                : No rule applicable
+01H15 *** CART 10500 ***
+01H15 Cart update          : 2019-09-12 11:02:50
+01H15 Rule                : No rule applicable
+01H15 *** CART 10501 ***
+01H15 Cart update          : 2019-09-12 12:47:31
+01H15 Rule                : No rule applicable
+01H15 *** CART 10504 ***
+01H15 Cart update          : 2019-09-12 14:44:08
+01H15 Rule                : No rule applicable
+01H15 *** CART 10503 ***
+01H15 Cart update          : 2019-09-12 15:16:09
+01H15 Rule                : Reminder1
+01H15 Preview to launch         : 2019-09-13 03:16:09
+01H15 Reminder position         : 1
+01H15 Reminder nb hours         : 4.00
+01H15 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+01H15 Reminder manual           : 0
+01H15 Time left                 : 7267
+01H15 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-13 03:16:09
+01H15 *** CART 10506 ***
+01H15 Cart update          : 2019-09-12 15:27:17
+01H15 Rule                : No rule applicable
+01H15 *** CART 10509 ***
+01H15 Cart update          : 2019-09-12 16:32:57
+01H15 Rule                : No rule applicable
+01H15 END                  : 01:15:02.152093
+01H15 ************ STEP CLEANING  ****************
+01H15 END                  : 01:15:02.156812
+01H15 ************ STEP CHECK RUNNING REMINDER  ****************
+01H15 **** START                  : 01:15:02.156876
+01H15 *** CART 10301 ***
+01H15 Execution date not reached
+01H15 *** CART 10312 ***
+01H15 Execution date not reached
+01H15 *** CART 10357 ***
+01H15 Execution date not reached
+01H15 *** CART 10371 ***
+01H15 Execution date not reached
+01H15 *** CART 10372 ***
+01H15 Execution date not reached
+01H15 *** CART 10405 ***
+01H15 Execution date not reached
+01H15 *** CART 10409 ***
+01H15 Execution date not reached
+01H15 *** CART 10466 ***
+01H15 Execution date not reached
+01H15 *** CART 10491 ***
+01H15 Execution date not reached
+01H15 *** CART 10499 ***
+01H15 Execution date not reached
+01H15 END                  : 01:15:02.168347
+01H30 Launch batch
+SHOP ID:1
+============================================================================01H30 SHOP ID:1
+01H30 SHOP                   : 1
+01H30 ************ STEP CHECK NEW CART REMINDER ****************
+01H30 **** START                  : 01:30:02.250312
+01H30 MAIN SQL               START: 01:30:02.250343
+01H30 MAIN SQL               END: 01:30:02.269611
+01H30 Carts to check  : 19
+01H30 *** CART 10476 ***
+01H30 Cart update          : 2019-09-11 10:45:37
+01H30 Rule                : No rule applicable
+01H30 *** CART 10478 ***
+01H30 Cart update          : 2019-09-11 11:17:13
+01H30 Rule                : No rule applicable
+01H30 *** CART 10483 ***
+01H30 Cart update          : 2019-09-11 12:20:48
+01H30 Rule                : No rule applicable
+01H30 *** CART 10484 ***
+01H30 Cart update          : 2019-09-11 13:53:28
+01H30 Rule                : No rule applicable
+01H30 *** CART 10485 ***
+01H30 Cart update          : 2019-09-11 13:58:08
+01H30 Rule                : No rule applicable
+01H30 *** CART 10487 ***
+01H30 Cart update          : 2019-09-11 15:47:16
+01H30 Rule                : No rule applicable
+01H30 *** CART 10490 ***
+01H30 Cart update          : 2019-09-11 16:56:22
+01H30 Rule                : No rule applicable
+01H30 *** CART 10493 ***
+01H30 Cart update          : 2019-09-11 17:28:38
+01H30 Rule                : No rule applicable
+01H30 *** CART 10494 ***
+01H30 Cart update          : 2019-09-11 18:43:07
+01H30 Rule                : No rule applicable
+01H30 *** CART 10495 ***
+01H30 Cart update          : 2019-09-11 18:50:42
+01H30 Rule                : No rule applicable
+01H30 *** CART 10496 ***
+01H30 Cart update          : 2019-09-11 22:26:52
+01H30 Rule                : No rule applicable
+01H30 *** CART 10497 ***
+01H30 Cart update          : 2019-09-11 23:05:45
+01H30 Rule                : No rule applicable
+01H30 *** CART 10498 ***
+01H30 Cart update          : 2019-09-12 09:37:59
+01H30 Rule                : No rule applicable
+01H30 *** CART 10500 ***
+01H30 Cart update          : 2019-09-12 11:02:50
+01H30 Rule                : No rule applicable
+01H30 *** CART 10501 ***
+01H30 Cart update          : 2019-09-12 12:47:31
+01H30 Rule                : No rule applicable
+01H30 *** CART 10504 ***
+01H30 Cart update          : 2019-09-12 14:44:08
+01H30 Rule                : No rule applicable
+01H30 *** CART 10503 ***
+01H30 Cart update          : 2019-09-12 15:16:09
+01H30 Rule                : Reminder1
+01H30 Preview to launch         : 2019-09-13 03:16:09
+01H30 Reminder position         : 1
+01H30 Reminder nb hours         : 4.00
+01H30 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+01H30 Reminder manual           : 0
+01H30 Time left                 : 6367
+01H30 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-13 03:16:09
+01H30 *** CART 10506 ***
+01H30 Cart update          : 2019-09-12 15:27:17
+01H30 Rule                : No rule applicable
+01H30 *** CART 10509 ***
+01H30 Cart update          : 2019-09-12 16:32:57
+01H30 Rule                : No rule applicable
+01H30 END                  : 01:30:02.277792
+01H30 ************ STEP CLEANING  ****************
+01H30 END                  : 01:30:02.284945
+01H30 ************ STEP CHECK RUNNING REMINDER  ****************
+01H30 **** START                  : 01:30:02.285054
+01H30 *** CART 10301 ***
+01H30 Execution date not reached
+01H30 *** CART 10312 ***
+01H30 Execution date not reached
+01H30 *** CART 10357 ***
+01H30 Execution date not reached
+01H30 *** CART 10371 ***
+01H30 Execution date not reached
+01H30 *** CART 10372 ***
+01H30 Execution date not reached
+01H30 *** CART 10405 ***
+01H30 Execution date not reached
+01H30 *** CART 10409 ***
+01H30 Execution date not reached
+01H30 *** CART 10466 ***
+01H30 Execution date not reached
+01H30 *** CART 10491 ***
+01H30 Execution date not reached
+01H30 *** CART 10499 ***
+01H30 Execution date not reached
+01H30 END                  : 01:30:02.299893
+01H45 Launch batch
+SHOP ID:1
+============================================================================01H45 SHOP ID:1
+01H45 SHOP                   : 1
+01H45 ************ STEP CHECK NEW CART REMINDER ****************
+01H45 **** START                  : 01:45:01.949022
+01H45 MAIN SQL               START: 01:45:01.949058
+01H45 MAIN SQL               END: 01:45:01.966210
+01H45 Carts to check  : 19
+01H45 *** CART 10476 ***
+01H45 Cart update          : 2019-09-11 10:45:37
+01H45 Rule                : No rule applicable
+01H45 *** CART 10478 ***
+01H45 Cart update          : 2019-09-11 11:17:13
+01H45 Rule                : No rule applicable
+01H45 *** CART 10483 ***
+01H45 Cart update          : 2019-09-11 12:20:48
+01H45 Rule                : No rule applicable
+01H45 *** CART 10484 ***
+01H45 Cart update          : 2019-09-11 13:53:28
+01H45 Rule                : No rule applicable
+01H45 *** CART 10485 ***
+01H45 Cart update          : 2019-09-11 13:58:08
+01H45 Rule                : No rule applicable
+01H45 *** CART 10487 ***
+01H45 Cart update          : 2019-09-11 15:47:16
+01H45 Rule                : No rule applicable
+01H45 *** CART 10490 ***
+01H45 Cart update          : 2019-09-11 16:56:22
+01H45 Rule                : No rule applicable
+01H45 *** CART 10493 ***
+01H45 Cart update          : 2019-09-11 17:28:38
+01H45 Rule                : No rule applicable
+01H45 *** CART 10494 ***
+01H45 Cart update          : 2019-09-11 18:43:07
+01H45 Rule                : No rule applicable
+01H45 *** CART 10495 ***
+01H45 Cart update          : 2019-09-11 18:50:42
+01H45 Rule                : No rule applicable
+01H45 *** CART 10496 ***
+01H45 Cart update          : 2019-09-11 22:26:52
+01H45 Rule                : No rule applicable
+01H45 *** CART 10497 ***
+01H45 Cart update          : 2019-09-11 23:05:45
+01H45 Rule                : No rule applicable
+01H45 *** CART 10498 ***
+01H45 Cart update          : 2019-09-12 09:37:59
+01H45 Rule                : No rule applicable
+01H45 *** CART 10500 ***
+01H45 Cart update          : 2019-09-12 11:02:50
+01H45 Rule                : No rule applicable
+01H45 *** CART 10501 ***
+01H45 Cart update          : 2019-09-12 12:47:31
+01H45 Rule                : No rule applicable
+01H45 *** CART 10504 ***
+01H45 Cart update          : 2019-09-12 14:44:08
+01H45 Rule                : No rule applicable
+01H45 *** CART 10503 ***
+01H45 Cart update          : 2019-09-12 15:16:09
+01H45 Rule                : Reminder1
+01H45 Preview to launch         : 2019-09-13 03:16:09
+01H45 Reminder position         : 1
+01H45 Reminder nb hours         : 4.00
+01H45 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+01H45 Reminder manual           : 0
+01H45 Time left                 : 5468
+01H45 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-13 03:16:09
+01H45 *** CART 10506 ***
+01H45 Cart update          : 2019-09-12 15:27:17
+01H45 Rule                : No rule applicable
+01H45 *** CART 10509 ***
+01H45 Cart update          : 2019-09-12 16:32:57
+01H45 Rule                : No rule applicable
+01H45 END                  : 01:45:01.983855
+01H45 ************ STEP CLEANING  ****************
+01H45 END                  : 01:45:01.988494
+01H45 ************ STEP CHECK RUNNING REMINDER  ****************
+01H45 **** START                  : 01:45:01.988556
+01H45 *** CART 10301 ***
+01H45 Execution date not reached
+01H45 *** CART 10312 ***
+01H45 Execution date not reached
+01H45 *** CART 10357 ***
+01H45 Execution date not reached
+01H45 *** CART 10371 ***
+01H45 Execution date not reached
+01H45 *** CART 10372 ***
+01H45 Execution date not reached
+01H45 *** CART 10405 ***
+01H45 Execution date not reached
+01H45 *** CART 10409 ***
+01H45 Execution date not reached
+01H45 *** CART 10466 ***
+01H45 Execution date not reached
+01H45 *** CART 10491 ***
+01H45 Execution date not reached
+01H45 *** CART 10499 ***
+01H45 Execution date not reached
+01H45 END                  : 01:45:01.999878
+02H00 Launch batch
+SHOP ID:1
+============================================================================02H00 SHOP ID:1
+02H00 SHOP                   : 1
+02H00 ************ STEP CHECK NEW CART REMINDER ****************
+02H00 **** START                  : 02:00:02.204086
+02H00 MAIN SQL               START: 02:00:02.204117
+02H00 MAIN SQL               END: 02:00:02.223768
+02H00 Carts to check  : 19
+02H00 *** CART 10476 ***
+02H00 Cart update          : 2019-09-11 10:45:37
+02H00 Rule                : No rule applicable
+02H00 *** CART 10478 ***
+02H00 Cart update          : 2019-09-11 11:17:13
+02H00 Rule                : No rule applicable
+02H00 *** CART 10483 ***
+02H00 Cart update          : 2019-09-11 12:20:48
+02H00 Rule                : No rule applicable
+02H00 *** CART 10484 ***
+02H00 Cart update          : 2019-09-11 13:53:28
+02H00 Rule                : No rule applicable
+02H00 *** CART 10485 ***
+02H00 Cart update          : 2019-09-11 13:58:08
+02H00 Rule                : No rule applicable
+02H00 *** CART 10487 ***
+02H00 Cart update          : 2019-09-11 15:47:16
+02H00 Rule                : No rule applicable
+02H00 *** CART 10490 ***
+02H00 Cart update          : 2019-09-11 16:56:22
+02H00 Rule                : No rule applicable
+02H00 *** CART 10493 ***
+02H00 Cart update          : 2019-09-11 17:28:38
+02H00 Rule                : No rule applicable
+02H00 *** CART 10494 ***
+02H00 Cart update          : 2019-09-11 18:43:07
+02H00 Rule                : No rule applicable
+02H00 *** CART 10495 ***
+02H00 Cart update          : 2019-09-11 18:50:42
+02H00 Rule                : No rule applicable
+02H00 *** CART 10496 ***
+02H00 Cart update          : 2019-09-11 22:26:52
+02H00 Rule                : No rule applicable
+02H00 *** CART 10497 ***
+02H00 Cart update          : 2019-09-11 23:05:45
+02H00 Rule                : No rule applicable
+02H00 *** CART 10498 ***
+02H00 Cart update          : 2019-09-12 09:37:59
+02H00 Rule                : No rule applicable
+02H00 *** CART 10500 ***
+02H00 Cart update          : 2019-09-12 11:02:50
+02H00 Rule                : No rule applicable
+02H00 *** CART 10501 ***
+02H00 Cart update          : 2019-09-12 12:47:31
+02H00 Rule                : No rule applicable
+02H00 *** CART 10504 ***
+02H00 Cart update          : 2019-09-12 14:44:08
+02H00 Rule                : No rule applicable
+02H00 *** CART 10503 ***
+02H00 Cart update          : 2019-09-12 15:16:09
+02H00 Rule                : Reminder1
+02H00 Preview to launch         : 2019-09-13 03:16:09
+02H00 Reminder position         : 1
+02H00 Reminder nb hours         : 4.00
+02H00 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+02H00 Reminder manual           : 0
+02H00 Time left                 : 4567
+02H00 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-13 03:16:09
+02H00 *** CART 10506 ***
+02H00 Cart update          : 2019-09-12 15:27:17
+02H00 Rule                : No rule applicable
+02H00 *** CART 10509 ***
+02H00 Cart update          : 2019-09-12 16:32:57
+02H00 Rule                : No rule applicable
+02H00 END                  : 02:00:02.232182
+02H00 ************ STEP CLEANING  ****************
+02H00 END                  : 02:00:02.237627
+02H00 ************ STEP CHECK RUNNING REMINDER  ****************
+02H00 **** START                  : 02:00:02.237740
+02H00 *** CART 10301 ***
+02H00 Execution date not reached
+02H00 *** CART 10312 ***
+02H00 Execution date not reached
+02H00 *** CART 10357 ***
+02H00 Execution date not reached
+02H00 *** CART 10371 ***
+02H00 Execution date not reached
+02H00 *** CART 10372 ***
+02H00 Execution date not reached
+02H00 *** CART 10405 ***
+02H00 Execution date not reached
+02H00 *** CART 10409 ***
+02H00 Execution date not reached
+02H00 *** CART 10466 ***
+02H00 Execution date not reached
+02H00 *** CART 10491 ***
+02H00 Execution date not reached
+02H00 *** CART 10499 ***
+02H00 Execution date not reached
+02H00 END                  : 02:00:02.253434
+02H15 Launch batch
+SHOP ID:1
+============================================================================02H15 SHOP ID:1
+02H15 SHOP                   : 1
+02H15 ************ STEP CHECK NEW CART REMINDER ****************
+02H15 **** START                  : 02:15:01.216510
+02H15 MAIN SQL               START: 02:15:01.216553
+02H15 MAIN SQL               END: 02:15:01.234481
+02H15 Carts to check  : 19
+02H15 *** CART 10476 ***
+02H15 Cart update          : 2019-09-11 10:45:37
+02H15 Rule                : No rule applicable
+02H15 *** CART 10478 ***
+02H15 Cart update          : 2019-09-11 11:17:13
+02H15 Rule                : No rule applicable
+02H15 *** CART 10483 ***
+02H15 Cart update          : 2019-09-11 12:20:48
+02H15 Rule                : No rule applicable
+02H15 *** CART 10484 ***
+02H15 Cart update          : 2019-09-11 13:53:28
+02H15 Rule                : No rule applicable
+02H15 *** CART 10485 ***
+02H15 Cart update          : 2019-09-11 13:58:08
+02H15 Rule                : No rule applicable
+02H15 *** CART 10487 ***
+02H15 Cart update          : 2019-09-11 15:47:16
+02H15 Rule                : No rule applicable
+02H15 *** CART 10490 ***
+02H15 Cart update          : 2019-09-11 16:56:22
+02H15 Rule                : No rule applicable
+02H15 *** CART 10493 ***
+02H15 Cart update          : 2019-09-11 17:28:38
+02H15 Rule                : No rule applicable
+02H15 *** CART 10494 ***
+02H15 Cart update          : 2019-09-11 18:43:07
+02H15 Rule                : No rule applicable
+02H15 *** CART 10495 ***
+02H15 Cart update          : 2019-09-11 18:50:42
+02H15 Rule                : No rule applicable
+02H15 *** CART 10496 ***
+02H15 Cart update          : 2019-09-11 22:26:52
+02H15 Rule                : No rule applicable
+02H15 *** CART 10497 ***
+02H15 Cart update          : 2019-09-11 23:05:45
+02H15 Rule                : No rule applicable
+02H15 *** CART 10498 ***
+02H15 Cart update          : 2019-09-12 09:37:59
+02H15 Rule                : No rule applicable
+02H15 *** CART 10500 ***
+02H15 Cart update          : 2019-09-12 11:02:50
+02H15 Rule                : No rule applicable
+02H15 *** CART 10501 ***
+02H15 Cart update          : 2019-09-12 12:47:31
+02H15 Rule                : No rule applicable
+02H15 *** CART 10504 ***
+02H15 Cart update          : 2019-09-12 14:44:08
+02H15 Rule                : No rule applicable
+02H15 *** CART 10503 ***
+02H15 Cart update          : 2019-09-12 15:16:09
+02H15 Rule                : Reminder1
+02H15 Preview to launch         : 2019-09-13 03:16:09
+02H15 Reminder position         : 1
+02H15 Reminder nb hours         : 4.00
+02H15 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+02H15 Reminder manual           : 0
+02H15 Time left                 : 3668
+02H15 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-13 03:16:09
+02H15 *** CART 10506 ***
+02H15 Cart update          : 2019-09-12 15:27:17
+02H15 Rule                : No rule applicable
+02H15 *** CART 10509 ***
+02H15 Cart update          : 2019-09-12 16:32:57
+02H15 Rule                : No rule applicable
+02H15 END                  : 02:15:01.240025
+02H15 ************ STEP CLEANING  ****************
+02H15 END                  : 02:15:01.243124
+02H15 ************ STEP CHECK RUNNING REMINDER  ****************
+02H15 **** START                  : 02:15:01.243183
+02H15 *** CART 10301 ***
+02H15 Execution date not reached
+02H15 *** CART 10312 ***
+02H15 Execution date not reached
+02H15 *** CART 10357 ***
+02H15 Execution date not reached
+02H15 *** CART 10371 ***
+02H15 Execution date not reached
+02H15 *** CART 10372 ***
+02H15 Execution date not reached
+02H15 *** CART 10405 ***
+02H15 Execution date not reached
+02H15 *** CART 10409 ***
+02H15 Execution date not reached
+02H15 *** CART 10466 ***
+02H15 Execution date not reached
+02H15 *** CART 10491 ***
+02H15 Execution date not reached
+02H15 *** CART 10499 ***
+02H15 Execution date not reached
+02H15 END                  : 02:15:01.257167

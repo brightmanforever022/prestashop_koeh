@@ -1,0 +1,4764 @@
+00H00 Launch batch
+SHOP ID:1
+============================================================================00H00 SHOP ID:1
+00H00 SHOP                   : 1
+00H00 ************ STEP CHECK NEW CART REMINDER ****************
+00H00 **** START                  : 00:00:01.412501
+00H00 MAIN SQL               START: 00:00:01.412545
+00H00 MAIN SQL               END: 00:00:01.430430
+00H00 Carts to check  : 8
+00H00 *** CART 10392 ***
+00H00 Cart update          : 2019-09-07 10:59:55
+00H00 Rule                : No rule applicable
+00H00 *** CART 10394 ***
+00H00 Cart update          : 2019-09-07 12:33:54
+00H00 Rule                : No rule applicable
+00H00 *** CART 10396 ***
+00H00 Cart update          : 2019-09-07 13:51:26
+00H00 Rule                : No rule applicable
+00H00 *** CART 10397 ***
+00H00 Cart update          : 2019-09-07 14:25:27
+00H00 Rule                : No rule applicable
+00H00 *** CART 10399 ***
+00H00 Cart update          : 2019-09-07 15:20:32
+00H00 Rule                : No rule applicable
+00H00 *** CART 10403 ***
+00H00 Cart update          : 2019-09-07 18:50:09
+00H00 Rule                : No rule applicable
+00H00 *** CART 10406 ***
+00H00 Cart update          : 2019-09-08 07:34:28
+00H00 Rule                : No rule applicable
+00H00 *** CART 10407 ***
+00H00 Cart update          : 2019-09-08 12:37:25
+00H00 Rule                : No rule applicable
+00H00 END                  : 00:00:01.432663
+00H00 ************ STEP CLEANING  ****************
+00H00 END                  : 00:00:01.436302
+00H00 ************ STEP CHECK RUNNING REMINDER  ****************
+00H00 **** START                  : 00:00:01.436361
+00H00 *** CART 10278 ***
+00H00 Execution date not reached
+00H00 *** CART 10262 ***
+00H00 Execution date not reached
+00H00 *** CART 10301 ***
+00H00 Execution date not reached
+00H00 *** CART 10312 ***
+00H00 Execution date not reached
+00H00 *** CART 10284 ***
+00H00 Execution date not reached
+00H00 *** CART 10346 ***
+00H00 Execution date not reached
+00H00 *** CART 10365 ***
+00H00 Execution date not reached
+00H00 *** CART 10357 ***
+00H00 Execution date not reached
+00H00 *** CART 10371 ***
+00H00 Execution date not reached
+00H00 *** CART 10372 ***
+00H00 Execution date not reached
+00H00 *** CART 10405 ***
+00H00 Execution date not reached
+00H00 END                  : 00:00:01.446179
+00H15 Launch batch
+SHOP ID:1
+============================================================================00H15 SHOP ID:1
+00H15 SHOP                   : 1
+00H15 ************ STEP CHECK NEW CART REMINDER ****************
+00H15 **** START                  : 00:15:01.397034
+00H15 MAIN SQL               START: 00:15:01.397073
+00H15 MAIN SQL               END: 00:15:01.413931
+00H15 Carts to check  : 8
+00H15 *** CART 10392 ***
+00H15 Cart update          : 2019-09-07 10:59:55
+00H15 Rule                : No rule applicable
+00H15 *** CART 10394 ***
+00H15 Cart update          : 2019-09-07 12:33:54
+00H15 Rule                : No rule applicable
+00H15 *** CART 10396 ***
+00H15 Cart update          : 2019-09-07 13:51:26
+00H15 Rule                : No rule applicable
+00H15 *** CART 10397 ***
+00H15 Cart update          : 2019-09-07 14:25:27
+00H15 Rule                : No rule applicable
+00H15 *** CART 10399 ***
+00H15 Cart update          : 2019-09-07 15:20:32
+00H15 Rule                : No rule applicable
+00H15 *** CART 10403 ***
+00H15 Cart update          : 2019-09-07 18:50:09
+00H15 Rule                : No rule applicable
+00H15 *** CART 10406 ***
+00H15 Cart update          : 2019-09-08 07:34:28
+00H15 Rule                : No rule applicable
+00H15 *** CART 10407 ***
+00H15 Cart update          : 2019-09-08 12:37:25
+00H15 Rule                : No rule applicable
+00H15 END                  : 00:15:01.416471
+00H15 ************ STEP CLEANING  ****************
+00H15 END                  : 00:15:01.421129
+00H15 ************ STEP CHECK RUNNING REMINDER  ****************
+00H15 **** START                  : 00:15:01.421237
+00H15 *** CART 10278 ***
+00H15 Execution date not reached
+00H15 *** CART 10262 ***
+00H15 Execution date not reached
+00H15 *** CART 10301 ***
+00H15 Execution date not reached
+00H15 *** CART 10312 ***
+00H15 Execution date not reached
+00H15 *** CART 10284 ***
+00H15 Execution date not reached
+00H15 *** CART 10346 ***
+00H15 Execution date not reached
+00H15 *** CART 10365 ***
+00H15 Execution date not reached
+00H15 *** CART 10357 ***
+00H15 Execution date not reached
+00H15 *** CART 10371 ***
+00H15 Execution date not reached
+00H15 *** CART 10372 ***
+00H15 Execution date not reached
+00H15 *** CART 10405 ***
+00H15 Execution date not reached
+00H15 END                  : 00:15:01.431736
+00H30 Launch batch
+SHOP ID:1
+============================================================================00H30 SHOP ID:1
+00H30 SHOP                   : 1
+00H30 ************ STEP CHECK NEW CART REMINDER ****************
+00H30 **** START                  : 00:30:01.886188
+00H30 MAIN SQL               START: 00:30:01.886220
+00H30 MAIN SQL               END: 00:30:01.899857
+00H30 Carts to check  : 8
+00H30 *** CART 10392 ***
+00H30 Cart update          : 2019-09-07 10:59:55
+00H30 Rule                : No rule applicable
+00H30 *** CART 10394 ***
+00H30 Cart update          : 2019-09-07 12:33:54
+00H30 Rule                : No rule applicable
+00H30 *** CART 10396 ***
+00H30 Cart update          : 2019-09-07 13:51:26
+00H30 Rule                : No rule applicable
+00H30 *** CART 10397 ***
+00H30 Cart update          : 2019-09-07 14:25:27
+00H30 Rule                : No rule applicable
+00H30 *** CART 10399 ***
+00H30 Cart update          : 2019-09-07 15:20:32
+00H30 Rule                : No rule applicable
+00H30 *** CART 10403 ***
+00H30 Cart update          : 2019-09-07 18:50:09
+00H30 Rule                : No rule applicable
+00H30 *** CART 10406 ***
+00H30 Cart update          : 2019-09-08 07:34:28
+00H30 Rule                : No rule applicable
+00H30 *** CART 10407 ***
+00H30 Cart update          : 2019-09-08 12:37:25
+00H30 Rule                : No rule applicable
+00H30 END                  : 00:30:01.903664
+00H30 ************ STEP CLEANING  ****************
+00H30 END                  : 00:30:01.908844
+00H30 ************ STEP CHECK RUNNING REMINDER  ****************
+00H30 **** START                  : 00:30:01.908959
+00H30 *** CART 10278 ***
+00H30 Execution date not reached
+00H30 *** CART 10262 ***
+00H30 Execution date not reached
+00H30 *** CART 10301 ***
+00H30 Execution date not reached
+00H30 *** CART 10312 ***
+00H30 Execution date not reached
+00H30 *** CART 10284 ***
+00H30 Execution date not reached
+00H30 *** CART 10346 ***
+00H30 Execution date not reached
+00H30 *** CART 10365 ***
+00H30 Execution date not reached
+00H30 *** CART 10357 ***
+00H30 Execution date not reached
+00H30 *** CART 10371 ***
+00H30 Execution date not reached
+00H30 *** CART 10372 ***
+00H30 Execution date not reached
+00H30 *** CART 10405 ***
+00H30 Execution date not reached
+00H30 END                  : 00:30:01.919866
+00H45 Launch batch
+SHOP ID:1
+============================================================================00H45 SHOP ID:1
+00H45 SHOP                   : 1
+00H45 ************ STEP CHECK NEW CART REMINDER ****************
+00H45 **** START                  : 00:45:01.538257
+00H45 MAIN SQL               START: 00:45:01.538302
+00H45 MAIN SQL               END: 00:45:01.557962
+00H45 Carts to check  : 8
+00H45 *** CART 10392 ***
+00H45 Cart update          : 2019-09-07 10:59:55
+00H45 Rule                : No rule applicable
+00H45 *** CART 10394 ***
+00H45 Cart update          : 2019-09-07 12:33:54
+00H45 Rule                : No rule applicable
+00H45 *** CART 10396 ***
+00H45 Cart update          : 2019-09-07 13:51:26
+00H45 Rule                : No rule applicable
+00H45 *** CART 10397 ***
+00H45 Cart update          : 2019-09-07 14:25:27
+00H45 Rule                : No rule applicable
+00H45 *** CART 10399 ***
+00H45 Cart update          : 2019-09-07 15:20:32
+00H45 Rule                : No rule applicable
+00H45 *** CART 10403 ***
+00H45 Cart update          : 2019-09-07 18:50:09
+00H45 Rule                : No rule applicable
+00H45 *** CART 10406 ***
+00H45 Cart update          : 2019-09-08 07:34:28
+00H45 Rule                : No rule applicable
+00H45 *** CART 10407 ***
+00H45 Cart update          : 2019-09-08 12:37:25
+00H45 Rule                : No rule applicable
+00H45 END                  : 00:45:01.560872
+00H45 ************ STEP CLEANING  ****************
+00H45 END                  : 00:45:01.564804
+00H45 ************ STEP CHECK RUNNING REMINDER  ****************
+00H45 **** START                  : 00:45:01.564922
+00H45 *** CART 10278 ***
+00H45 Execution date not reached
+00H45 *** CART 10262 ***
+00H45 Execution date not reached
+00H45 *** CART 10301 ***
+00H45 Execution date not reached
+00H45 *** CART 10312 ***
+00H45 Execution date not reached
+00H45 *** CART 10284 ***
+00H45 Execution date not reached
+00H45 *** CART 10346 ***
+00H45 Execution date not reached
+00H45 *** CART 10365 ***
+00H45 Execution date not reached
+00H45 *** CART 10357 ***
+00H45 Execution date not reached
+00H45 *** CART 10371 ***
+00H45 Execution date not reached
+00H45 *** CART 10372 ***
+00H45 Execution date not reached
+00H45 *** CART 10405 ***
+00H45 Execution date not reached
+00H45 END                  : 00:45:01.578273
+01H00 Launch batch
+SHOP ID:1
+============================================================================01H00 SHOP ID:1
+01H00 SHOP                   : 1
+01H00 ************ STEP CHECK NEW CART REMINDER ****************
+01H00 **** START                  : 01:00:01.938080
+01H00 MAIN SQL               START: 01:00:01.938114
+01H00 MAIN SQL               END: 01:00:01.955788
+01H00 Carts to check  : 8
+01H00 *** CART 10392 ***
+01H00 Cart update          : 2019-09-07 10:59:55
+01H00 Rule                : No rule applicable
+01H00 *** CART 10394 ***
+01H00 Cart update          : 2019-09-07 12:33:54
+01H00 Rule                : No rule applicable
+01H00 *** CART 10396 ***
+01H00 Cart update          : 2019-09-07 13:51:26
+01H00 Rule                : No rule applicable
+01H00 *** CART 10397 ***
+01H00 Cart update          : 2019-09-07 14:25:27
+01H00 Rule                : No rule applicable
+01H00 *** CART 10399 ***
+01H00 Cart update          : 2019-09-07 15:20:32
+01H00 Rule                : No rule applicable
+01H00 *** CART 10403 ***
+01H00 Cart update          : 2019-09-07 18:50:09
+01H00 Rule                : No rule applicable
+01H00 *** CART 10406 ***
+01H00 Cart update          : 2019-09-08 07:34:28
+01H00 Rule                : No rule applicable
+01H00 *** CART 10407 ***
+01H00 Cart update          : 2019-09-08 12:37:25
+01H00 Rule                : No rule applicable
+01H00 END                  : 01:00:01.959184
+01H00 ************ STEP CLEANING  ****************
+01H00 END                  : 01:00:01.964507
+01H00 ************ STEP CHECK RUNNING REMINDER  ****************
+01H00 **** START                  : 01:00:01.964612
+01H00 *** CART 10278 ***
+01H00 Execution date not reached
+01H00 *** CART 10262 ***
+01H00 Execution date not reached
+01H00 *** CART 10301 ***
+01H00 Execution date not reached
+01H00 *** CART 10312 ***
+01H00 Execution date not reached
+01H00 *** CART 10284 ***
+01H00 Execution date not reached
+01H00 *** CART 10346 ***
+01H00 Execution date not reached
+01H00 *** CART 10365 ***
+01H00 Execution date not reached
+01H00 *** CART 10357 ***
+01H00 Execution date not reached
+01H00 *** CART 10371 ***
+01H00 Execution date not reached
+01H00 *** CART 10372 ***
+01H00 Execution date not reached
+01H00 *** CART 10405 ***
+01H00 Execution date not reached
+01H00 END                  : 01:00:01.976823
+01H15 Launch batch
+SHOP ID:1
+============================================================================01H15 SHOP ID:1
+01H15 SHOP                   : 1
+01H15 ************ STEP CHECK NEW CART REMINDER ****************
+01H15 **** START                  : 01:15:01.196695
+01H15 MAIN SQL               START: 01:15:01.196742
+01H15 MAIN SQL               END: 01:15:01.215361
+01H15 Carts to check  : 8
+01H15 *** CART 10392 ***
+01H15 Cart update          : 2019-09-07 10:59:55
+01H15 Rule                : No rule applicable
+01H15 *** CART 10394 ***
+01H15 Cart update          : 2019-09-07 12:33:54
+01H15 Rule                : No rule applicable
+01H15 *** CART 10396 ***
+01H15 Cart update          : 2019-09-07 13:51:26
+01H15 Rule                : No rule applicable
+01H15 *** CART 10397 ***
+01H15 Cart update          : 2019-09-07 14:25:27
+01H15 Rule                : No rule applicable
+01H15 *** CART 10399 ***
+01H15 Cart update          : 2019-09-07 15:20:32
+01H15 Rule                : No rule applicable
+01H15 *** CART 10403 ***
+01H15 Cart update          : 2019-09-07 18:50:09
+01H15 Rule                : No rule applicable
+01H15 *** CART 10406 ***
+01H15 Cart update          : 2019-09-08 07:34:28
+01H15 Rule                : No rule applicable
+01H15 *** CART 10407 ***
+01H15 Cart update          : 2019-09-08 12:37:25
+01H15 Rule                : No rule applicable
+01H15 END                  : 01:15:01.218767
+01H15 ************ STEP CLEANING  ****************
+01H15 END                  : 01:15:01.224505
+01H15 ************ STEP CHECK RUNNING REMINDER  ****************
+01H15 **** START                  : 01:15:01.224609
+01H15 *** CART 10278 ***
+01H15 Execution date not reached
+01H15 *** CART 10262 ***
+01H15 Execution date not reached
+01H15 *** CART 10301 ***
+01H15 Execution date not reached
+01H15 *** CART 10312 ***
+01H15 Execution date not reached
+01H15 *** CART 10284 ***
+01H15 Execution date not reached
+01H15 *** CART 10346 ***
+01H15 Execution date not reached
+01H15 *** CART 10365 ***
+01H15 Execution date not reached
+01H15 *** CART 10357 ***
+01H15 Execution date not reached
+01H15 *** CART 10371 ***
+01H15 Execution date not reached
+01H15 *** CART 10372 ***
+01H15 Execution date not reached
+01H15 *** CART 10405 ***
+01H15 Execution date not reached
+01H15 END                  : 01:15:01.237021
+01H30 Launch batch
+SHOP ID:1
+============================================================================01H30 SHOP ID:1
+01H30 SHOP                   : 1
+01H30 ************ STEP CHECK NEW CART REMINDER ****************
+01H30 **** START                  : 01:30:01.793667
+01H30 MAIN SQL               START: 01:30:01.793699
+01H30 MAIN SQL               END: 01:30:01.812703
+01H30 Carts to check  : 8
+01H30 *** CART 10392 ***
+01H30 Cart update          : 2019-09-07 10:59:55
+01H30 Rule                : No rule applicable
+01H30 *** CART 10394 ***
+01H30 Cart update          : 2019-09-07 12:33:54
+01H30 Rule                : No rule applicable
+01H30 *** CART 10396 ***
+01H30 Cart update          : 2019-09-07 13:51:26
+01H30 Rule                : No rule applicable
+01H30 *** CART 10397 ***
+01H30 Cart update          : 2019-09-07 14:25:27
+01H30 Rule                : No rule applicable
+01H30 *** CART 10399 ***
+01H30 Cart update          : 2019-09-07 15:20:32
+01H30 Rule                : No rule applicable
+01H30 *** CART 10403 ***
+01H30 Cart update          : 2019-09-07 18:50:09
+01H30 Rule                : No rule applicable
+01H30 *** CART 10406 ***
+01H30 Cart update          : 2019-09-08 07:34:28
+01H30 Rule                : No rule applicable
+01H30 *** CART 10407 ***
+01H30 Cart update          : 2019-09-08 12:37:25
+01H30 Rule                : No rule applicable
+01H30 END                  : 01:30:01.815839
+01H30 ************ STEP CLEANING  ****************
+01H30 END                  : 01:30:01.819782
+01H30 ************ STEP CHECK RUNNING REMINDER  ****************
+01H30 **** START                  : 01:30:01.819890
+01H30 *** CART 10278 ***
+01H30 Execution date not reached
+01H30 *** CART 10262 ***
+01H30 Execution date not reached
+01H30 *** CART 10301 ***
+01H30 Execution date not reached
+01H30 *** CART 10312 ***
+01H30 Execution date not reached
+01H30 *** CART 10284 ***
+01H30 Execution date not reached
+01H30 *** CART 10346 ***
+01H30 Execution date not reached
+01H30 *** CART 10365 ***
+01H30 Execution date not reached
+01H30 *** CART 10357 ***
+01H30 Execution date not reached
+01H30 *** CART 10371 ***
+01H30 Execution date not reached
+01H30 *** CART 10372 ***
+01H30 Execution date not reached
+01H30 *** CART 10405 ***
+01H30 Execution date not reached
+01H30 END                  : 01:30:01.830129
+01H45 Launch batch
+SHOP ID:1
+============================================================================01H45 SHOP ID:1
+01H45 SHOP                   : 1
+01H45 ************ STEP CHECK NEW CART REMINDER ****************
+01H45 **** START                  : 01:45:01.679465
+01H45 MAIN SQL               START: 01:45:01.679511
+01H45 MAIN SQL               END: 01:45:01.699455
+01H45 Carts to check  : 8
+01H45 *** CART 10392 ***
+01H45 Cart update          : 2019-09-07 10:59:55
+01H45 Rule                : No rule applicable
+01H45 *** CART 10394 ***
+01H45 Cart update          : 2019-09-07 12:33:54
+01H45 Rule                : No rule applicable
+01H45 *** CART 10396 ***
+01H45 Cart update          : 2019-09-07 13:51:26
+01H45 Rule                : No rule applicable
+01H45 *** CART 10397 ***
+01H45 Cart update          : 2019-09-07 14:25:27
+01H45 Rule                : No rule applicable
+01H45 *** CART 10399 ***
+01H45 Cart update          : 2019-09-07 15:20:32
+01H45 Rule                : No rule applicable
+01H45 *** CART 10403 ***
+01H45 Cart update          : 2019-09-07 18:50:09
+01H45 Rule                : No rule applicable
+01H45 *** CART 10406 ***
+01H45 Cart update          : 2019-09-08 07:34:28
+01H45 Rule                : No rule applicable
+01H45 *** CART 10407 ***
+01H45 Cart update          : 2019-09-08 12:37:25
+01H45 Rule                : No rule applicable
+01H45 END                  : 01:45:01.701629
+01H45 ************ STEP CLEANING  ****************
+01H45 END                  : 01:45:01.704911
+01H45 ************ STEP CHECK RUNNING REMINDER  ****************
+01H45 **** START                  : 01:45:01.704967
+01H45 *** CART 10278 ***
+01H45 Execution date not reached
+01H45 *** CART 10262 ***
+01H45 Execution date not reached
+01H45 *** CART 10301 ***
+01H45 Execution date not reached
+01H45 *** CART 10312 ***
+01H45 Execution date not reached
+01H45 *** CART 10284 ***
+01H45 Execution date not reached
+01H45 *** CART 10346 ***
+01H45 Execution date not reached
+01H45 *** CART 10365 ***
+01H45 Execution date not reached
+01H45 *** CART 10357 ***
+01H45 Execution date not reached
+01H45 *** CART 10371 ***
+01H45 Execution date not reached
+01H45 *** CART 10372 ***
+01H45 Execution date not reached
+01H45 *** CART 10405 ***
+01H45 Execution date not reached
+01H45 END                  : 01:45:01.716073
+02H00 Launch batch
+SHOP ID:1
+============================================================================02H00 SHOP ID:1
+02H00 SHOP                   : 1
+02H00 ************ STEP CHECK NEW CART REMINDER ****************
+02H00 **** START                  : 02:00:01.822201
+02H00 MAIN SQL               START: 02:00:01.822237
+02H00 MAIN SQL               END: 02:00:01.838228
+02H00 Carts to check  : 8
+02H00 *** CART 10392 ***
+02H00 Cart update          : 2019-09-07 10:59:55
+02H00 Rule                : No rule applicable
+02H00 *** CART 10394 ***
+02H00 Cart update          : 2019-09-07 12:33:54
+02H00 Rule                : No rule applicable
+02H00 *** CART 10396 ***
+02H00 Cart update          : 2019-09-07 13:51:26
+02H00 Rule                : No rule applicable
+02H00 *** CART 10397 ***
+02H00 Cart update          : 2019-09-07 14:25:27
+02H00 Rule                : No rule applicable
+02H00 *** CART 10399 ***
+02H00 Cart update          : 2019-09-07 15:20:32
+02H00 Rule                : No rule applicable
+02H00 *** CART 10403 ***
+02H00 Cart update          : 2019-09-07 18:50:09
+02H00 Rule                : No rule applicable
+02H00 *** CART 10406 ***
+02H00 Cart update          : 2019-09-08 07:34:28
+02H00 Rule                : No rule applicable
+02H00 *** CART 10407 ***
+02H00 Cart update          : 2019-09-08 12:37:25
+02H00 Rule                : No rule applicable
+02H00 END                  : 02:00:01.841216
+02H00 ************ STEP CLEANING  ****************
+02H00 END                  : 02:00:01.845906
+02H00 ************ STEP CHECK RUNNING REMINDER  ****************
+02H00 **** START                  : 02:00:01.846010
+02H00 *** CART 10278 ***
+02H00 Execution date not reached
+02H00 *** CART 10262 ***
+02H00 Execution date not reached
+02H00 *** CART 10301 ***
+02H00 Execution date not reached
+02H00 *** CART 10312 ***
+02H00 Execution date not reached
+02H00 *** CART 10284 ***
+02H00 Execution date not reached
+02H00 *** CART 10346 ***
+02H00 Execution date not reached
+02H00 *** CART 10365 ***
+02H00 Execution date not reached
+02H00 *** CART 10357 ***
+02H00 Execution date not reached
+02H00 *** CART 10371 ***
+02H00 Execution date not reached
+02H00 *** CART 10372 ***
+02H00 Execution date not reached
+02H00 *** CART 10405 ***
+02H00 Execution date not reached
+02H00 END                  : 02:00:01.858653
+02H15 Launch batch
+SHOP ID:1
+============================================================================02H15 SHOP ID:1
+02H15 SHOP                   : 1
+02H15 ************ STEP CHECK NEW CART REMINDER ****************
+02H15 **** START                  : 02:15:02.122076
+02H15 MAIN SQL               START: 02:15:02.122104
+02H15 MAIN SQL               END: 02:15:02.134695
+02H15 Carts to check  : 8
+02H15 *** CART 10392 ***
+02H15 Cart update          : 2019-09-07 10:59:55
+02H15 Rule                : No rule applicable
+02H15 *** CART 10394 ***
+02H15 Cart update          : 2019-09-07 12:33:54
+02H15 Rule                : No rule applicable
+02H15 *** CART 10396 ***
+02H15 Cart update          : 2019-09-07 13:51:26
+02H15 Rule                : No rule applicable
+02H15 *** CART 10397 ***
+02H15 Cart update          : 2019-09-07 14:25:27
+02H15 Rule                : No rule applicable
+02H15 *** CART 10399 ***
+02H15 Cart update          : 2019-09-07 15:20:32
+02H15 Rule                : No rule applicable
+02H15 *** CART 10403 ***
+02H15 Cart update          : 2019-09-07 18:50:09
+02H15 Rule                : No rule applicable
+02H15 *** CART 10406 ***
+02H15 Cart update          : 2019-09-08 07:34:28
+02H15 Rule                : No rule applicable
+02H15 *** CART 10407 ***
+02H15 Cart update          : 2019-09-08 12:37:25
+02H15 Rule                : No rule applicable
+02H15 END                  : 02:15:02.136842
+02H15 ************ STEP CLEANING  ****************
+02H15 END                  : 02:15:02.140439
+02H15 ************ STEP CHECK RUNNING REMINDER  ****************
+02H15 **** START                  : 02:15:02.140531
+02H15 *** CART 10278 ***
+02H15 Execution date not reached
+02H15 *** CART 10262 ***
+02H15 Execution date not reached
+02H15 *** CART 10301 ***
+02H15 Execution date not reached
+02H15 *** CART 10312 ***
+02H15 Execution date not reached
+02H15 *** CART 10284 ***
+02H15 Execution date not reached
+02H15 *** CART 10346 ***
+02H15 Execution date not reached
+02H15 *** CART 10365 ***
+02H15 Execution date not reached
+02H15 *** CART 10357 ***
+02H15 Execution date not reached
+02H15 *** CART 10371 ***
+02H15 Execution date not reached
+02H15 *** CART 10372 ***
+02H15 Execution date not reached
+02H15 *** CART 10405 ***
+02H15 Execution date not reached
+02H15 END                  : 02:15:02.156729
+02H30 Launch batch
+SHOP ID:1
+============================================================================02H30 SHOP ID:1
+02H30 SHOP                   : 1
+02H30 ************ STEP CHECK NEW CART REMINDER ****************
+02H30 **** START                  : 02:30:02.141056
+02H30 MAIN SQL               START: 02:30:02.141086
+02H30 MAIN SQL               END: 02:30:02.159854
+02H30 Carts to check  : 8
+02H30 *** CART 10392 ***
+02H30 Cart update          : 2019-09-07 10:59:55
+02H30 Rule                : No rule applicable
+02H30 *** CART 10394 ***
+02H30 Cart update          : 2019-09-07 12:33:54
+02H30 Rule                : No rule applicable
+02H30 *** CART 10396 ***
+02H30 Cart update          : 2019-09-07 13:51:26
+02H30 Rule                : No rule applicable
+02H30 *** CART 10397 ***
+02H30 Cart update          : 2019-09-07 14:25:27
+02H30 Rule                : No rule applicable
+02H30 *** CART 10399 ***
+02H30 Cart update          : 2019-09-07 15:20:32
+02H30 Rule                : No rule applicable
+02H30 *** CART 10403 ***
+02H30 Cart update          : 2019-09-07 18:50:09
+02H30 Rule                : No rule applicable
+02H30 *** CART 10406 ***
+02H30 Cart update          : 2019-09-08 07:34:28
+02H30 Rule                : No rule applicable
+02H30 *** CART 10407 ***
+02H30 Cart update          : 2019-09-08 12:37:25
+02H30 Rule                : No rule applicable
+02H30 END                  : 02:30:02.162899
+02H30 ************ STEP CLEANING  ****************
+02H30 END                  : 02:30:02.166992
+02H30 ************ STEP CHECK RUNNING REMINDER  ****************
+02H30 **** START                  : 02:30:02.167116
+02H30 *** CART 10278 ***
+02H30 Execution date not reached
+02H30 *** CART 10262 ***
+02H30 Execution date not reached
+02H30 *** CART 10301 ***
+02H30 Execution date not reached
+02H30 *** CART 10312 ***
+02H30 Execution date not reached
+02H30 *** CART 10284 ***
+02H30 Execution date not reached
+02H30 *** CART 10346 ***
+02H30 Execution date not reached
+02H30 *** CART 10365 ***
+02H30 Execution date not reached
+02H30 *** CART 10357 ***
+02H30 Execution date not reached
+02H30 *** CART 10371 ***
+02H30 Execution date not reached
+02H30 *** CART 10372 ***
+02H30 Execution date not reached
+02H30 *** CART 10405 ***
+02H30 Execution date not reached
+02H30 END                  : 02:30:02.180807
+02H45 Launch batch
+SHOP ID:1
+============================================================================02H45 SHOP ID:1
+02H45 SHOP                   : 1
+02H45 ************ STEP CHECK NEW CART REMINDER ****************
+02H45 **** START                  : 02:45:01.712621
+02H45 MAIN SQL               START: 02:45:01.712669
+02H45 MAIN SQL               END: 02:45:01.731203
+02H45 Carts to check  : 8
+02H45 *** CART 10392 ***
+02H45 Cart update          : 2019-09-07 10:59:55
+02H45 Rule                : No rule applicable
+02H45 *** CART 10394 ***
+02H45 Cart update          : 2019-09-07 12:33:54
+02H45 Rule                : No rule applicable
+02H45 *** CART 10396 ***
+02H45 Cart update          : 2019-09-07 13:51:26
+02H45 Rule                : No rule applicable
+02H45 *** CART 10397 ***
+02H45 Cart update          : 2019-09-07 14:25:27
+02H45 Rule                : No rule applicable
+02H45 *** CART 10399 ***
+02H45 Cart update          : 2019-09-07 15:20:32
+02H45 Rule                : No rule applicable
+02H45 *** CART 10403 ***
+02H45 Cart update          : 2019-09-07 18:50:09
+02H45 Rule                : No rule applicable
+02H45 *** CART 10406 ***
+02H45 Cart update          : 2019-09-08 07:34:28
+02H45 Rule                : No rule applicable
+02H45 *** CART 10407 ***
+02H45 Cart update          : 2019-09-08 12:37:25
+02H45 Rule                : No rule applicable
+02H45 END                  : 02:45:01.734177
+02H45 ************ STEP CLEANING  ****************
+02H45 END                  : 02:45:01.739256
+02H45 ************ STEP CHECK RUNNING REMINDER  ****************
+02H45 **** START                  : 02:45:01.739356
+02H45 *** CART 10278 ***
+02H45 Execution date not reached
+02H45 *** CART 10262 ***
+02H45 Execution date not reached
+02H45 *** CART 10301 ***
+02H45 Execution date not reached
+02H45 *** CART 10312 ***
+02H45 Execution date not reached
+02H45 *** CART 10284 ***
+02H45 Execution date not reached
+02H45 *** CART 10346 ***
+02H45 Execution date not reached
+02H45 *** CART 10365 ***
+02H45 Execution date not reached
+02H45 *** CART 10357 ***
+02H45 Execution date not reached
+02H45 *** CART 10371 ***
+02H45 Execution date not reached
+02H45 *** CART 10372 ***
+02H45 Execution date not reached
+02H45 *** CART 10405 ***
+02H45 Execution date not reached
+02H45 END                  : 02:45:01.751713
+03H00 Launch batch
+SHOP ID:1
+============================================================================03H00 SHOP ID:1
+03H00 SHOP                   : 1
+03H00 ************ STEP CHECK NEW CART REMINDER ****************
+03H00 **** START                  : 03:00:01.323456
+03H00 MAIN SQL               START: 03:00:01.323535
+03H00 MAIN SQL               END: 03:00:01.335993
+03H00 Carts to check  : 8
+03H00 *** CART 10392 ***
+03H00 Cart update          : 2019-09-07 10:59:55
+03H00 Rule                : No rule applicable
+03H00 *** CART 10394 ***
+03H00 Cart update          : 2019-09-07 12:33:54
+03H00 Rule                : No rule applicable
+03H00 *** CART 10396 ***
+03H00 Cart update          : 2019-09-07 13:51:26
+03H00 Rule                : No rule applicable
+03H00 *** CART 10397 ***
+03H00 Cart update          : 2019-09-07 14:25:27
+03H00 Rule                : No rule applicable
+03H00 *** CART 10399 ***
+03H00 Cart update          : 2019-09-07 15:20:32
+03H00 Rule                : No rule applicable
+03H00 *** CART 10403 ***
+03H00 Cart update          : 2019-09-07 18:50:09
+03H00 Rule                : No rule applicable
+03H00 *** CART 10406 ***
+03H00 Cart update          : 2019-09-08 07:34:28
+03H00 Rule                : No rule applicable
+03H00 *** CART 10407 ***
+03H00 Cart update          : 2019-09-08 12:37:25
+03H00 Rule                : No rule applicable
+03H00 END                  : 03:00:01.339112
+03H00 ************ STEP CLEANING  ****************
+03H00 END                  : 03:00:01.343805
+03H00 ************ STEP CHECK RUNNING REMINDER  ****************
+03H00 **** START                  : 03:00:01.343956
+03H00 *** CART 10278 ***
+03H00 Execution date not reached
+03H00 *** CART 10262 ***
+03H00 Execution date not reached
+03H00 *** CART 10301 ***
+03H00 Execution date not reached
+03H00 *** CART 10312 ***
+03H00 Execution date not reached
+03H00 *** CART 10284 ***
+03H00 Execution date not reached
+03H00 *** CART 10346 ***
+03H00 Execution date not reached
+03H00 *** CART 10365 ***
+03H00 Execution date not reached
+03H00 *** CART 10357 ***
+03H00 Execution date not reached
+03H00 *** CART 10371 ***
+03H00 Execution date not reached
+03H00 *** CART 10372 ***
+03H00 Execution date not reached
+03H00 *** CART 10405 ***
+03H00 Execution date not reached
+03H00 END                  : 03:00:01.356786
+03H15 Launch batch
+SHOP ID:1
+============================================================================03H15 SHOP ID:1
+03H15 SHOP                   : 1
+03H15 ************ STEP CHECK NEW CART REMINDER ****************
+03H15 **** START                  : 03:15:02.62789
+03H15 MAIN SQL               START: 03:15:02.62837
+03H15 MAIN SQL               END: 03:15:02.86147
+03H15 Carts to check  : 8
+03H15 *** CART 10392 ***
+03H15 Cart update          : 2019-09-07 10:59:55
+03H15 Rule                : No rule applicable
+03H15 *** CART 10394 ***
+03H15 Cart update          : 2019-09-07 12:33:54
+03H15 Rule                : No rule applicable
+03H15 *** CART 10396 ***
+03H15 Cart update          : 2019-09-07 13:51:26
+03H15 Rule                : No rule applicable
+03H15 *** CART 10397 ***
+03H15 Cart update          : 2019-09-07 14:25:27
+03H15 Rule                : No rule applicable
+03H15 *** CART 10399 ***
+03H15 Cart update          : 2019-09-07 15:20:32
+03H15 Rule                : No rule applicable
+03H15 *** CART 10403 ***
+03H15 Cart update          : 2019-09-07 18:50:09
+03H15 Rule                : No rule applicable
+03H15 *** CART 10406 ***
+03H15 Cart update          : 2019-09-08 07:34:28
+03H15 Rule                : No rule applicable
+03H15 *** CART 10407 ***
+03H15 Cart update          : 2019-09-08 12:37:25
+03H15 Rule                : No rule applicable
+03H15 END                  : 03:15:02.88673
+03H15 ************ STEP CLEANING  ****************
+03H15 END                  : 03:15:02.93883
+03H15 ************ STEP CHECK RUNNING REMINDER  ****************
+03H15 **** START                  : 03:15:02.93948
+03H15 *** CART 10278 ***
+03H15 Execution date not reached
+03H15 *** CART 10262 ***
+03H15 Execution date not reached
+03H15 *** CART 10301 ***
+03H15 Execution date not reached
+03H15 *** CART 10312 ***
+03H15 Execution date not reached
+03H15 *** CART 10284 ***
+03H15 Execution date not reached
+03H15 *** CART 10346 ***
+03H15 Execution date not reached
+03H15 *** CART 10365 ***
+03H15 Execution date not reached
+03H15 *** CART 10357 ***
+03H15 Execution date not reached
+03H15 *** CART 10371 ***
+03H15 Execution date not reached
+03H15 *** CART 10372 ***
+03H15 Execution date not reached
+03H15 *** CART 10405 ***
+03H15 Execution date not reached
+03H15 END                  : 03:15:02.103486
+03H30 Launch batch
+SHOP ID:1
+============================================================================03H30 SHOP ID:1
+03H30 SHOP                   : 1
+03H30 ************ STEP CHECK NEW CART REMINDER ****************
+03H30 **** START                  : 03:30:01.422495
+03H30 MAIN SQL               START: 03:30:01.422526
+03H30 MAIN SQL               END: 03:30:01.434669
+03H30 Carts to check  : 8
+03H30 *** CART 10392 ***
+03H30 Cart update          : 2019-09-07 10:59:55
+03H30 Rule                : No rule applicable
+03H30 *** CART 10394 ***
+03H30 Cart update          : 2019-09-07 12:33:54
+03H30 Rule                : No rule applicable
+03H30 *** CART 10396 ***
+03H30 Cart update          : 2019-09-07 13:51:26
+03H30 Rule                : No rule applicable
+03H30 *** CART 10397 ***
+03H30 Cart update          : 2019-09-07 14:25:27
+03H30 Rule                : No rule applicable
+03H30 *** CART 10399 ***
+03H30 Cart update          : 2019-09-07 15:20:32
+03H30 Rule                : No rule applicable
+03H30 *** CART 10403 ***
+03H30 Cart update          : 2019-09-07 18:50:09
+03H30 Rule                : No rule applicable
+03H30 *** CART 10406 ***
+03H30 Cart update          : 2019-09-08 07:34:28
+03H30 Rule                : No rule applicable
+03H30 *** CART 10407 ***
+03H30 Cart update          : 2019-09-08 12:37:25
+03H30 Rule                : No rule applicable
+03H30 END                  : 03:30:01.450685
+03H30 ************ STEP CLEANING  ****************
+03H30 END                  : 03:30:01.456414
+03H30 ************ STEP CHECK RUNNING REMINDER  ****************
+03H30 **** START                  : 03:30:01.456530
+03H30 *** CART 10278 ***
+03H30 Execution date not reached
+03H30 *** CART 10262 ***
+03H30 Execution date not reached
+03H30 *** CART 10301 ***
+03H30 Execution date not reached
+03H30 *** CART 10312 ***
+03H30 Execution date not reached
+03H30 *** CART 10284 ***
+03H30 Execution date not reached
+03H30 *** CART 10346 ***
+03H30 Execution date not reached
+03H30 *** CART 10365 ***
+03H30 Execution date not reached
+03H30 *** CART 10357 ***
+03H30 Execution date not reached
+03H30 *** CART 10371 ***
+03H30 Execution date not reached
+03H30 *** CART 10372 ***
+03H30 Execution date not reached
+03H30 *** CART 10405 ***
+03H30 Execution date not reached
+03H30 END                  : 03:30:01.473289
+03H45 Launch batch
+SHOP ID:1
+============================================================================03H45 SHOP ID:1
+03H45 SHOP                   : 1
+03H45 ************ STEP CHECK NEW CART REMINDER ****************
+03H45 **** START                  : 03:45:01.624998
+03H45 MAIN SQL               START: 03:45:01.625046
+03H45 MAIN SQL               END: 03:45:01.642942
+03H45 Carts to check  : 8
+03H45 *** CART 10392 ***
+03H45 Cart update          : 2019-09-07 10:59:55
+03H45 Rule                : No rule applicable
+03H45 *** CART 10394 ***
+03H45 Cart update          : 2019-09-07 12:33:54
+03H45 Rule                : No rule applicable
+03H45 *** CART 10396 ***
+03H45 Cart update          : 2019-09-07 13:51:26
+03H45 Rule                : No rule applicable
+03H45 *** CART 10397 ***
+03H45 Cart update          : 2019-09-07 14:25:27
+03H45 Rule                : No rule applicable
+03H45 *** CART 10399 ***
+03H45 Cart update          : 2019-09-07 15:20:32
+03H45 Rule                : No rule applicable
+03H45 *** CART 10403 ***
+03H45 Cart update          : 2019-09-07 18:50:09
+03H45 Rule                : No rule applicable
+03H45 *** CART 10406 ***
+03H45 Cart update          : 2019-09-08 07:34:28
+03H45 Rule                : No rule applicable
+03H45 *** CART 10407 ***
+03H45 Cart update          : 2019-09-08 12:37:25
+03H45 Rule                : No rule applicable
+03H45 END                  : 03:45:01.645951
+03H45 ************ STEP CLEANING  ****************
+03H45 END                  : 03:45:01.649763
+03H45 ************ STEP CHECK RUNNING REMINDER  ****************
+03H45 **** START                  : 03:45:01.649868
+03H45 *** CART 10278 ***
+03H45 Execution date not reached
+03H45 *** CART 10262 ***
+03H45 Execution date not reached
+03H45 *** CART 10301 ***
+03H45 Execution date not reached
+03H45 *** CART 10312 ***
+03H45 Execution date not reached
+03H45 *** CART 10284 ***
+03H45 Execution date not reached
+03H45 *** CART 10346 ***
+03H45 Execution date not reached
+03H45 *** CART 10365 ***
+03H45 Execution date not reached
+03H45 *** CART 10357 ***
+03H45 Execution date not reached
+03H45 *** CART 10371 ***
+03H45 Execution date not reached
+03H45 *** CART 10372 ***
+03H45 Execution date not reached
+03H45 *** CART 10405 ***
+03H45 Execution date not reached
+03H45 END                  : 03:45:01.663642
+04H00 Launch batch
+SHOP ID:1
+============================================================================04H00 SHOP ID:1
+04H00 SHOP                   : 1
+04H00 ************ STEP CHECK NEW CART REMINDER ****************
+04H00 **** START                  : 04:00:02.94096
+04H00 MAIN SQL               START: 04:00:02.94161
+04H00 MAIN SQL               END: 04:00:02.112306
+04H00 Carts to check  : 8
+04H00 *** CART 10392 ***
+04H00 Cart update          : 2019-09-07 10:59:55
+04H00 Rule                : No rule applicable
+04H00 *** CART 10394 ***
+04H00 Cart update          : 2019-09-07 12:33:54
+04H00 Rule                : No rule applicable
+04H00 *** CART 10396 ***
+04H00 Cart update          : 2019-09-07 13:51:26
+04H00 Rule                : No rule applicable
+04H00 *** CART 10397 ***
+04H00 Cart update          : 2019-09-07 14:25:27
+04H00 Rule                : No rule applicable
+04H00 *** CART 10399 ***
+04H00 Cart update          : 2019-09-07 15:20:32
+04H00 Rule                : No rule applicable
+04H00 *** CART 10403 ***
+04H00 Cart update          : 2019-09-07 18:50:09
+04H00 Rule                : No rule applicable
+04H00 *** CART 10406 ***
+04H00 Cart update          : 2019-09-08 07:34:28
+04H00 Rule                : No rule applicable
+04H00 *** CART 10407 ***
+04H00 Cart update          : 2019-09-08 12:37:25
+04H00 Rule                : No rule applicable
+04H00 END                  : 04:00:02.115399
+04H00 ************ STEP CLEANING  ****************
+04H00 END                  : 04:00:02.119210
+04H00 ************ STEP CHECK RUNNING REMINDER  ****************
+04H00 **** START                  : 04:00:02.119330
+04H00 *** CART 10278 ***
+04H00 Execution date not reached
+04H00 *** CART 10262 ***
+04H00 Execution date not reached
+04H00 *** CART 10301 ***
+04H00 Execution date not reached
+04H00 *** CART 10312 ***
+04H00 Execution date not reached
+04H00 *** CART 10284 ***
+04H00 Execution date not reached
+04H00 *** CART 10346 ***
+04H00 Execution date not reached
+04H00 *** CART 10365 ***
+04H00 Execution date not reached
+04H00 *** CART 10357 ***
+04H00 Execution date not reached
+04H00 *** CART 10371 ***
+04H00 Execution date not reached
+04H00 *** CART 10372 ***
+04H00 Execution date not reached
+04H00 *** CART 10405 ***
+04H00 Execution date not reached
+04H00 END                  : 04:00:02.132362
+04H15 Launch batch
+SHOP ID:1
+============================================================================04H15 SHOP ID:1
+04H15 SHOP                   : 1
+04H15 ************ STEP CHECK NEW CART REMINDER ****************
+04H15 **** START                  : 04:15:01.533798
+04H15 MAIN SQL               START: 04:15:01.533828
+04H15 MAIN SQL               END: 04:15:01.549988
+04H15 Carts to check  : 8
+04H15 *** CART 10392 ***
+04H15 Cart update          : 2019-09-07 10:59:55
+04H15 Rule                : No rule applicable
+04H15 *** CART 10394 ***
+04H15 Cart update          : 2019-09-07 12:33:54
+04H15 Rule                : No rule applicable
+04H15 *** CART 10396 ***
+04H15 Cart update          : 2019-09-07 13:51:26
+04H15 Rule                : No rule applicable
+04H15 *** CART 10397 ***
+04H15 Cart update          : 2019-09-07 14:25:27
+04H15 Rule                : No rule applicable
+04H15 *** CART 10399 ***
+04H15 Cart update          : 2019-09-07 15:20:32
+04H15 Rule                : No rule applicable
+04H15 *** CART 10403 ***
+04H15 Cart update          : 2019-09-07 18:50:09
+04H15 Rule                : No rule applicable
+04H15 *** CART 10406 ***
+04H15 Cart update          : 2019-09-08 07:34:28
+04H15 Rule                : No rule applicable
+04H15 *** CART 10407 ***
+04H15 Cart update          : 2019-09-08 12:37:25
+04H15 Rule                : No rule applicable
+04H15 END                  : 04:15:01.553067
+04H15 ************ STEP CLEANING  ****************
+04H15 END                  : 04:15:01.557183
+04H15 ************ STEP CHECK RUNNING REMINDER  ****************
+04H15 **** START                  : 04:15:01.557303
+04H15 *** CART 10278 ***
+04H15 Execution date not reached
+04H15 *** CART 10262 ***
+04H15 Execution date not reached
+04H15 *** CART 10301 ***
+04H15 Execution date not reached
+04H15 *** CART 10312 ***
+04H15 Execution date not reached
+04H15 *** CART 10284 ***
+04H15 Execution date not reached
+04H15 *** CART 10346 ***
+04H15 Execution date not reached
+04H15 *** CART 10365 ***
+04H15 Execution date not reached
+04H15 *** CART 10357 ***
+04H15 Execution date not reached
+04H15 *** CART 10371 ***
+04H15 Execution date not reached
+04H15 *** CART 10372 ***
+04H15 Execution date not reached
+04H15 *** CART 10405 ***
+04H15 Execution date not reached
+04H15 END                  : 04:15:01.568319
+04H30 Launch batch
+SHOP ID:1
+============================================================================04H30 SHOP ID:1
+04H30 SHOP                   : 1
+04H30 ************ STEP CHECK NEW CART REMINDER ****************
+04H30 **** START                  : 04:30:01.850035
+04H30 MAIN SQL               START: 04:30:01.850089
+04H30 MAIN SQL               END: 04:30:01.865765
+04H30 Carts to check  : 8
+04H30 *** CART 10392 ***
+04H30 Cart update          : 2019-09-07 10:59:55
+04H30 Rule                : No rule applicable
+04H30 *** CART 10394 ***
+04H30 Cart update          : 2019-09-07 12:33:54
+04H30 Rule                : No rule applicable
+04H30 *** CART 10396 ***
+04H30 Cart update          : 2019-09-07 13:51:26
+04H30 Rule                : No rule applicable
+04H30 *** CART 10397 ***
+04H30 Cart update          : 2019-09-07 14:25:27
+04H30 Rule                : No rule applicable
+04H30 *** CART 10399 ***
+04H30 Cart update          : 2019-09-07 15:20:32
+04H30 Rule                : No rule applicable
+04H30 *** CART 10403 ***
+04H30 Cart update          : 2019-09-07 18:50:09
+04H30 Rule                : No rule applicable
+04H30 *** CART 10406 ***
+04H30 Cart update          : 2019-09-08 07:34:28
+04H30 Rule                : No rule applicable
+04H30 *** CART 10407 ***
+04H30 Cart update          : 2019-09-08 12:37:25
+04H30 Rule                : No rule applicable
+04H30 END                  : 04:30:01.868236
+04H30 ************ STEP CLEANING  ****************
+04H30 END                  : 04:30:01.872512
+04H30 ************ STEP CHECK RUNNING REMINDER  ****************
+04H30 **** START                  : 04:30:01.872594
+04H30 *** CART 10278 ***
+04H30 Execution date not reached
+04H30 *** CART 10262 ***
+04H30 Execution date not reached
+04H30 *** CART 10301 ***
+04H30 Execution date not reached
+04H30 *** CART 10312 ***
+04H30 Execution date not reached
+04H30 *** CART 10284 ***
+04H30 Execution date not reached
+04H30 *** CART 10346 ***
+04H30 Execution date not reached
+04H30 *** CART 10365 ***
+04H30 Execution date not reached
+04H30 *** CART 10357 ***
+04H30 Execution date not reached
+04H30 *** CART 10371 ***
+04H30 Execution date not reached
+04H30 *** CART 10372 ***
+04H30 Execution date not reached
+04H30 *** CART 10405 ***
+04H30 Execution date not reached
+04H30 END                  : 04:30:01.885438
+04H45 Launch batch
+SHOP ID:1
+============================================================================04H45 SHOP ID:1
+04H45 SHOP                   : 1
+04H45 ************ STEP CHECK NEW CART REMINDER ****************
+04H45 **** START                  : 04:45:02.102897
+04H45 MAIN SQL               START: 04:45:02.102933
+04H45 MAIN SQL               END: 04:45:02.116123
+04H45 Carts to check  : 8
+04H45 *** CART 10392 ***
+04H45 Cart update          : 2019-09-07 10:59:55
+04H45 Rule                : No rule applicable
+04H45 *** CART 10394 ***
+04H45 Cart update          : 2019-09-07 12:33:54
+04H45 Rule                : No rule applicable
+04H45 *** CART 10396 ***
+04H45 Cart update          : 2019-09-07 13:51:26
+04H45 Rule                : No rule applicable
+04H45 *** CART 10397 ***
+04H45 Cart update          : 2019-09-07 14:25:27
+04H45 Rule                : No rule applicable
+04H45 *** CART 10399 ***
+04H45 Cart update          : 2019-09-07 15:20:32
+04H45 Rule                : No rule applicable
+04H45 *** CART 10403 ***
+04H45 Cart update          : 2019-09-07 18:50:09
+04H45 Rule                : No rule applicable
+04H45 *** CART 10406 ***
+04H45 Cart update          : 2019-09-08 07:34:28
+04H45 Rule                : No rule applicable
+04H45 *** CART 10407 ***
+04H45 Cart update          : 2019-09-08 12:37:25
+04H45 Rule                : No rule applicable
+04H45 END                  : 04:45:02.118375
+04H45 ************ STEP CLEANING  ****************
+04H45 END                  : 04:45:02.122043
+04H45 ************ STEP CHECK RUNNING REMINDER  ****************
+04H45 **** START                  : 04:45:02.122116
+04H45 *** CART 10278 ***
+04H45 Execution date not reached
+04H45 *** CART 10262 ***
+04H45 Execution date not reached
+04H45 *** CART 10301 ***
+04H45 Execution date not reached
+04H45 *** CART 10312 ***
+04H45 Execution date not reached
+04H45 *** CART 10284 ***
+04H45 Execution date not reached
+04H45 *** CART 10346 ***
+04H45 Execution date not reached
+04H45 *** CART 10365 ***
+04H45 Execution date not reached
+04H45 *** CART 10357 ***
+04H45 Execution date not reached
+04H45 *** CART 10371 ***
+04H45 Execution date not reached
+04H45 *** CART 10372 ***
+04H45 Execution date not reached
+04H45 *** CART 10405 ***
+04H45 Execution date not reached
+04H45 END                  : 04:45:02.132351
+05H00 Launch batch
+SHOP ID:1
+============================================================================05H00 SHOP ID:1
+05H00 SHOP                   : 1
+05H00 ************ STEP CHECK NEW CART REMINDER ****************
+05H00 **** START                  : 05:00:02.191605
+05H00 MAIN SQL               START: 05:00:02.191646
+05H00 MAIN SQL               END: 05:00:02.209721
+05H00 Carts to check  : 8
+05H00 *** CART 10392 ***
+05H00 Cart update          : 2019-09-07 10:59:55
+05H00 Rule                : No rule applicable
+05H00 *** CART 10394 ***
+05H00 Cart update          : 2019-09-07 12:33:54
+05H00 Rule                : No rule applicable
+05H00 *** CART 10396 ***
+05H00 Cart update          : 2019-09-07 13:51:26
+05H00 Rule                : No rule applicable
+05H00 *** CART 10397 ***
+05H00 Cart update          : 2019-09-07 14:25:27
+05H00 Rule                : No rule applicable
+05H00 *** CART 10399 ***
+05H00 Cart update          : 2019-09-07 15:20:32
+05H00 Rule                : No rule applicable
+05H00 *** CART 10403 ***
+05H00 Cart update          : 2019-09-07 18:50:09
+05H00 Rule                : No rule applicable
+05H00 *** CART 10406 ***
+05H00 Cart update          : 2019-09-08 07:34:28
+05H00 Rule                : No rule applicable
+05H00 *** CART 10407 ***
+05H00 Cart update          : 2019-09-08 12:37:25
+05H00 Rule                : No rule applicable
+05H00 END                  : 05:00:02.212894
+05H00 ************ STEP CLEANING  ****************
+05H00 END                  : 05:00:02.216799
+05H00 ************ STEP CHECK RUNNING REMINDER  ****************
+05H00 **** START                  : 05:00:02.216929
+05H00 *** CART 10278 ***
+05H00 Execution date not reached
+05H00 *** CART 10262 ***
+05H00 Execution date not reached
+05H00 *** CART 10301 ***
+05H00 Execution date not reached
+05H00 *** CART 10312 ***
+05H00 Execution date not reached
+05H00 *** CART 10284 ***
+05H00 Execution date not reached
+05H00 *** CART 10346 ***
+05H00 Execution date not reached
+05H00 *** CART 10365 ***
+05H00 Execution date not reached
+05H00 *** CART 10357 ***
+05H00 Execution date not reached
+05H00 *** CART 10371 ***
+05H00 Execution date not reached
+05H00 *** CART 10372 ***
+05H00 Execution date not reached
+05H00 *** CART 10405 ***
+05H00 Execution date not reached
+05H00 END                  : 05:00:02.228739
+05H15 Launch batch
+SHOP ID:1
+============================================================================05H15 SHOP ID:1
+05H15 SHOP                   : 1
+05H15 ************ STEP CHECK NEW CART REMINDER ****************
+05H15 **** START                  : 05:15:01.679067
+05H15 MAIN SQL               START: 05:15:01.679129
+05H15 MAIN SQL               END: 05:15:01.695469
+05H15 Carts to check  : 8
+05H15 *** CART 10392 ***
+05H15 Cart update          : 2019-09-07 10:59:55
+05H15 Rule                : No rule applicable
+05H15 *** CART 10394 ***
+05H15 Cart update          : 2019-09-07 12:33:54
+05H15 Rule                : No rule applicable
+05H15 *** CART 10396 ***
+05H15 Cart update          : 2019-09-07 13:51:26
+05H15 Rule                : No rule applicable
+05H15 *** CART 10397 ***
+05H15 Cart update          : 2019-09-07 14:25:27
+05H15 Rule                : No rule applicable
+05H15 *** CART 10399 ***
+05H15 Cart update          : 2019-09-07 15:20:32
+05H15 Rule                : No rule applicable
+05H15 *** CART 10403 ***
+05H15 Cart update          : 2019-09-07 18:50:09
+05H15 Rule                : No rule applicable
+05H15 *** CART 10406 ***
+05H15 Cart update          : 2019-09-08 07:34:28
+05H15 Rule                : No rule applicable
+05H15 *** CART 10407 ***
+05H15 Cart update          : 2019-09-08 12:37:25
+05H15 Rule                : No rule applicable
+05H15 END                  : 05:15:01.697608
+05H15 ************ STEP CLEANING  ****************
+05H15 END                  : 05:15:01.701146
+05H15 ************ STEP CHECK RUNNING REMINDER  ****************
+05H15 **** START                  : 05:15:01.701211
+05H15 *** CART 10278 ***
+05H15 Execution date not reached
+05H15 *** CART 10262 ***
+05H15 Execution date not reached
+05H15 *** CART 10301 ***
+05H15 Execution date not reached
+05H15 *** CART 10312 ***
+05H15 Execution date not reached
+05H15 *** CART 10284 ***
+05H15 Execution date not reached
+05H15 *** CART 10346 ***
+05H15 Execution date not reached
+05H15 *** CART 10365 ***
+05H15 Reminder position         : 3
+05H15 Reminder nb hours         : 48.00
+05H15 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+05H15 Reminder manual           : 1
+05H15 Reminder launched   : YES
+05H15 *** CART 10357 ***
+05H15 Execution date not reached
+05H15 *** CART 10371 ***
+05H15 Execution date not reached
+05H15 *** CART 10372 ***
+05H15 Execution date not reached
+05H15 *** CART 10405 ***
+05H15 Execution date not reached
+05H15 END                  : 05:15:01.848416
+05H30 Launch batch
+SHOP ID:1
+============================================================================05H30 SHOP ID:1
+05H30 SHOP                   : 1
+05H30 ************ STEP CHECK NEW CART REMINDER ****************
+05H30 **** START                  : 05:30:01.699209
+05H30 MAIN SQL               START: 05:30:01.699241
+05H30 MAIN SQL               END: 05:30:01.718601
+05H30 Carts to check  : 8
+05H30 *** CART 10392 ***
+05H30 Cart update          : 2019-09-07 10:59:55
+05H30 Rule                : No rule applicable
+05H30 *** CART 10394 ***
+05H30 Cart update          : 2019-09-07 12:33:54
+05H30 Rule                : No rule applicable
+05H30 *** CART 10396 ***
+05H30 Cart update          : 2019-09-07 13:51:26
+05H30 Rule                : No rule applicable
+05H30 *** CART 10397 ***
+05H30 Cart update          : 2019-09-07 14:25:27
+05H30 Rule                : No rule applicable
+05H30 *** CART 10399 ***
+05H30 Cart update          : 2019-09-07 15:20:32
+05H30 Rule                : No rule applicable
+05H30 *** CART 10403 ***
+05H30 Cart update          : 2019-09-07 18:50:09
+05H30 Rule                : No rule applicable
+05H30 *** CART 10406 ***
+05H30 Cart update          : 2019-09-08 07:34:28
+05H30 Rule                : No rule applicable
+05H30 *** CART 10407 ***
+05H30 Cart update          : 2019-09-08 12:37:25
+05H30 Rule                : No rule applicable
+05H30 END                  : 05:30:01.721685
+05H30 ************ STEP CLEANING  ****************
+05H30 END                  : 05:30:01.725494
+05H30 ************ STEP CHECK RUNNING REMINDER  ****************
+05H30 **** START                  : 05:30:01.725617
+05H30 *** CART 10278 ***
+05H30 Execution date not reached
+05H30 *** CART 10262 ***
+05H30 Execution date not reached
+05H30 *** CART 10301 ***
+05H30 Execution date not reached
+05H30 *** CART 10312 ***
+05H30 Execution date not reached
+05H30 *** CART 10284 ***
+05H30 Execution date not reached
+05H30 *** CART 10346 ***
+05H30 Execution date not reached
+05H30 *** CART 10365 ***
+05H30 Execution date not reached
+05H30 *** CART 10357 ***
+05H30 Execution date not reached
+05H30 *** CART 10371 ***
+05H30 Execution date not reached
+05H30 *** CART 10372 ***
+05H30 Execution date not reached
+05H30 *** CART 10405 ***
+05H30 Execution date not reached
+05H30 END                  : 05:30:01.740743
+05H45 Launch batch
+SHOP ID:1
+============================================================================05H45 SHOP ID:1
+05H45 SHOP                   : 1
+05H45 ************ STEP CHECK NEW CART REMINDER ****************
+05H45 **** START                  : 05:45:01.223887
+05H45 MAIN SQL               START: 05:45:01.223925
+05H45 MAIN SQL               END: 05:45:01.240209
+05H45 Carts to check  : 8
+05H45 *** CART 10392 ***
+05H45 Cart update          : 2019-09-07 10:59:55
+05H45 Rule                : No rule applicable
+05H45 *** CART 10394 ***
+05H45 Cart update          : 2019-09-07 12:33:54
+05H45 Rule                : No rule applicable
+05H45 *** CART 10396 ***
+05H45 Cart update          : 2019-09-07 13:51:26
+05H45 Rule                : No rule applicable
+05H45 *** CART 10397 ***
+05H45 Cart update          : 2019-09-07 14:25:27
+05H45 Rule                : No rule applicable
+05H45 *** CART 10399 ***
+05H45 Cart update          : 2019-09-07 15:20:32
+05H45 Rule                : No rule applicable
+05H45 *** CART 10403 ***
+05H45 Cart update          : 2019-09-07 18:50:09
+05H45 Rule                : No rule applicable
+05H45 *** CART 10406 ***
+05H45 Cart update          : 2019-09-08 07:34:28
+05H45 Rule                : No rule applicable
+05H45 *** CART 10407 ***
+05H45 Cart update          : 2019-09-08 12:37:25
+05H45 Rule                : No rule applicable
+05H45 END                  : 05:45:01.244009
+05H45 ************ STEP CLEANING  ****************
+05H45 END                  : 05:45:01.247563
+05H45 ************ STEP CHECK RUNNING REMINDER  ****************
+05H45 **** START                  : 05:45:01.247625
+05H45 *** CART 10278 ***
+05H45 Execution date not reached
+05H45 *** CART 10262 ***
+05H45 Execution date not reached
+05H45 *** CART 10301 ***
+05H45 Execution date not reached
+05H45 *** CART 10312 ***
+05H45 Execution date not reached
+05H45 *** CART 10284 ***
+05H45 Execution date not reached
+05H45 *** CART 10346 ***
+05H45 Execution date not reached
+05H45 *** CART 10365 ***
+05H45 Execution date not reached
+05H45 *** CART 10357 ***
+05H45 Reminder position         : 3
+05H45 Reminder nb hours         : 48.00
+05H45 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+05H45 Reminder manual           : 1
+05H45 Reminder launched   : YES
+05H45 *** CART 10371 ***
+05H45 Execution date not reached
+05H45 *** CART 10372 ***
+05H45 Execution date not reached
+05H45 *** CART 10405 ***
+05H45 Execution date not reached
+05H45 END                  : 05:45:01.502995
+06H00 Launch batch
+SHOP ID:1
+============================================================================06H00 SHOP ID:1
+06H00 SHOP                   : 1
+06H00 ************ STEP CHECK NEW CART REMINDER ****************
+06H00 **** START                  : 06:00:01.391480
+06H00 MAIN SQL               START: 06:00:01.391550
+06H00 MAIN SQL               END: 06:00:01.411595
+06H00 Carts to check  : 8
+06H00 *** CART 10392 ***
+06H00 Cart update          : 2019-09-07 10:59:55
+06H00 Rule                : No rule applicable
+06H00 *** CART 10394 ***
+06H00 Cart update          : 2019-09-07 12:33:54
+06H00 Rule                : No rule applicable
+06H00 *** CART 10396 ***
+06H00 Cart update          : 2019-09-07 13:51:26
+06H00 Rule                : No rule applicable
+06H00 *** CART 10397 ***
+06H00 Cart update          : 2019-09-07 14:25:27
+06H00 Rule                : No rule applicable
+06H00 *** CART 10399 ***
+06H00 Cart update          : 2019-09-07 15:20:32
+06H00 Rule                : No rule applicable
+06H00 *** CART 10403 ***
+06H00 Cart update          : 2019-09-07 18:50:09
+06H00 Rule                : No rule applicable
+06H00 *** CART 10406 ***
+06H00 Cart update          : 2019-09-08 07:34:28
+06H00 Rule                : No rule applicable
+06H00 *** CART 10407 ***
+06H00 Cart update          : 2019-09-08 12:37:25
+06H00 Rule                : No rule applicable
+06H00 END                  : 06:00:01.414633
+06H00 ************ STEP CLEANING  ****************
+06H00 END                  : 06:00:01.418519
+06H00 ************ STEP CHECK RUNNING REMINDER  ****************
+06H00 **** START                  : 06:00:01.418645
+06H00 *** CART 10278 ***
+06H00 Execution date not reached
+06H00 *** CART 10262 ***
+06H00 Execution date not reached
+06H00 *** CART 10301 ***
+06H00 Execution date not reached
+06H00 *** CART 10312 ***
+06H00 Execution date not reached
+06H00 *** CART 10284 ***
+06H00 Execution date not reached
+06H00 *** CART 10346 ***
+06H00 Execution date not reached
+06H00 *** CART 10365 ***
+06H00 Execution date not reached
+06H00 *** CART 10357 ***
+06H00 Execution date not reached
+06H00 *** CART 10371 ***
+06H00 Execution date not reached
+06H00 *** CART 10372 ***
+06H00 Execution date not reached
+06H00 *** CART 10405 ***
+06H00 Execution date not reached
+06H00 END                  : 06:00:01.431483
+06H15 Launch batch
+SHOP ID:1
+============================================================================06H15 SHOP ID:1
+06H15 SHOP                   : 1
+06H15 ************ STEP CHECK NEW CART REMINDER ****************
+06H15 **** START                  : 06:15:01.383224
+06H15 MAIN SQL               START: 06:15:01.383274
+06H15 MAIN SQL               END: 06:15:01.402539
+06H15 Carts to check  : 8
+06H15 *** CART 10392 ***
+06H15 Cart update          : 2019-09-07 10:59:55
+06H15 Rule                : No rule applicable
+06H15 *** CART 10394 ***
+06H15 Cart update          : 2019-09-07 12:33:54
+06H15 Rule                : No rule applicable
+06H15 *** CART 10396 ***
+06H15 Cart update          : 2019-09-07 13:51:26
+06H15 Rule                : No rule applicable
+06H15 *** CART 10397 ***
+06H15 Cart update          : 2019-09-07 14:25:27
+06H15 Rule                : No rule applicable
+06H15 *** CART 10399 ***
+06H15 Cart update          : 2019-09-07 15:20:32
+06H15 Rule                : No rule applicable
+06H15 *** CART 10403 ***
+06H15 Cart update          : 2019-09-07 18:50:09
+06H15 Rule                : No rule applicable
+06H15 *** CART 10406 ***
+06H15 Cart update          : 2019-09-08 07:34:28
+06H15 Rule                : No rule applicable
+06H15 *** CART 10407 ***
+06H15 Cart update          : 2019-09-08 12:37:25
+06H15 Rule                : No rule applicable
+06H15 END                  : 06:15:01.404664
+06H15 ************ STEP CLEANING  ****************
+06H15 END                  : 06:15:01.408687
+06H15 ************ STEP CHECK RUNNING REMINDER  ****************
+06H15 **** START                  : 06:15:01.408808
+06H15 *** CART 10278 ***
+06H15 Execution date not reached
+06H15 *** CART 10262 ***
+06H15 Execution date not reached
+06H15 *** CART 10301 ***
+06H15 Execution date not reached
+06H15 *** CART 10312 ***
+06H15 Execution date not reached
+06H15 *** CART 10284 ***
+06H15 Execution date not reached
+06H15 *** CART 10346 ***
+06H15 Execution date not reached
+06H15 *** CART 10365 ***
+06H15 Execution date not reached
+06H15 *** CART 10357 ***
+06H15 Execution date not reached
+06H15 *** CART 10371 ***
+06H15 Execution date not reached
+06H15 *** CART 10372 ***
+06H15 Execution date not reached
+06H15 *** CART 10405 ***
+06H15 Execution date not reached
+06H15 END                  : 06:15:01.423003
+06H30 Launch batch
+SHOP ID:1
+============================================================================06H30 SHOP ID:1
+06H30 SHOP                   : 1
+06H30 ************ STEP CHECK NEW CART REMINDER ****************
+06H30 **** START                  : 06:30:02.191296
+06H30 MAIN SQL               START: 06:30:02.191361
+06H30 MAIN SQL               END: 06:30:02.208993
+06H30 Carts to check  : 8
+06H30 *** CART 10392 ***
+06H30 Cart update          : 2019-09-07 10:59:55
+06H30 Rule                : No rule applicable
+06H30 *** CART 10394 ***
+06H30 Cart update          : 2019-09-07 12:33:54
+06H30 Rule                : No rule applicable
+06H30 *** CART 10396 ***
+06H30 Cart update          : 2019-09-07 13:51:26
+06H30 Rule                : No rule applicable
+06H30 *** CART 10397 ***
+06H30 Cart update          : 2019-09-07 14:25:27
+06H30 Rule                : No rule applicable
+06H30 *** CART 10399 ***
+06H30 Cart update          : 2019-09-07 15:20:32
+06H30 Rule                : No rule applicable
+06H30 *** CART 10403 ***
+06H30 Cart update          : 2019-09-07 18:50:09
+06H30 Rule                : No rule applicable
+06H30 *** CART 10406 ***
+06H30 Cart update          : 2019-09-08 07:34:28
+06H30 Rule                : No rule applicable
+06H30 *** CART 10407 ***
+06H30 Cart update          : 2019-09-08 12:37:25
+06H30 Rule                : No rule applicable
+06H30 END                  : 06:30:02.211191
+06H30 ************ STEP CLEANING  ****************
+06H30 END                  : 06:30:02.214706
+06H30 ************ STEP CHECK RUNNING REMINDER  ****************
+06H30 **** START                  : 06:30:02.214773
+06H30 *** CART 10278 ***
+06H30 Execution date not reached
+06H30 *** CART 10262 ***
+06H30 Execution date not reached
+06H30 *** CART 10301 ***
+06H30 Execution date not reached
+06H30 *** CART 10312 ***
+06H30 Execution date not reached
+06H30 *** CART 10284 ***
+06H30 Execution date not reached
+06H30 *** CART 10346 ***
+06H30 Execution date not reached
+06H30 *** CART 10365 ***
+06H30 Execution date not reached
+06H30 *** CART 10357 ***
+06H30 Execution date not reached
+06H30 *** CART 10371 ***
+06H30 Execution date not reached
+06H30 *** CART 10372 ***
+06H30 Execution date not reached
+06H30 *** CART 10405 ***
+06H30 Execution date not reached
+06H30 END                  : 06:30:02.224327
+06H45 Launch batch
+SHOP ID:1
+============================================================================06H45 SHOP ID:1
+06H45 SHOP                   : 1
+06H45 ************ STEP CHECK NEW CART REMINDER ****************
+06H45 **** START                  : 06:45:01.618612
+06H45 MAIN SQL               START: 06:45:01.618643
+06H45 MAIN SQL               END: 06:45:01.639284
+06H45 Carts to check  : 8
+06H45 *** CART 10392 ***
+06H45 Cart update          : 2019-09-07 10:59:55
+06H45 Rule                : No rule applicable
+06H45 *** CART 10394 ***
+06H45 Cart update          : 2019-09-07 12:33:54
+06H45 Rule                : No rule applicable
+06H45 *** CART 10396 ***
+06H45 Cart update          : 2019-09-07 13:51:26
+06H45 Rule                : No rule applicable
+06H45 *** CART 10397 ***
+06H45 Cart update          : 2019-09-07 14:25:27
+06H45 Rule                : No rule applicable
+06H45 *** CART 10399 ***
+06H45 Cart update          : 2019-09-07 15:20:32
+06H45 Rule                : No rule applicable
+06H45 *** CART 10403 ***
+06H45 Cart update          : 2019-09-07 18:50:09
+06H45 Rule                : No rule applicable
+06H45 *** CART 10406 ***
+06H45 Cart update          : 2019-09-08 07:34:28
+06H45 Rule                : No rule applicable
+06H45 *** CART 10407 ***
+06H45 Cart update          : 2019-09-08 12:37:25
+06H45 Rule                : No rule applicable
+06H45 END                  : 06:45:01.641305
+06H45 ************ STEP CLEANING  ****************
+06H45 END                  : 06:45:01.646541
+06H45 ************ STEP CHECK RUNNING REMINDER  ****************
+06H45 **** START                  : 06:45:01.646733
+06H45 *** CART 10278 ***
+06H45 Execution date not reached
+06H45 *** CART 10262 ***
+06H45 Execution date not reached
+06H45 *** CART 10301 ***
+06H45 Execution date not reached
+06H45 *** CART 10312 ***
+06H45 Execution date not reached
+06H45 *** CART 10284 ***
+06H45 Execution date not reached
+06H45 *** CART 10346 ***
+06H45 Execution date not reached
+06H45 *** CART 10365 ***
+06H45 Execution date not reached
+06H45 *** CART 10357 ***
+06H45 Execution date not reached
+06H45 *** CART 10371 ***
+06H45 Execution date not reached
+06H45 *** CART 10372 ***
+06H45 Execution date not reached
+06H45 *** CART 10405 ***
+06H45 Execution date not reached
+06H45 END                  : 06:45:01.663468
+07H00 Launch batch
+SHOP ID:1
+============================================================================07H00 SHOP ID:1
+07H00 SHOP                   : 1
+07H00 ************ STEP CHECK NEW CART REMINDER ****************
+07H00 **** START                  : 07:00:01.521381
+07H00 MAIN SQL               START: 07:00:01.521415
+07H00 MAIN SQL               END: 07:00:01.537738
+07H00 Carts to check  : 8
+07H00 *** CART 10392 ***
+07H00 Cart update          : 2019-09-07 10:59:55
+07H00 Rule                : No rule applicable
+07H00 *** CART 10394 ***
+07H00 Cart update          : 2019-09-07 12:33:54
+07H00 Rule                : No rule applicable
+07H00 *** CART 10396 ***
+07H00 Cart update          : 2019-09-07 13:51:26
+07H00 Rule                : No rule applicable
+07H00 *** CART 10397 ***
+07H00 Cart update          : 2019-09-07 14:25:27
+07H00 Rule                : No rule applicable
+07H00 *** CART 10399 ***
+07H00 Cart update          : 2019-09-07 15:20:32
+07H00 Rule                : No rule applicable
+07H00 *** CART 10403 ***
+07H00 Cart update          : 2019-09-07 18:50:09
+07H00 Rule                : No rule applicable
+07H00 *** CART 10406 ***
+07H00 Cart update          : 2019-09-08 07:34:28
+07H00 Rule                : No rule applicable
+07H00 *** CART 10407 ***
+07H00 Cart update          : 2019-09-08 12:37:25
+07H00 Rule                : No rule applicable
+07H00 END                  : 07:00:01.539790
+07H00 ************ STEP CLEANING  ****************
+07H00 END                  : 07:00:01.543524
+07H00 ************ STEP CHECK RUNNING REMINDER  ****************
+07H00 **** START                  : 07:00:01.543588
+07H00 *** CART 10278 ***
+07H00 Execution date not reached
+07H00 *** CART 10262 ***
+07H00 Execution date not reached
+07H00 *** CART 10301 ***
+07H00 Execution date not reached
+07H00 *** CART 10312 ***
+07H00 Execution date not reached
+07H00 *** CART 10284 ***
+07H00 Execution date not reached
+07H00 *** CART 10346 ***
+07H00 Execution date not reached
+07H00 *** CART 10365 ***
+07H00 Execution date not reached
+07H00 *** CART 10357 ***
+07H00 Execution date not reached
+07H00 *** CART 10371 ***
+07H00 Execution date not reached
+07H00 *** CART 10372 ***
+07H00 Execution date not reached
+07H00 *** CART 10405 ***
+07H00 Execution date not reached
+07H00 END                  : 07:00:01.552371
+07H15 Launch batch
+SHOP ID:1
+============================================================================07H15 SHOP ID:1
+07H15 SHOP                   : 1
+07H15 ************ STEP CHECK NEW CART REMINDER ****************
+07H15 **** START                  : 07:15:01.410882
+07H15 MAIN SQL               START: 07:15:01.410936
+07H15 MAIN SQL               END: 07:15:01.429458
+07H15 Carts to check  : 8
+07H15 *** CART 10392 ***
+07H15 Cart update          : 2019-09-07 10:59:55
+07H15 Rule                : No rule applicable
+07H15 *** CART 10394 ***
+07H15 Cart update          : 2019-09-07 12:33:54
+07H15 Rule                : No rule applicable
+07H15 *** CART 10396 ***
+07H15 Cart update          : 2019-09-07 13:51:26
+07H15 Rule                : No rule applicable
+07H15 *** CART 10397 ***
+07H15 Cart update          : 2019-09-07 14:25:27
+07H15 Rule                : No rule applicable
+07H15 *** CART 10399 ***
+07H15 Cart update          : 2019-09-07 15:20:32
+07H15 Rule                : No rule applicable
+07H15 *** CART 10403 ***
+07H15 Cart update          : 2019-09-07 18:50:09
+07H15 Rule                : No rule applicable
+07H15 *** CART 10406 ***
+07H15 Cart update          : 2019-09-08 07:34:28
+07H15 Rule                : No rule applicable
+07H15 *** CART 10407 ***
+07H15 Cart update          : 2019-09-08 12:37:25
+07H15 Rule                : No rule applicable
+07H15 END                  : 07:15:01.432435
+07H15 ************ STEP CLEANING  ****************
+07H15 END                  : 07:15:01.436267
+07H15 ************ STEP CHECK RUNNING REMINDER  ****************
+07H15 **** START                  : 07:15:01.436385
+07H15 *** CART 10278 ***
+07H15 Execution date not reached
+07H15 *** CART 10262 ***
+07H15 Execution date not reached
+07H15 *** CART 10301 ***
+07H15 Execution date not reached
+07H15 *** CART 10312 ***
+07H15 Execution date not reached
+07H15 *** CART 10284 ***
+07H15 Execution date not reached
+07H15 *** CART 10346 ***
+07H15 Execution date not reached
+07H15 *** CART 10365 ***
+07H15 Execution date not reached
+07H15 *** CART 10357 ***
+07H15 Execution date not reached
+07H15 *** CART 10371 ***
+07H15 Execution date not reached
+07H15 *** CART 10372 ***
+07H15 Execution date not reached
+07H15 *** CART 10405 ***
+07H15 Execution date not reached
+07H15 END                  : 07:15:01.447282
+07H30 Launch batch
+SHOP ID:1
+============================================================================07H30 SHOP ID:1
+07H30 SHOP                   : 1
+07H30 ************ STEP CHECK NEW CART REMINDER ****************
+07H30 **** START                  : 07:30:02.159944
+07H30 MAIN SQL               START: 07:30:02.159975
+07H30 MAIN SQL               END: 07:30:02.174513
+07H30 Carts to check  : 8
+07H30 *** CART 10392 ***
+07H30 Cart update          : 2019-09-07 10:59:55
+07H30 Rule                : No rule applicable
+07H30 *** CART 10394 ***
+07H30 Cart update          : 2019-09-07 12:33:54
+07H30 Rule                : No rule applicable
+07H30 *** CART 10396 ***
+07H30 Cart update          : 2019-09-07 13:51:26
+07H30 Rule                : No rule applicable
+07H30 *** CART 10397 ***
+07H30 Cart update          : 2019-09-07 14:25:27
+07H30 Rule                : No rule applicable
+07H30 *** CART 10399 ***
+07H30 Cart update          : 2019-09-07 15:20:32
+07H30 Rule                : No rule applicable
+07H30 *** CART 10403 ***
+07H30 Cart update          : 2019-09-07 18:50:09
+07H30 Rule                : No rule applicable
+07H30 *** CART 10406 ***
+07H30 Cart update          : 2019-09-08 07:34:28
+07H30 Rule                : No rule applicable
+07H30 *** CART 10407 ***
+07H30 Cart update          : 2019-09-08 12:37:25
+07H30 Rule                : No rule applicable
+07H30 END                  : 07:30:02.177233
+07H30 ************ STEP CLEANING  ****************
+07H30 END                  : 07:30:02.180967
+07H30 ************ STEP CHECK RUNNING REMINDER  ****************
+07H30 **** START                  : 07:30:02.181089
+07H30 *** CART 10278 ***
+07H30 Execution date not reached
+07H30 *** CART 10262 ***
+07H30 Execution date not reached
+07H30 *** CART 10301 ***
+07H30 Execution date not reached
+07H30 *** CART 10312 ***
+07H30 Execution date not reached
+07H30 *** CART 10284 ***
+07H30 Execution date not reached
+07H30 *** CART 10346 ***
+07H30 Execution date not reached
+07H30 *** CART 10365 ***
+07H30 Execution date not reached
+07H30 *** CART 10357 ***
+07H30 Execution date not reached
+07H30 *** CART 10371 ***
+07H30 Execution date not reached
+07H30 *** CART 10372 ***
+07H30 Execution date not reached
+07H30 *** CART 10405 ***
+07H30 Execution date not reached
+07H30 END                  : 07:30:02.192342
+07H45 Launch batch
+SHOP ID:1
+============================================================================07H45 SHOP ID:1
+07H45 SHOP                   : 1
+07H45 ************ STEP CHECK NEW CART REMINDER ****************
+07H45 **** START                  : 07:45:02.94652
+07H45 MAIN SQL               START: 07:45:02.94700
+07H45 MAIN SQL               END: 07:45:02.111237
+07H45 Carts to check  : 8
+07H45 *** CART 10392 ***
+07H45 Cart update          : 2019-09-07 10:59:55
+07H45 Rule                : No rule applicable
+07H45 *** CART 10394 ***
+07H45 Cart update          : 2019-09-07 12:33:54
+07H45 Rule                : No rule applicable
+07H45 *** CART 10396 ***
+07H45 Cart update          : 2019-09-07 13:51:26
+07H45 Rule                : No rule applicable
+07H45 *** CART 10397 ***
+07H45 Cart update          : 2019-09-07 14:25:27
+07H45 Rule                : No rule applicable
+07H45 *** CART 10399 ***
+07H45 Cart update          : 2019-09-07 15:20:32
+07H45 Rule                : No rule applicable
+07H45 *** CART 10403 ***
+07H45 Cart update          : 2019-09-07 18:50:09
+07H45 Rule                : No rule applicable
+07H45 *** CART 10406 ***
+07H45 Cart update          : 2019-09-08 07:34:28
+07H45 Rule                : No rule applicable
+07H45 *** CART 10407 ***
+07H45 Cart update          : 2019-09-08 12:37:25
+07H45 Rule                : No rule applicable
+07H45 END                  : 07:45:02.113399
+07H45 ************ STEP CLEANING  ****************
+07H45 END                  : 07:45:02.116986
+07H45 ************ STEP CHECK RUNNING REMINDER  ****************
+07H45 **** START                  : 07:45:02.117050
+07H45 *** CART 10278 ***
+07H45 Execution date not reached
+07H45 *** CART 10262 ***
+07H45 Execution date not reached
+07H45 *** CART 10301 ***
+07H45 Execution date not reached
+07H45 *** CART 10312 ***
+07H45 Execution date not reached
+07H45 *** CART 10284 ***
+07H45 Execution date not reached
+07H45 *** CART 10346 ***
+07H45 Execution date not reached
+07H45 *** CART 10365 ***
+07H45 Execution date not reached
+07H45 *** CART 10357 ***
+07H45 Execution date not reached
+07H45 *** CART 10371 ***
+07H45 Execution date not reached
+07H45 *** CART 10372 ***
+07H45 Execution date not reached
+07H45 *** CART 10405 ***
+07H45 Execution date not reached
+07H45 END                  : 07:45:02.126632
+08H00 Launch batch
+SHOP ID:1
+============================================================================08H00 SHOP ID:1
+08H00 SHOP                   : 1
+08H00 ************ STEP CHECK NEW CART REMINDER ****************
+08H00 **** START                  : 08:00:02.276495
+08H00 MAIN SQL               START: 08:00:02.276526
+08H00 MAIN SQL               END: 08:00:02.288119
+08H00 Carts to check  : 2
+08H00 *** CART 10407 ***
+08H00 Cart update          : 2019-09-08 12:37:25
+08H00 Rule                : No rule applicable
+08H00 *** CART 10409 ***
+08H00 Cart update          : 2019-09-08 23:53:14
+08H00 Rule                : Reminder1
+08H00 Preview to launch         : 2019-09-09 11:53:14
+08H00 Reminder position         : 1
+08H00 Reminder nb hours         : 4.00
+08H00 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+08H00 Reminder manual           : 0
+08H00 Time left                 : 13992
+08H00 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+08H00 END                  : 08:00:02.290747
+08H00 ************ STEP CLEANING  ****************
+08H00 END                  : 08:00:02.294626
+08H00 ************ STEP CHECK RUNNING REMINDER  ****************
+08H00 **** START                  : 08:00:02.294754
+08H00 *** CART 10278 ***
+08H00 Execution date not reached
+08H00 *** CART 10262 ***
+08H00 Execution date not reached
+08H00 *** CART 10301 ***
+08H00 Execution date not reached
+08H00 *** CART 10312 ***
+08H00 Execution date not reached
+08H00 *** CART 10284 ***
+08H00 Execution date not reached
+08H00 *** CART 10346 ***
+08H00 Execution date not reached
+08H00 *** CART 10365 ***
+08H00 Execution date not reached
+08H00 *** CART 10357 ***
+08H00 Execution date not reached
+08H00 *** CART 10371 ***
+08H00 Execution date not reached
+08H00 *** CART 10372 ***
+08H00 Execution date not reached
+08H00 *** CART 10405 ***
+08H00 Execution date not reached
+08H00 END                  : 08:00:02.306829
+08H15 Launch batch
+SHOP ID:1
+============================================================================08H15 SHOP ID:1
+08H15 SHOP                   : 1
+08H15 ************ STEP CHECK NEW CART REMINDER ****************
+08H15 **** START                  : 08:15:02.22116
+08H15 MAIN SQL               START: 08:15:02.22169
+08H15 MAIN SQL               END: 08:15:02.40667
+08H15 Carts to check  : 2
+08H15 *** CART 10407 ***
+08H15 Cart update          : 2019-09-08 12:37:25
+08H15 Rule                : No rule applicable
+08H15 *** CART 10409 ***
+08H15 Cart update          : 2019-09-08 23:53:14
+08H15 Rule                : Reminder1
+08H15 Preview to launch         : 2019-09-09 11:53:14
+08H15 Reminder position         : 1
+08H15 Reminder nb hours         : 4.00
+08H15 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+08H15 Reminder manual           : 0
+08H15 Time left                 : 13092
+08H15 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+08H15 END                  : 08:15:02.42725
+08H15 ************ STEP CLEANING  ****************
+08H15 END                  : 08:15:02.46201
+08H15 ************ STEP CHECK RUNNING REMINDER  ****************
+08H15 **** START                  : 08:15:02.46276
+08H15 *** CART 10278 ***
+08H15 Execution date not reached
+08H15 *** CART 10262 ***
+08H15 Execution date not reached
+08H15 *** CART 10301 ***
+08H15 Execution date not reached
+08H15 *** CART 10312 ***
+08H15 Execution date not reached
+08H15 *** CART 10284 ***
+08H15 Execution date not reached
+08H15 *** CART 10346 ***
+08H15 Execution date not reached
+08H15 *** CART 10365 ***
+08H15 Execution date not reached
+08H15 *** CART 10357 ***
+08H15 Execution date not reached
+08H15 *** CART 10371 ***
+08H15 Execution date not reached
+08H15 *** CART 10372 ***
+08H15 Execution date not reached
+08H15 *** CART 10405 ***
+08H15 Execution date not reached
+08H15 END                  : 08:15:02.55609
+08H30 Launch batch
+SHOP ID:1
+============================================================================08H30 SHOP ID:1
+08H30 SHOP                   : 1
+08H30 ************ STEP CHECK NEW CART REMINDER ****************
+08H30 **** START                  : 08:30:01.540896
+08H30 MAIN SQL               START: 08:30:01.540963
+08H30 MAIN SQL               END: 08:30:01.560578
+08H30 Carts to check  : 2
+08H30 *** CART 10407 ***
+08H30 Cart update          : 2019-09-08 12:37:25
+08H30 Rule                : No rule applicable
+08H30 *** CART 10409 ***
+08H30 Cart update          : 2019-09-08 23:53:14
+08H30 Rule                : Reminder1
+08H30 Preview to launch         : 2019-09-09 11:53:14
+08H30 Reminder position         : 1
+08H30 Reminder nb hours         : 4.00
+08H30 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+08H30 Reminder manual           : 0
+08H30 Time left                 : 12193
+08H30 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+08H30 END                  : 08:30:01.563046
+08H30 ************ STEP CLEANING  ****************
+08H30 END                  : 08:30:01.566680
+08H30 ************ STEP CHECK RUNNING REMINDER  ****************
+08H30 **** START                  : 08:30:01.566809
+08H30 *** CART 10278 ***
+08H30 Execution date not reached
+08H30 *** CART 10262 ***
+08H30 Execution date not reached
+08H30 *** CART 10301 ***
+08H30 Execution date not reached
+08H30 *** CART 10312 ***
+08H30 Execution date not reached
+08H30 *** CART 10284 ***
+08H30 Execution date not reached
+08H30 *** CART 10346 ***
+08H30 Execution date not reached
+08H30 *** CART 10365 ***
+08H30 Execution date not reached
+08H30 *** CART 10357 ***
+08H30 Execution date not reached
+08H30 *** CART 10371 ***
+08H30 Execution date not reached
+08H30 *** CART 10372 ***
+08H30 Execution date not reached
+08H30 *** CART 10405 ***
+08H30 Execution date not reached
+08H30 END                  : 08:30:01.579756
+08H45 Launch batch
+SHOP ID:1
+============================================================================08H45 SHOP ID:1
+08H45 SHOP                   : 1
+08H45 ************ STEP CHECK NEW CART REMINDER ****************
+08H45 **** START                  : 08:45:01.854823
+08H45 MAIN SQL               START: 08:45:01.854873
+08H45 MAIN SQL               END: 08:45:01.877938
+08H45 Carts to check  : 2
+08H45 *** CART 10407 ***
+08H45 Cart update          : 2019-09-08 12:37:25
+08H45 Rule                : No rule applicable
+08H45 *** CART 10409 ***
+08H45 Cart update          : 2019-09-08 23:53:14
+08H45 Rule                : Reminder1
+08H45 Preview to launch         : 2019-09-09 11:53:14
+08H45 Reminder position         : 1
+08H45 Reminder nb hours         : 4.00
+08H45 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+08H45 Reminder manual           : 0
+08H45 Time left                 : 11293
+08H45 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+08H45 END                  : 08:45:01.881656
+08H45 ************ STEP CLEANING  ****************
+08H45 END                  : 08:45:01.889023
+08H45 ************ STEP CHECK RUNNING REMINDER  ****************
+08H45 **** START                  : 08:45:01.889147
+08H45 *** CART 10278 ***
+08H45 Execution date not reached
+08H45 *** CART 10262 ***
+08H45 Execution date not reached
+08H45 *** CART 10301 ***
+08H45 Execution date not reached
+08H45 *** CART 10312 ***
+08H45 Execution date not reached
+08H45 *** CART 10284 ***
+08H45 Execution date not reached
+08H45 *** CART 10346 ***
+08H45 Execution date not reached
+08H45 *** CART 10365 ***
+08H45 Execution date not reached
+08H45 *** CART 10357 ***
+08H45 Execution date not reached
+08H45 *** CART 10371 ***
+08H45 Execution date not reached
+08H45 *** CART 10372 ***
+08H45 Execution date not reached
+08H45 *** CART 10405 ***
+08H45 Execution date not reached
+08H45 END                  : 08:45:01.904020
+09H00 Launch batch
+SHOP ID:1
+============================================================================09H00 SHOP ID:1
+09H00 SHOP                   : 1
+09H00 ************ STEP CHECK NEW CART REMINDER ****************
+09H00 **** START                  : 09:00:01.641733
+09H00 MAIN SQL               START: 09:00:01.641814
+09H00 MAIN SQL               END: 09:00:01.658119
+09H00 Carts to check  : 2
+09H00 *** CART 10407 ***
+09H00 Cart update          : 2019-09-08 12:37:25
+09H00 Rule                : No rule applicable
+09H00 *** CART 10409 ***
+09H00 Cart update          : 2019-09-08 23:53:14
+09H00 Rule                : Reminder1
+09H00 Preview to launch         : 2019-09-09 11:53:14
+09H00 Reminder position         : 1
+09H00 Reminder nb hours         : 4.00
+09H00 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+09H00 Reminder manual           : 0
+09H00 Time left                 : 10393
+09H00 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+09H00 END                  : 09:00:01.660329
+09H00 ************ STEP CLEANING  ****************
+09H00 END                  : 09:00:01.664103
+09H00 ************ STEP CHECK RUNNING REMINDER  ****************
+09H00 **** START                  : 09:00:01.664180
+09H00 *** CART 10278 ***
+09H00 Execution date not reached
+09H00 *** CART 10262 ***
+09H00 Execution date not reached
+09H00 *** CART 10301 ***
+09H00 Execution date not reached
+09H00 *** CART 10312 ***
+09H00 Execution date not reached
+09H00 *** CART 10284 ***
+09H00 Execution date not reached
+09H00 *** CART 10346 ***
+09H00 Execution date not reached
+09H00 *** CART 10365 ***
+09H00 Execution date not reached
+09H00 *** CART 10357 ***
+09H00 Execution date not reached
+09H00 *** CART 10371 ***
+09H00 Execution date not reached
+09H00 *** CART 10372 ***
+09H00 Execution date not reached
+09H00 *** CART 10405 ***
+09H00 Execution date not reached
+09H00 END                  : 09:00:01.673893
+09H15 Launch batch
+SHOP ID:1
+============================================================================09H15 SHOP ID:1
+09H15 SHOP                   : 1
+09H15 ************ STEP CHECK NEW CART REMINDER ****************
+09H15 **** START                  : 09:15:01.592893
+09H15 MAIN SQL               START: 09:15:01.592937
+09H15 MAIN SQL               END: 09:15:01.604146
+09H15 Carts to check  : 2
+09H15 *** CART 10407 ***
+09H15 Cart update          : 2019-09-08 12:37:25
+09H15 Rule                : No rule applicable
+09H15 *** CART 10409 ***
+09H15 Cart update          : 2019-09-08 23:53:14
+09H15 Rule                : Reminder1
+09H15 Preview to launch         : 2019-09-09 11:53:14
+09H15 Reminder position         : 1
+09H15 Reminder nb hours         : 4.00
+09H15 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+09H15 Reminder manual           : 0
+09H15 Time left                 : 9493
+09H15 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+09H15 END                  : 09:15:01.605966
+09H15 ************ STEP CLEANING  ****************
+09H15 END                  : 09:15:01.609695
+09H15 ************ STEP CHECK RUNNING REMINDER  ****************
+09H15 **** START                  : 09:15:01.609787
+09H15 *** CART 10278 ***
+09H15 Execution date not reached
+09H15 *** CART 10262 ***
+09H15 Execution date not reached
+09H15 *** CART 10301 ***
+09H15 Execution date not reached
+09H15 *** CART 10312 ***
+09H15 Execution date not reached
+09H15 *** CART 10284 ***
+09H15 Execution date not reached
+09H15 *** CART 10346 ***
+09H15 Execution date not reached
+09H15 *** CART 10365 ***
+09H15 Execution date not reached
+09H15 *** CART 10357 ***
+09H15 Execution date not reached
+09H15 *** CART 10371 ***
+09H15 Execution date not reached
+09H15 *** CART 10372 ***
+09H15 Execution date not reached
+09H15 *** CART 10405 ***
+09H15 Execution date not reached
+09H15 END                  : 09:15:01.622507
+09H30 Launch batch
+SHOP ID:1
+============================================================================09H30 SHOP ID:1
+09H30 SHOP                   : 1
+09H30 ************ STEP CHECK NEW CART REMINDER ****************
+09H30 **** START                  : 09:30:01.748121
+09H30 MAIN SQL               START: 09:30:01.748154
+09H30 MAIN SQL               END: 09:30:01.767048
+09H30 Carts to check  : 2
+09H30 *** CART 10407 ***
+09H30 Cart update          : 2019-09-08 12:37:25
+09H30 Rule                : No rule applicable
+09H30 *** CART 10409 ***
+09H30 Cart update          : 2019-09-08 23:53:14
+09H30 Rule                : Reminder1
+09H30 Preview to launch         : 2019-09-09 11:53:14
+09H30 Reminder position         : 1
+09H30 Reminder nb hours         : 4.00
+09H30 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+09H30 Reminder manual           : 0
+09H30 Time left                 : 8593
+09H30 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+09H30 END                  : 09:30:01.769502
+09H30 ************ STEP CLEANING  ****************
+09H30 END                  : 09:30:01.773218
+09H30 ************ STEP CHECK RUNNING REMINDER  ****************
+09H30 **** START                  : 09:30:01.773345
+09H30 *** CART 10278 ***
+09H30 Execution date not reached
+09H30 *** CART 10262 ***
+09H30 Execution date not reached
+09H30 *** CART 10301 ***
+09H30 Execution date not reached
+09H30 *** CART 10312 ***
+09H30 Execution date not reached
+09H30 *** CART 10284 ***
+09H30 Execution date not reached
+09H30 *** CART 10346 ***
+09H30 Execution date not reached
+09H30 *** CART 10365 ***
+09H30 Execution date not reached
+09H30 *** CART 10357 ***
+09H30 Execution date not reached
+09H30 *** CART 10371 ***
+09H30 Execution date not reached
+09H30 *** CART 10372 ***
+09H30 Execution date not reached
+09H30 *** CART 10405 ***
+09H30 Execution date not reached
+09H30 END                  : 09:30:01.787755
+09H45 Launch batch
+SHOP ID:1
+============================================================================09H45 SHOP ID:1
+09H45 SHOP                   : 1
+09H45 ************ STEP CHECK NEW CART REMINDER ****************
+09H45 **** START                  : 09:45:01.335719
+09H45 MAIN SQL               START: 09:45:01.335750
+09H45 MAIN SQL               END: 09:45:01.351422
+09H45 Carts to check  : 2
+09H45 *** CART 10407 ***
+09H45 Cart update          : 2019-09-08 12:37:25
+09H45 Rule                : No rule applicable
+09H45 *** CART 10409 ***
+09H45 Cart update          : 2019-09-08 23:53:14
+09H45 Rule                : Reminder1
+09H45 Preview to launch         : 2019-09-09 11:53:14
+09H45 Reminder position         : 1
+09H45 Reminder nb hours         : 4.00
+09H45 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+09H45 Reminder manual           : 0
+09H45 Time left                 : 7693
+09H45 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+09H45 END                  : 09:45:01.353450
+09H45 ************ STEP CLEANING  ****************
+09H45 END                  : 09:45:01.356509
+09H45 ************ STEP CHECK RUNNING REMINDER  ****************
+09H45 **** START                  : 09:45:01.356569
+09H45 *** CART 10278 ***
+09H45 Execution date not reached
+09H45 *** CART 10262 ***
+09H45 Execution date not reached
+09H45 *** CART 10301 ***
+09H45 Execution date not reached
+09H45 *** CART 10312 ***
+09H45 Execution date not reached
+09H45 *** CART 10284 ***
+09H45 Execution date not reached
+09H45 *** CART 10346 ***
+09H45 Execution date not reached
+09H45 *** CART 10365 ***
+09H45 Execution date not reached
+09H45 *** CART 10357 ***
+09H45 Execution date not reached
+09H45 *** CART 10371 ***
+09H45 Execution date not reached
+09H45 *** CART 10372 ***
+09H45 Execution date not reached
+09H45 *** CART 10405 ***
+09H45 Execution date not reached
+09H45 END                  : 09:45:01.367484
+10H00 Launch batch
+SHOP ID:1
+============================================================================10H00 SHOP ID:1
+10H00 SHOP                   : 1
+10H00 ************ STEP CHECK NEW CART REMINDER ****************
+10H00 **** START                  : 10:00:01.443187
+10H00 MAIN SQL               START: 10:00:01.443222
+10H00 MAIN SQL               END: 10:00:01.460767
+10H00 Carts to check  : 2
+10H00 *** CART 10407 ***
+10H00 Cart update          : 2019-09-08 12:37:25
+10H00 Rule                : No rule applicable
+10H00 *** CART 10409 ***
+10H00 Cart update          : 2019-09-08 23:53:14
+10H00 Rule                : Reminder1
+10H00 Preview to launch         : 2019-09-09 11:53:14
+10H00 Reminder position         : 1
+10H00 Reminder nb hours         : 4.00
+10H00 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+10H00 Reminder manual           : 0
+10H00 Time left                 : 6793
+10H00 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+10H00 END                  : 10:00:01.463074
+10H00 ************ STEP CLEANING  ****************
+10H00 END                  : 10:00:01.466765
+10H00 ************ STEP CHECK RUNNING REMINDER  ****************
+10H00 **** START                  : 10:00:01.466893
+10H00 *** CART 10278 ***
+10H00 Execution date not reached
+10H00 *** CART 10262 ***
+10H00 Execution date not reached
+10H00 *** CART 10301 ***
+10H00 Execution date not reached
+10H00 *** CART 10312 ***
+10H00 Execution date not reached
+10H00 *** CART 10284 ***
+10H00 Execution date not reached
+10H00 *** CART 10346 ***
+10H00 Execution date not reached
+10H00 *** CART 10365 ***
+10H00 Execution date not reached
+10H00 *** CART 10357 ***
+10H00 Execution date not reached
+10H00 *** CART 10371 ***
+10H00 Execution date not reached
+10H00 *** CART 10372 ***
+10H00 Execution date not reached
+10H00 *** CART 10405 ***
+10H00 Execution date not reached
+10H00 END                  : 10:00:01.478680
+10H15 Launch batch
+SHOP ID:1
+============================================================================10H15 SHOP ID:1
+10H15 SHOP                   : 1
+10H15 ************ STEP CHECK NEW CART REMINDER ****************
+10H15 **** START                  : 10:15:01.272197
+10H15 MAIN SQL               START: 10:15:01.272269
+10H15 MAIN SQL               END: 10:15:01.292048
+10H15 Carts to check  : 2
+10H15 *** CART 10407 ***
+10H15 Cart update          : 2019-09-08 12:37:25
+10H15 Rule                : No rule applicable
+10H15 *** CART 10409 ***
+10H15 Cart update          : 2019-09-08 23:53:14
+10H15 Rule                : Reminder1
+10H15 Preview to launch         : 2019-09-09 11:53:14
+10H15 Reminder position         : 1
+10H15 Reminder nb hours         : 4.00
+10H15 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+10H15 Reminder manual           : 0
+10H15 Time left                 : 5893
+10H15 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+10H15 END                  : 10:15:01.294303
+10H15 ************ STEP CLEANING  ****************
+10H15 END                  : 10:15:01.298216
+10H15 ************ STEP CHECK RUNNING REMINDER  ****************
+10H15 **** START                  : 10:15:01.298332
+10H15 *** CART 10278 ***
+10H15 Execution date not reached
+10H15 *** CART 10262 ***
+10H15 Execution date not reached
+10H15 *** CART 10301 ***
+10H15 Execution date not reached
+10H15 *** CART 10312 ***
+10H15 Execution date not reached
+10H15 *** CART 10284 ***
+10H15 Execution date not reached
+10H15 *** CART 10346 ***
+10H15 Execution date not reached
+10H15 *** CART 10365 ***
+10H15 Execution date not reached
+10H15 *** CART 10357 ***
+10H15 Execution date not reached
+10H15 *** CART 10371 ***
+10H15 Execution date not reached
+10H15 *** CART 10372 ***
+10H15 Execution date not reached
+10H15 *** CART 10405 ***
+10H15 Execution date not reached
+10H15 END                  : 10:15:01.311791
+10H30 Launch batch
+SHOP ID:1
+============================================================================10H30 SHOP ID:1
+10H30 SHOP                   : 1
+10H30 ************ STEP CHECK NEW CART REMINDER ****************
+10H30 **** START                  : 10:30:01.507865
+10H30 MAIN SQL               START: 10:30:01.507927
+10H30 MAIN SQL               END: 10:30:01.525105
+10H30 Carts to check  : 2
+10H30 *** CART 10407 ***
+10H30 Cart update          : 2019-09-08 12:37:25
+10H30 Rule                : No rule applicable
+10H30 *** CART 10409 ***
+10H30 Cart update          : 2019-09-08 23:53:14
+10H30 Rule                : Reminder1
+10H30 Preview to launch         : 2019-09-09 11:53:14
+10H30 Reminder position         : 1
+10H30 Reminder nb hours         : 4.00
+10H30 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+10H30 Reminder manual           : 0
+10H30 Time left                 : 4993
+10H30 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+10H30 END                  : 10:30:01.526787
+10H30 ************ STEP CLEANING  ****************
+10H30 END                  : 10:30:01.529904
+10H30 ************ STEP CHECK RUNNING REMINDER  ****************
+10H30 **** START                  : 10:30:01.529963
+10H30 *** CART 10278 ***
+10H30 Execution date not reached
+10H30 *** CART 10262 ***
+10H30 Execution date not reached
+10H30 *** CART 10301 ***
+10H30 Execution date not reached
+10H30 *** CART 10312 ***
+10H30 Execution date not reached
+10H30 *** CART 10284 ***
+10H30 Execution date not reached
+10H30 *** CART 10346 ***
+10H30 Execution date not reached
+10H30 *** CART 10365 ***
+10H30 Execution date not reached
+10H30 *** CART 10357 ***
+10H30 Execution date not reached
+10H30 *** CART 10371 ***
+10H30 Execution date not reached
+10H30 *** CART 10372 ***
+10H30 Execution date not reached
+10H30 *** CART 10405 ***
+10H30 Execution date not reached
+10H30 END                  : 10:30:01.539159
+10H45 Launch batch
+SHOP ID:1
+============================================================================10H45 SHOP ID:1
+10H45 SHOP                   : 1
+10H45 ************ STEP CHECK NEW CART REMINDER ****************
+10H45 **** START                  : 10:45:01.245503
+10H45 MAIN SQL               START: 10:45:01.245531
+10H45 MAIN SQL               END: 10:45:01.261943
+10H45 Carts to check  : 2
+10H45 *** CART 10407 ***
+10H45 Cart update          : 2019-09-08 12:37:25
+10H45 Rule                : No rule applicable
+10H45 *** CART 10409 ***
+10H45 Cart update          : 2019-09-08 23:53:14
+10H45 Rule                : Reminder1
+10H45 Preview to launch         : 2019-09-09 11:53:14
+10H45 Reminder position         : 1
+10H45 Reminder nb hours         : 4.00
+10H45 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+10H45 Reminder manual           : 0
+10H45 Time left                 : 4093
+10H45 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+10H45 END                  : 10:45:01.264352
+10H45 ************ STEP CLEANING  ****************
+10H45 END                  : 10:45:01.268088
+10H45 ************ STEP CHECK RUNNING REMINDER  ****************
+10H45 **** START                  : 10:45:01.268211
+10H45 *** CART 10278 ***
+10H45 Execution date not reached
+10H45 *** CART 10262 ***
+10H45 Execution date not reached
+10H45 *** CART 10301 ***
+10H45 Execution date not reached
+10H45 *** CART 10312 ***
+10H45 Execution date not reached
+10H45 *** CART 10284 ***
+10H45 Execution date not reached
+10H45 *** CART 10346 ***
+10H45 Execution date not reached
+10H45 *** CART 10365 ***
+10H45 Execution date not reached
+10H45 *** CART 10357 ***
+10H45 Execution date not reached
+10H45 *** CART 10371 ***
+10H45 Execution date not reached
+10H45 *** CART 10372 ***
+10H45 Execution date not reached
+10H45 *** CART 10405 ***
+10H45 Execution date not reached
+10H45 END                  : 10:45:01.279013
+11H00 Launch batch
+SHOP ID:1
+============================================================================11H00 SHOP ID:1
+11H00 SHOP                   : 1
+11H00 ************ STEP CHECK NEW CART REMINDER ****************
+11H00 **** START                  : 11:00:01.736653
+11H00 MAIN SQL               START: 11:00:01.736680
+11H00 MAIN SQL               END: 11:00:01.753029
+11H00 Carts to check  : 2
+11H00 *** CART 10407 ***
+11H00 Cart update          : 2019-09-08 12:37:25
+11H00 Rule                : No rule applicable
+11H00 *** CART 10409 ***
+11H00 Cart update          : 2019-09-08 23:53:14
+11H00 Rule                : Reminder1
+11H00 Preview to launch         : 2019-09-09 11:53:14
+11H00 Reminder position         : 1
+11H00 Reminder nb hours         : 4.00
+11H00 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+11H00 Reminder manual           : 0
+11H00 Time left                 : 3193
+11H00 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+11H00 END                  : 11:00:01.755440
+11H00 ************ STEP CLEANING  ****************
+11H00 END                  : 11:00:01.758961
+11H00 ************ STEP CHECK RUNNING REMINDER  ****************
+11H00 **** START                  : 11:00:01.759077
+11H00 *** CART 10278 ***
+11H00 Execution date not reached
+11H00 *** CART 10262 ***
+11H00 Execution date not reached
+11H00 *** CART 10301 ***
+11H00 Execution date not reached
+11H00 *** CART 10312 ***
+11H00 Execution date not reached
+11H00 *** CART 10284 ***
+11H00 Execution date not reached
+11H00 *** CART 10365 ***
+11H00 Execution date not reached
+11H00 *** CART 10357 ***
+11H00 Execution date not reached
+11H00 *** CART 10371 ***
+11H00 Execution date not reached
+11H00 *** CART 10372 ***
+11H00 Execution date not reached
+11H00 *** CART 10405 ***
+11H00 Execution date not reached
+11H00 END                  : 11:00:01.769328
+11H15 Launch batch
+SHOP ID:1
+============================================================================11H15 SHOP ID:1
+11H15 SHOP                   : 1
+11H15 ************ STEP CHECK NEW CART REMINDER ****************
+11H15 **** START                  : 11:15:01.701240
+11H15 MAIN SQL               START: 11:15:01.701296
+11H15 MAIN SQL               END: 11:15:01.716223
+11H15 Carts to check  : 2
+11H15 *** CART 10407 ***
+11H15 Cart update          : 2019-09-08 12:37:25
+11H15 Rule                : No rule applicable
+11H15 *** CART 10409 ***
+11H15 Cart update          : 2019-09-08 23:53:14
+11H15 Rule                : Reminder1
+11H15 Preview to launch         : 2019-09-09 11:53:14
+11H15 Reminder position         : 1
+11H15 Reminder nb hours         : 4.00
+11H15 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+11H15 Reminder manual           : 0
+11H15 Time left                 : 2293
+11H15 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+11H15 END                  : 11:15:01.719193
+11H15 ************ STEP CLEANING  ****************
+11H15 END                  : 11:15:01.722707
+11H15 ************ STEP CHECK RUNNING REMINDER  ****************
+11H15 **** START                  : 11:15:01.722775
+11H15 *** CART 10278 ***
+11H15 Execution date not reached
+11H15 *** CART 10262 ***
+11H15 Execution date not reached
+11H15 *** CART 10301 ***
+11H15 Execution date not reached
+11H15 *** CART 10312 ***
+11H15 Execution date not reached
+11H15 *** CART 10284 ***
+11H15 Execution date not reached
+11H15 *** CART 10365 ***
+11H15 Execution date not reached
+11H15 *** CART 10357 ***
+11H15 Execution date not reached
+11H15 *** CART 10371 ***
+11H15 Execution date not reached
+11H15 *** CART 10372 ***
+11H15 Execution date not reached
+11H15 *** CART 10405 ***
+11H15 Execution date not reached
+11H15 END                  : 11:15:01.731450
+11H30 Launch batch
+SHOP ID:1
+============================================================================11H30 SHOP ID:1
+11H30 SHOP                   : 1
+11H30 ************ STEP CHECK NEW CART REMINDER ****************
+11H30 **** START                  : 11:30:01.689898
+11H30 MAIN SQL               START: 11:30:01.689956
+11H30 MAIN SQL               END: 11:30:01.704711
+11H30 Carts to check  : 2
+11H30 *** CART 10407 ***
+11H30 Cart update          : 2019-09-08 12:37:25
+11H30 Rule                : No rule applicable
+11H30 *** CART 10409 ***
+11H30 Cart update          : 2019-09-08 23:53:14
+11H30 Rule                : Reminder1
+11H30 Preview to launch         : 2019-09-09 11:53:14
+11H30 Reminder position         : 1
+11H30 Reminder nb hours         : 4.00
+11H30 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+11H30 Reminder manual           : 0
+11H30 Time left                 : 1393
+11H30 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+11H30 END                  : 11:30:01.706986
+11H30 ************ STEP CLEANING  ****************
+11H30 END                  : 11:30:01.710234
+11H30 ************ STEP CHECK RUNNING REMINDER  ****************
+11H30 **** START                  : 11:30:01.710358
+11H30 *** CART 10278 ***
+11H30 Execution date not reached
+11H30 *** CART 10262 ***
+11H30 Execution date not reached
+11H30 *** CART 10301 ***
+11H30 Execution date not reached
+11H30 *** CART 10312 ***
+11H30 Execution date not reached
+11H30 *** CART 10284 ***
+11H30 Execution date not reached
+11H30 *** CART 10357 ***
+11H30 Execution date not reached
+11H30 *** CART 10371 ***
+11H30 Execution date not reached
+11H30 *** CART 10372 ***
+11H30 Execution date not reached
+11H30 *** CART 10405 ***
+11H30 Execution date not reached
+11H30 END                  : 11:30:01.719940
+11H45 Launch batch
+SHOP ID:1
+============================================================================11H45 SHOP ID:1
+11H45 SHOP                   : 1
+11H45 ************ STEP CHECK NEW CART REMINDER ****************
+11H45 **** START                  : 11:45:01.303461
+11H45 MAIN SQL               START: 11:45:01.303495
+11H45 MAIN SQL               END: 11:45:01.323154
+11H45 Carts to check  : 2
+11H45 *** CART 10407 ***
+11H45 Cart update          : 2019-09-08 12:37:25
+11H45 Rule                : No rule applicable
+11H45 *** CART 10409 ***
+11H45 Cart update          : 2019-09-08 23:53:14
+11H45 Rule                : Reminder1
+11H45 Preview to launch         : 2019-09-09 11:53:14
+11H45 Reminder position         : 1
+11H45 Reminder nb hours         : 4.00
+11H45 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+11H45 Reminder manual           : 0
+11H45 Time left                 : 493
+11H45 Reminder launched   : NO, time not exceeded, date preview to launch :2019-09-09 11:53:14
+11H45 END                  : 11:45:01.325178
+11H45 ************ STEP CLEANING  ****************
+11H45 END                  : 11:45:01.328325
+11H45 ************ STEP CHECK RUNNING REMINDER  ****************
+11H45 **** START                  : 11:45:01.328384
+11H45 *** CART 10278 ***
+11H45 Execution date not reached
+11H45 *** CART 10262 ***
+11H45 Execution date not reached
+11H45 *** CART 10301 ***
+11H45 Execution date not reached
+11H45 *** CART 10312 ***
+11H45 Execution date not reached
+11H45 *** CART 10284 ***
+11H45 Execution date not reached
+11H45 *** CART 10357 ***
+11H45 Execution date not reached
+11H45 *** CART 10371 ***
+11H45 Execution date not reached
+11H45 *** CART 10372 ***
+11H45 Execution date not reached
+11H45 *** CART 10405 ***
+11H45 Execution date not reached
+11H45 END                  : 11:45:01.337374
+12H00 Launch batch
+SHOP ID:1
+============================================================================12H00 SHOP ID:1
+12H00 SHOP                   : 1
+12H00 ************ STEP CHECK NEW CART REMINDER ****************
+12H00 **** START                  : 12:00:01.472392
+12H00 MAIN SQL               START: 12:00:01.472423
+12H00 MAIN SQL               END: 12:00:01.489265
+12H00 Carts to check  : 2
+12H00 *** CART 10407 ***
+12H00 Cart update          : 2019-09-08 12:37:25
+12H00 Rule                : No rule applicable
+12H00 *** CART 10409 ***
+12H00 Cart update          : 2019-09-08 23:53:14
+12H00 Rule                : Reminder1
+12H00 Preview to launch         : 2019-09-09 11:53:14
+12H00 Reminder position         : 1
+12H00 Reminder nb hours         : 4.00
+12H00 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+12H00 Reminder manual           : 0
+12H00 Time left                 : -407
+12H00 Reminder launched   : YES
+12H00 END                  : 12:00:01.639338
+12H00 ************ STEP CLEANING  ****************
+12H00 END                  : 12:00:01.645449
+12H00 ************ STEP CHECK RUNNING REMINDER  ****************
+12H00 **** START                  : 12:00:01.645613
+12H00 *** CART 10278 ***
+12H00 Execution date not reached
+12H00 *** CART 10262 ***
+12H00 Execution date not reached
+12H00 *** CART 10301 ***
+12H00 Execution date not reached
+12H00 *** CART 10312 ***
+12H00 Execution date not reached
+12H00 *** CART 10284 ***
+12H00 Execution date not reached
+12H00 *** CART 10357 ***
+12H00 Execution date not reached
+12H00 *** CART 10371 ***
+12H00 Execution date not reached
+12H00 *** CART 10372 ***
+12H00 Execution date not reached
+12H00 *** CART 10405 ***
+12H00 Execution date not reached
+12H00 *** CART 10409 ***
+12H00 Execution date not reached
+12H00 END                  : 12:00:01.669921
+12H15 Launch batch
+SHOP ID:1
+============================================================================12H15 SHOP ID:1
+12H15 SHOP                   : 1
+12H15 ************ STEP CHECK NEW CART REMINDER ****************
+12H15 **** START                  : 12:15:01.480591
+12H15 MAIN SQL               START: 12:15:01.480640
+12H15 MAIN SQL               END: 12:15:01.499637
+12H15 Carts to check  : 1
+12H15 *** CART 10407 ***
+12H15 Cart update          : 2019-09-08 12:37:25
+12H15 Rule                : No rule applicable
+12H15 END                  : 12:15:01.500427
+12H15 ************ STEP CLEANING  ****************
+12H15 END                  : 12:15:01.503976
+12H15 ************ STEP CHECK RUNNING REMINDER  ****************
+12H15 **** START                  : 12:15:01.504106
+12H15 *** CART 10278 ***
+12H15 Execution date not reached
+12H15 *** CART 10262 ***
+12H15 Execution date not reached
+12H15 *** CART 10301 ***
+12H15 Execution date not reached
+12H15 *** CART 10312 ***
+12H15 Execution date not reached
+12H15 *** CART 10284 ***
+12H15 Execution date not reached
+12H15 *** CART 10357 ***
+12H15 Execution date not reached
+12H15 *** CART 10371 ***
+12H15 Execution date not reached
+12H15 *** CART 10372 ***
+12H15 Execution date not reached
+12H15 *** CART 10405 ***
+12H15 Execution date not reached
+12H15 *** CART 10409 ***
+12H15 Execution date not reached
+12H15 END                  : 12:15:01.517744
+12H30 Launch batch
+SHOP ID:1
+============================================================================12H30 SHOP ID:1
+12H30 SHOP                   : 1
+12H30 ************ STEP CHECK NEW CART REMINDER ****************
+12H30 **** START                  : 12:30:01.565654
+12H30 MAIN SQL               START: 12:30:01.565685
+12H30 MAIN SQL               END: 12:30:01.576044
+12H30 Carts to check  : 1
+12H30 *** CART 10407 ***
+12H30 Cart update          : 2019-09-08 12:37:25
+12H30 Rule                : No rule applicable
+12H30 END                  : 12:30:01.576658
+12H30 ************ STEP CLEANING  ****************
+12H30 END                  : 12:30:01.579964
+12H30 ************ STEP CHECK RUNNING REMINDER  ****************
+12H30 **** START                  : 12:30:01.580031
+12H30 *** CART 10278 ***
+12H30 Execution date not reached
+12H30 *** CART 10262 ***
+12H30 Execution date not reached
+12H30 *** CART 10301 ***
+12H30 Execution date not reached
+12H30 *** CART 10312 ***
+12H30 Execution date not reached
+12H30 *** CART 10284 ***
+12H30 Execution date not reached
+12H30 *** CART 10357 ***
+12H30 Execution date not reached
+12H30 *** CART 10371 ***
+12H30 Execution date not reached
+12H30 *** CART 10372 ***
+12H30 Execution date not reached
+12H30 *** CART 10405 ***
+12H30 Execution date not reached
+12H30 *** CART 10409 ***
+12H30 Execution date not reached
+12H30 END                  : 12:30:01.588857
+12H45 Launch batch
+SHOP ID:1
+============================================================================12H45 SHOP ID:1
+12H45 SHOP                   : 1
+12H45 ************ STEP CHECK NEW CART REMINDER ****************
+12H45 **** START                  : 12:45:01.275305
+12H45 MAIN SQL               START: 12:45:01.275345
+12H45 MAIN SQL               END: 12:45:01.290975
+12H45 Carts to check  : 1
+12H45 *** CART 10407 ***
+12H45 Cart update          : 2019-09-08 12:37:25
+12H45 Rule                : No rule applicable
+12H45 END                  : 12:45:01.291737
+12H45 ************ STEP CLEANING  ****************
+12H45 END                  : 12:45:01.296043
+12H45 ************ STEP CHECK RUNNING REMINDER  ****************
+12H45 **** START                  : 12:45:01.296119
+12H45 *** CART 10278 ***
+12H45 Execution date not reached
+12H45 *** CART 10262 ***
+12H45 Execution date not reached
+12H45 *** CART 10301 ***
+12H45 Execution date not reached
+12H45 *** CART 10312 ***
+12H45 Execution date not reached
+12H45 *** CART 10284 ***
+12H45 Execution date not reached
+12H45 *** CART 10357 ***
+12H45 Execution date not reached
+12H45 *** CART 10371 ***
+12H45 Execution date not reached
+12H45 *** CART 10372 ***
+12H45 Execution date not reached
+12H45 *** CART 10405 ***
+12H45 Execution date not reached
+12H45 *** CART 10409 ***
+12H45 Execution date not reached
+12H45 END                  : 12:45:01.306289
+13H00 Launch batch
+SHOP ID:1
+============================================================================13H00 SHOP ID:1
+13H00 SHOP                   : 1
+13H00 ************ STEP CHECK NEW CART REMINDER ****************
+13H00 **** START                  : 13:00:01.540735
+13H00 MAIN SQL               START: 13:00:01.540782
+13H00 MAIN SQL               END: 13:00:01.551099
+13H00 Carts to check  : 1
+13H00 *** CART 10407 ***
+13H00 Cart update          : 2019-09-08 12:37:25
+13H00 Rule                : No rule applicable
+13H00 END                  : 13:00:01.551773
+13H00 ************ STEP CLEANING  ****************
+13H00 END                  : 13:00:01.554825
+13H00 ************ STEP CHECK RUNNING REMINDER  ****************
+13H00 **** START                  : 13:00:01.554908
+13H00 *** CART 10278 ***
+13H00 Execution date not reached
+13H00 *** CART 10262 ***
+13H00 Execution date not reached
+13H00 *** CART 10301 ***
+13H00 Execution date not reached
+13H00 *** CART 10312 ***
+13H00 Execution date not reached
+13H00 *** CART 10284 ***
+13H00 Execution date not reached
+13H00 *** CART 10357 ***
+13H00 Execution date not reached
+13H00 *** CART 10371 ***
+13H00 Execution date not reached
+13H00 *** CART 10372 ***
+13H00 Execution date not reached
+13H00 *** CART 10405 ***
+13H00 Reminder position         : 2
+13H00 Reminder nb hours         : 24.00
+13H00 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+13H00 Reminder manual           : 0
+13H00 Reminder launched   : YES
+13H00 *** CART 10409 ***
+13H00 Execution date not reached
+13H00 END                  : 13:00:01.716428
+13H15 Launch batch
+SHOP ID:1
+============================================================================13H15 SHOP ID:1
+13H15 SHOP                   : 1
+13H15 ************ STEP CHECK NEW CART REMINDER ****************
+13H15 **** START                  : 13:15:02.143794
+13H15 MAIN SQL               START: 13:15:02.144049
+13H15 MAIN SQL               END: 13:15:02.161612
+13H15 Carts to check  : 1
+13H15 *** CART 10407 ***
+13H15 Cart update          : 2019-09-08 12:37:25
+13H15 Rule                : No rule applicable
+13H15 END                  : 13:15:02.162427
+13H15 ************ STEP CLEANING  ****************
+13H15 END                  : 13:15:02.166052
+13H15 ************ STEP CHECK RUNNING REMINDER  ****************
+13H15 **** START                  : 13:15:02.166186
+13H15 *** CART 10278 ***
+13H15 Execution date not reached
+13H15 *** CART 10262 ***
+13H15 Execution date not reached
+13H15 *** CART 10301 ***
+13H15 Execution date not reached
+13H15 *** CART 10312 ***
+13H15 Execution date not reached
+13H15 *** CART 10284 ***
+13H15 Execution date not reached
+13H15 *** CART 10357 ***
+13H15 Execution date not reached
+13H15 *** CART 10371 ***
+13H15 Execution date not reached
+13H15 *** CART 10372 ***
+13H15 Execution date not reached
+13H15 *** CART 10405 ***
+13H15 Execution date not reached
+13H15 *** CART 10409 ***
+13H15 Execution date not reached
+13H15 END                  : 13:15:02.175555
+13H30 Launch batch
+SHOP ID:1
+============================================================================13H30 SHOP ID:1
+13H30 SHOP                   : 1
+13H30 ************ STEP CHECK NEW CART REMINDER ****************
+13H30 **** START                  : 13:30:02.142528
+13H30 MAIN SQL               START: 13:30:02.142578
+13H30 MAIN SQL               END: 13:30:02.159568
+13H30 Carts to check  : 1
+13H30 *** CART 10407 ***
+13H30 Cart update          : 2019-09-08 12:37:25
+13H30 Rule                : No rule applicable
+13H30 END                  : 13:30:02.160346
+13H30 ************ STEP CLEANING  ****************
+13H30 END                  : 13:30:02.164099
+13H30 ************ STEP CHECK RUNNING REMINDER  ****************
+13H30 **** START                  : 13:30:02.164228
+13H30 *** CART 10278 ***
+13H30 Execution date not reached
+13H30 *** CART 10262 ***
+13H30 Execution date not reached
+13H30 *** CART 10301 ***
+13H30 Execution date not reached
+13H30 *** CART 10312 ***
+13H30 Execution date not reached
+13H30 *** CART 10284 ***
+13H30 Execution date not reached
+13H30 *** CART 10357 ***
+13H30 Execution date not reached
+13H30 *** CART 10371 ***
+13H30 Execution date not reached
+13H30 *** CART 10372 ***
+13H30 Execution date not reached
+13H30 *** CART 10405 ***
+13H30 Execution date not reached
+13H30 *** CART 10409 ***
+13H30 Execution date not reached
+13H30 END                  : 13:30:02.175058
+13H45 Launch batch
+SHOP ID:1
+============================================================================13H45 SHOP ID:1
+13H45 SHOP                   : 1
+13H45 ************ STEP CHECK NEW CART REMINDER ****************
+13H45 **** START                  : 13:45:01.298878
+13H45 MAIN SQL               START: 13:45:01.298911
+13H45 MAIN SQL               END: 13:45:01.309922
+13H45 Carts to check  : 1
+13H45 *** CART 10407 ***
+13H45 Cart update          : 2019-09-08 12:37:25
+13H45 Rule                : No rule applicable
+13H45 END                  : 13:45:01.310535
+13H45 ************ STEP CLEANING  ****************
+13H45 END                  : 13:45:01.313914
+13H45 ************ STEP CHECK RUNNING REMINDER  ****************
+13H45 **** START                  : 13:45:01.313987
+13H45 *** CART 10278 ***
+13H45 Execution date not reached
+13H45 *** CART 10262 ***
+13H45 Execution date not reached
+13H45 *** CART 10301 ***
+13H45 Execution date not reached
+13H45 *** CART 10312 ***
+13H45 Execution date not reached
+13H45 *** CART 10284 ***
+13H45 Execution date not reached
+13H45 *** CART 10357 ***
+13H45 Execution date not reached
+13H45 *** CART 10371 ***
+13H45 Execution date not reached
+13H45 *** CART 10372 ***
+13H45 Execution date not reached
+13H45 *** CART 10405 ***
+13H45 Execution date not reached
+13H45 *** CART 10409 ***
+13H45 Execution date not reached
+13H45 END                  : 13:45:01.322930
+14H00 Launch batch
+SHOP ID:1
+============================================================================14H00 SHOP ID:1
+14H00 SHOP                   : 1
+14H00 ************ STEP CHECK NEW CART REMINDER ****************
+14H00 **** START                  : 14:00:01.637412
+14H00 MAIN SQL               START: 14:00:01.637450
+14H00 MAIN SQL               END: 14:00:01.655680
+14H00 Carts to check  : 1
+14H00 *** CART 10407 ***
+14H00 Cart update          : 2019-09-08 12:37:25
+14H00 Rule                : No rule applicable
+14H00 END                  : 14:00:01.656557
+14H00 ************ STEP CLEANING  ****************
+14H00 END                  : 14:00:01.660428
+14H00 ************ STEP CHECK RUNNING REMINDER  ****************
+14H00 **** START                  : 14:00:01.660561
+14H00 *** CART 10278 ***
+14H00 Execution date not reached
+14H00 *** CART 10262 ***
+14H00 Execution date not reached
+14H00 *** CART 10301 ***
+14H00 Execution date not reached
+14H00 *** CART 10312 ***
+14H00 Execution date not reached
+14H00 *** CART 10284 ***
+14H00 Execution date not reached
+14H00 *** CART 10357 ***
+14H00 Execution date not reached
+14H00 *** CART 10371 ***
+14H00 Execution date not reached
+14H00 *** CART 10372 ***
+14H00 Execution date not reached
+14H00 *** CART 10405 ***
+14H00 Execution date not reached
+14H00 *** CART 10409 ***
+14H00 Execution date not reached
+14H00 END                  : 14:00:01.670604
+14H15 Launch batch
+SHOP ID:1
+============================================================================14H15 SHOP ID:1
+14H15 SHOP                   : 1
+14H15 ************ STEP CHECK NEW CART REMINDER ****************
+14H15 **** START                  : 14:15:01.342498
+14H15 MAIN SQL               START: 14:15:01.342580
+14H15 MAIN SQL               END: 14:15:01.356803
+14H15 Carts to check  : 1
+14H15 *** CART 10407 ***
+14H15 Cart update          : 2019-09-08 12:37:25
+14H15 Rule                : No rule applicable
+14H15 END                  : 14:15:01.357355
+14H15 ************ STEP CLEANING  ****************
+14H15 END                  : 14:15:01.360515
+14H15 ************ STEP CHECK RUNNING REMINDER  ****************
+14H15 **** START                  : 14:15:01.360574
+14H15 *** CART 10278 ***
+14H15 Execution date not reached
+14H15 *** CART 10262 ***
+14H15 Execution date not reached
+14H15 *** CART 10301 ***
+14H15 Execution date not reached
+14H15 *** CART 10312 ***
+14H15 Execution date not reached
+14H15 *** CART 10284 ***
+14H15 Execution date not reached
+14H15 *** CART 10357 ***
+14H15 Execution date not reached
+14H15 *** CART 10371 ***
+14H15 Execution date not reached
+14H15 *** CART 10372 ***
+14H15 Execution date not reached
+14H15 *** CART 10405 ***
+14H15 Execution date not reached
+14H15 *** CART 10409 ***
+14H15 Execution date not reached
+14H15 END                  : 14:15:01.368944
+14H30 Launch batch
+SHOP ID:1
+============================================================================14H30 SHOP ID:1
+14H30 SHOP                   : 1
+14H30 ************ STEP CHECK NEW CART REMINDER ****************
+14H30 **** START                  : 14:30:02.179415
+14H30 MAIN SQL               START: 14:30:02.179444
+14H30 MAIN SQL               END: 14:30:02.198698
+14H30 Carts to check  : 1
+14H30 *** CART 10407 ***
+14H30 Cart update          : 2019-09-08 12:37:25
+14H30 Rule                : No rule applicable
+14H30 END                  : 14:30:02.199558
+14H30 ************ STEP CLEANING  ****************
+14H30 END                  : 14:30:02.203777
+14H30 ************ STEP CHECK RUNNING REMINDER  ****************
+14H30 **** START                  : 14:30:02.203907
+14H30 *** CART 10278 ***
+14H30 Execution date not reached
+14H30 *** CART 10262 ***
+14H30 Execution date not reached
+14H30 *** CART 10301 ***
+14H30 Execution date not reached
+14H30 *** CART 10312 ***
+14H30 Execution date not reached
+14H30 *** CART 10284 ***
+14H30 Execution date not reached
+14H30 *** CART 10357 ***
+14H30 Execution date not reached
+14H30 *** CART 10371 ***
+14H30 Execution date not reached
+14H30 *** CART 10372 ***
+14H30 Execution date not reached
+14H30 *** CART 10405 ***
+14H30 Execution date not reached
+14H30 *** CART 10409 ***
+14H30 Execution date not reached
+14H30 END                  : 14:30:02.216902
+14H45 Launch batch
+SHOP ID:1
+============================================================================14H45 SHOP ID:1
+14H45 SHOP                   : 1
+14H45 ************ STEP CHECK NEW CART REMINDER ****************
+14H45 **** START                  : 14:45:01.998410
+14H45 MAIN SQL               START: 14:45:01.998453
+14H45 MAIN SQL               END: 14:45:02.12630
+14H45 Carts to check  : 1
+14H45 *** CART 10407 ***
+14H45 Cart update          : 2019-09-08 12:37:25
+14H45 Rule                : No rule applicable
+14H45 END                  : 14:45:02.13387
+14H45 ************ STEP CLEANING  ****************
+14H45 END                  : 14:45:02.17527
+14H45 ************ STEP CHECK RUNNING REMINDER  ****************
+14H45 **** START                  : 14:45:02.17603
+14H45 *** CART 10278 ***
+14H45 Execution date not reached
+14H45 *** CART 10262 ***
+14H45 Execution date not reached
+14H45 *** CART 10301 ***
+14H45 Execution date not reached
+14H45 *** CART 10312 ***
+14H45 Execution date not reached
+14H45 *** CART 10284 ***
+14H45 Execution date not reached
+14H45 *** CART 10357 ***
+14H45 Execution date not reached
+14H45 *** CART 10371 ***
+14H45 Execution date not reached
+14H45 *** CART 10372 ***
+14H45 Execution date not reached
+14H45 *** CART 10405 ***
+14H45 Execution date not reached
+14H45 *** CART 10409 ***
+14H45 Execution date not reached
+14H45 END                  : 14:45:02.26790
+15H00 Launch batch
+SHOP ID:1
+============================================================================15H00 SHOP ID:1
+15H00 SHOP                   : 1
+15H00 ************ STEP CHECK NEW CART REMINDER ****************
+15H00 **** START                  : 15:00:01.617031
+15H00 MAIN SQL               START: 15:00:01.617064
+15H00 MAIN SQL               END: 15:00:01.632360
+15H00 Carts to check  : 1
+15H00 *** CART 10407 ***
+15H00 Cart update          : 2019-09-08 12:37:25
+15H00 Rule                : No rule applicable
+15H00 END                  : 15:00:01.633320
+15H00 ************ STEP CLEANING  ****************
+15H00 END                  : 15:00:01.637783
+15H00 ************ STEP CHECK RUNNING REMINDER  ****************
+15H00 **** START                  : 15:00:01.637903
+15H00 *** CART 10278 ***
+15H00 Execution date not reached
+15H00 *** CART 10262 ***
+15H00 Execution date not reached
+15H00 *** CART 10301 ***
+15H00 Execution date not reached
+15H00 *** CART 10312 ***
+15H00 Execution date not reached
+15H00 *** CART 10284 ***
+15H00 Execution date not reached
+15H00 *** CART 10357 ***
+15H00 Execution date not reached
+15H00 *** CART 10371 ***
+15H00 Execution date not reached
+15H00 *** CART 10372 ***
+15H00 Execution date not reached
+15H00 *** CART 10405 ***
+15H00 Execution date not reached
+15H00 *** CART 10409 ***
+15H00 Execution date not reached
+15H00 END                  : 15:00:01.651865
+15H15 Launch batch
+SHOP ID:1
+============================================================================15H15 SHOP ID:1
+15H15 SHOP                   : 1
+15H15 ************ STEP CHECK NEW CART REMINDER ****************
+15H15 **** START                  : 15:15:01.485126
+15H15 MAIN SQL               START: 15:15:01.485174
+15H15 MAIN SQL               END: 15:15:01.500106
+15H15 Carts to check  : 1
+15H15 *** CART 10407 ***
+15H15 Cart update          : 2019-09-08 12:37:25
+15H15 Rule                : No rule applicable
+15H15 END                  : 15:15:01.500683
+15H15 ************ STEP CLEANING  ****************
+15H15 END                  : 15:15:01.503799
+15H15 ************ STEP CHECK RUNNING REMINDER  ****************
+15H15 **** START                  : 15:15:01.503856
+15H15 *** CART 10278 ***
+15H15 Execution date not reached
+15H15 *** CART 10262 ***
+15H15 Execution date not reached
+15H15 *** CART 10301 ***
+15H15 Execution date not reached
+15H15 *** CART 10312 ***
+15H15 Execution date not reached
+15H15 *** CART 10284 ***
+15H15 Execution date not reached
+15H15 *** CART 10357 ***
+15H15 Execution date not reached
+15H15 *** CART 10371 ***
+15H15 Execution date not reached
+15H15 *** CART 10372 ***
+15H15 Execution date not reached
+15H15 *** CART 10405 ***
+15H15 Execution date not reached
+15H15 *** CART 10409 ***
+15H15 Execution date not reached
+15H15 END                  : 15:15:01.512302
+15H30 Launch batch
+SHOP ID:1
+============================================================================15H30 SHOP ID:1
+15H30 SHOP                   : 1
+15H30 ************ STEP CHECK NEW CART REMINDER ****************
+15H30 **** START                  : 15:30:02.64417
+15H30 MAIN SQL               START: 15:30:02.64451
+15H30 MAIN SQL               END: 15:30:02.74503
+15H30 Carts to check  : 1
+15H30 *** CART 10407 ***
+15H30 Cart update          : 2019-09-08 12:37:25
+15H30 Rule                : No rule applicable
+15H30 END                  : 15:30:02.75127
+15H30 ************ STEP CLEANING  ****************
+15H30 END                  : 15:30:02.78081
+15H30 ************ STEP CHECK RUNNING REMINDER  ****************
+15H30 **** START                  : 15:30:02.78144
+15H30 *** CART 10278 ***
+15H30 Execution date not reached
+15H30 *** CART 10262 ***
+15H30 Execution date not reached
+15H30 *** CART 10301 ***
+15H30 Execution date not reached
+15H30 *** CART 10312 ***
+15H30 Execution date not reached
+15H30 *** CART 10284 ***
+15H30 Execution date not reached
+15H30 *** CART 10357 ***
+15H30 Execution date not reached
+15H30 *** CART 10371 ***
+15H30 Execution date not reached
+15H30 *** CART 10372 ***
+15H30 Execution date not reached
+15H30 *** CART 10405 ***
+15H30 Execution date not reached
+15H30 *** CART 10409 ***
+15H30 Execution date not reached
+15H30 END                  : 15:30:02.86914
+15H45 Launch batch
+SHOP ID:1
+============================================================================15H45 SHOP ID:1
+15H45 SHOP                   : 1
+15H45 ************ STEP CHECK NEW CART REMINDER ****************
+15H45 **** START                  : 15:45:01.406657
+15H45 MAIN SQL               START: 15:45:01.406716
+15H45 MAIN SQL               END: 15:45:01.424954
+15H45 Carts to check  : 1
+15H45 *** CART 10407 ***
+15H45 Cart update          : 2019-09-08 12:37:25
+15H45 Rule                : No rule applicable
+15H45 END                  : 15:45:01.425723
+15H45 ************ STEP CLEANING  ****************
+15H45 END                  : 15:45:01.429106
+15H45 ************ STEP CHECK RUNNING REMINDER  ****************
+15H45 **** START                  : 15:45:01.429222
+15H45 *** CART 10278 ***
+15H45 Execution date not reached
+15H45 *** CART 10262 ***
+15H45 Execution date not reached
+15H45 *** CART 10301 ***
+15H45 Execution date not reached
+15H45 *** CART 10312 ***
+15H45 Execution date not reached
+15H45 *** CART 10284 ***
+15H45 Execution date not reached
+15H45 *** CART 10357 ***
+15H45 Execution date not reached
+15H45 *** CART 10371 ***
+15H45 Execution date not reached
+15H45 *** CART 10372 ***
+15H45 Execution date not reached
+15H45 *** CART 10405 ***
+15H45 Execution date not reached
+15H45 *** CART 10409 ***
+15H45 Execution date not reached
+15H45 END                  : 15:45:01.440329
+16H00 Launch batch
+SHOP ID:1
+============================================================================16H00 SHOP ID:1
+16H00 SHOP                   : 1
+16H00 ************ STEP CHECK NEW CART REMINDER ****************
+16H00 **** START                  : 16:00:01.541311
+16H00 MAIN SQL               START: 16:00:01.541340
+16H00 MAIN SQL               END: 16:00:01.557890
+16H00 Carts to check  : 1
+16H00 *** CART 10407 ***
+16H00 Cart update          : 2019-09-08 12:37:25
+16H00 Rule                : No rule applicable
+16H00 END                  : 16:00:01.558704
+16H00 ************ STEP CLEANING  ****************
+16H00 END                  : 16:00:01.562356
+16H00 ************ STEP CHECK RUNNING REMINDER  ****************
+16H00 **** START                  : 16:00:01.562478
+16H00 *** CART 10278 ***
+16H00 Execution date not reached
+16H00 *** CART 10262 ***
+16H00 Execution date not reached
+16H00 *** CART 10301 ***
+16H00 Execution date not reached
+16H00 *** CART 10312 ***
+16H00 Execution date not reached
+16H00 *** CART 10284 ***
+16H00 Execution date not reached
+16H00 *** CART 10357 ***
+16H00 Execution date not reached
+16H00 *** CART 10371 ***
+16H00 Execution date not reached
+16H00 *** CART 10372 ***
+16H00 Execution date not reached
+16H00 *** CART 10405 ***
+16H00 Execution date not reached
+16H00 *** CART 10409 ***
+16H00 Execution date not reached
+16H00 END                  : 16:00:01.573437
+16H15 Launch batch
+SHOP ID:1
+============================================================================16H15 SHOP ID:1
+16H15 SHOP                   : 1
+16H15 ************ STEP CHECK NEW CART REMINDER ****************
+16H15 **** START                  : 16:15:01.641305
+16H15 MAIN SQL               START: 16:15:01.641355
+16H15 MAIN SQL               END: 16:15:01.660747
+16H15 Carts to check  : 1
+16H15 *** CART 10407 ***
+16H15 Cart update          : 2019-09-08 12:37:25
+16H15 Rule                : No rule applicable
+16H15 END                  : 16:15:01.661380
+16H15 ************ STEP CLEANING  ****************
+16H15 END                  : 16:15:01.665831
+16H15 ************ STEP CHECK RUNNING REMINDER  ****************
+16H15 **** START                  : 16:15:01.665982
+16H15 *** CART 10278 ***
+16H15 Execution date not reached
+16H15 *** CART 10262 ***
+16H15 Execution date not reached
+16H15 *** CART 10301 ***
+16H15 Execution date not reached
+16H15 *** CART 10312 ***
+16H15 Execution date not reached
+16H15 *** CART 10284 ***
+16H15 Execution date not reached
+16H15 *** CART 10357 ***
+16H15 Execution date not reached
+16H15 *** CART 10371 ***
+16H15 Execution date not reached
+16H15 *** CART 10372 ***
+16H15 Execution date not reached
+16H15 *** CART 10405 ***
+16H15 Execution date not reached
+16H15 *** CART 10409 ***
+16H15 Execution date not reached
+16H15 END                  : 16:15:01.676342
+16H30 Launch batch
+SHOP ID:1
+============================================================================16H30 SHOP ID:1
+16H30 SHOP                   : 1
+16H30 ************ STEP CHECK NEW CART REMINDER ****************
+16H30 **** START                  : 16:30:01.694923
+16H30 MAIN SQL               START: 16:30:01.694954
+16H30 MAIN SQL               END: 16:30:01.708428
+16H30 Carts to check  : 2
+16H30 *** CART 10407 ***
+16H30 Cart update          : 2019-09-08 12:37:25
+16H30 Rule                : No rule applicable
+16H30 *** CART 10416 ***
+16H30 Cart update          : 2019-09-09 08:29:04
+16H30 Rule                : No rule applicable
+16H30 END                  : 16:30:01.729702
+16H30 ************ STEP CLEANING  ****************
+16H30 END                  : 16:30:01.733298
+16H30 ************ STEP CHECK RUNNING REMINDER  ****************
+16H30 **** START                  : 16:30:01.733374
+16H30 *** CART 10278 ***
+16H30 Execution date not reached
+16H30 *** CART 10262 ***
+16H30 Execution date not reached
+16H30 *** CART 10301 ***
+16H30 Execution date not reached
+16H30 *** CART 10312 ***
+16H30 Execution date not reached
+16H30 *** CART 10284 ***
+16H30 Execution date not reached
+16H30 *** CART 10357 ***
+16H30 Execution date not reached
+16H30 *** CART 10371 ***
+16H30 Execution date not reached
+16H30 *** CART 10372 ***
+16H30 Execution date not reached
+16H30 *** CART 10405 ***
+16H30 Execution date not reached
+16H30 *** CART 10409 ***
+16H30 Execution date not reached
+16H30 END                  : 16:30:01.747975
+16H45 Launch batch
+SHOP ID:1
+============================================================================16H45 SHOP ID:1
+16H45 SHOP                   : 1
+16H45 ************ STEP CHECK NEW CART REMINDER ****************
+16H45 **** START                  : 16:45:02.60347
+16H45 MAIN SQL               START: 16:45:02.60394
+16H45 MAIN SQL               END: 16:45:02.78299
+16H45 Carts to check  : 2
+16H45 *** CART 10407 ***
+16H45 Cart update          : 2019-09-08 12:37:25
+16H45 Rule                : No rule applicable
+16H45 *** CART 10416 ***
+16H45 Cart update          : 2019-09-09 08:29:04
+16H45 Rule                : No rule applicable
+16H45 END                  : 16:45:02.79529
+16H45 ************ STEP CLEANING  ****************
+16H45 END                  : 16:45:02.84240
+16H45 ************ STEP CHECK RUNNING REMINDER  ****************
+16H45 **** START                  : 16:45:02.84361
+16H45 *** CART 10278 ***
+16H45 Execution date not reached
+16H45 *** CART 10262 ***
+16H45 Execution date not reached
+16H45 *** CART 10301 ***
+16H45 Execution date not reached
+16H45 *** CART 10312 ***
+16H45 Execution date not reached
+16H45 *** CART 10284 ***
+16H45 Execution date not reached
+16H45 *** CART 10357 ***
+16H45 Execution date not reached
+16H45 *** CART 10371 ***
+16H45 Execution date not reached
+16H45 *** CART 10372 ***
+16H45 Execution date not reached
+16H45 *** CART 10405 ***
+16H45 Execution date not reached
+16H45 *** CART 10409 ***
+16H45 Execution date not reached
+16H45 END                  : 16:45:02.99400
+17H00 Launch batch
+SHOP ID:1
+============================================================================17H00 SHOP ID:1
+17H00 SHOP                   : 1
+17H00 ************ STEP CHECK NEW CART REMINDER ****************
+17H00 **** START                  : 17:00:02.72437
+17H00 MAIN SQL               START: 17:00:02.72468
+17H00 MAIN SQL               END: 17:00:02.88392
+17H00 Carts to check  : 2
+17H00 *** CART 10407 ***
+17H00 Cart update          : 2019-09-08 12:37:25
+17H00 Rule                : No rule applicable
+17H00 *** CART 10416 ***
+17H00 Cart update          : 2019-09-09 08:29:04
+17H00 Rule                : No rule applicable
+17H00 END                  : 17:00:02.89491
+17H00 ************ STEP CLEANING  ****************
+17H00 END                  : 17:00:02.92980
+17H00 ************ STEP CHECK RUNNING REMINDER  ****************
+17H00 **** START                  : 17:00:02.93108
+17H00 *** CART 10278 ***
+17H00 Execution date not reached
+17H00 *** CART 10262 ***
+17H00 Execution date not reached
+17H00 *** CART 10301 ***
+17H00 Execution date not reached
+17H00 *** CART 10312 ***
+17H00 Execution date not reached
+17H00 *** CART 10284 ***
+17H00 Execution date not reached
+17H00 *** CART 10357 ***
+17H00 Execution date not reached
+17H00 *** CART 10371 ***
+17H00 Execution date not reached
+17H00 *** CART 10372 ***
+17H00 Execution date not reached
+17H00 *** CART 10405 ***
+17H00 Execution date not reached
+17H00 *** CART 10409 ***
+17H00 Execution date not reached
+17H00 END                  : 17:00:02.103660
+17H15 Launch batch
+SHOP ID:1
+============================================================================17H15 SHOP ID:1
+17H15 SHOP                   : 1
+17H15 ************ STEP CHECK NEW CART REMINDER ****************
+17H15 **** START                  : 17:15:01.598892
+17H15 MAIN SQL               START: 17:15:01.598953
+17H15 MAIN SQL               END: 17:15:01.618712
+17H15 Carts to check  : 2
+17H15 *** CART 10407 ***
+17H15 Cart update          : 2019-09-08 12:37:25
+17H15 Rule                : No rule applicable
+17H15 *** CART 10416 ***
+17H15 Cart update          : 2019-09-09 08:29:04
+17H15 Rule                : No rule applicable
+17H15 END                  : 17:15:01.620033
+17H15 ************ STEP CLEANING  ****************
+17H15 END                  : 17:15:01.623240
+17H15 ************ STEP CHECK RUNNING REMINDER  ****************
+17H15 **** START                  : 17:15:01.623301
+17H15 *** CART 10278 ***
+17H15 Execution date not reached
+17H15 *** CART 10262 ***
+17H15 Execution date not reached
+17H15 *** CART 10301 ***
+17H15 Execution date not reached
+17H15 *** CART 10312 ***
+17H15 Execution date not reached
+17H15 *** CART 10284 ***
+17H15 Execution date not reached
+17H15 *** CART 10357 ***
+17H15 Execution date not reached
+17H15 *** CART 10371 ***
+17H15 Execution date not reached
+17H15 *** CART 10372 ***
+17H15 Execution date not reached
+17H15 *** CART 10405 ***
+17H15 Execution date not reached
+17H15 *** CART 10409 ***
+17H15 Execution date not reached
+17H15 END                  : 17:15:01.635248
+17H30 Launch batch
+SHOP ID:1
+============================================================================17H30 SHOP ID:1
+17H30 SHOP                   : 1
+17H30 ************ STEP CHECK NEW CART REMINDER ****************
+17H30 **** START                  : 17:30:02.118788
+17H30 MAIN SQL               START: 17:30:02.118860
+17H30 MAIN SQL               END: 17:30:02.135973
+17H30 Carts to check  : 2
+17H30 *** CART 10407 ***
+17H30 Cart update          : 2019-09-08 12:37:25
+17H30 Rule                : No rule applicable
+17H30 *** CART 10416 ***
+17H30 Cart update          : 2019-09-09 08:29:04
+17H30 Rule                : No rule applicable
+17H30 END                  : 17:30:02.136920
+17H30 ************ STEP CLEANING  ****************
+17H30 END                  : 17:30:02.140177
+17H30 ************ STEP CHECK RUNNING REMINDER  ****************
+17H30 **** START                  : 17:30:02.140242
+17H30 *** CART 10278 ***
+17H30 Execution date not reached
+17H30 *** CART 10262 ***
+17H30 Execution date not reached
+17H30 *** CART 10301 ***
+17H30 Execution date not reached
+17H30 *** CART 10312 ***
+17H30 Execution date not reached
+17H30 *** CART 10284 ***
+17H30 Execution date not reached
+17H30 *** CART 10357 ***
+17H30 Execution date not reached
+17H30 *** CART 10371 ***
+17H30 Execution date not reached
+17H30 *** CART 10372 ***
+17H30 Execution date not reached
+17H30 *** CART 10405 ***
+17H30 Execution date not reached
+17H30 *** CART 10409 ***
+17H30 Execution date not reached
+17H30 END                  : 17:30:02.149427
+17H45 Launch batch
+SHOP ID:1
+============================================================================17H45 SHOP ID:1
+17H45 SHOP                   : 1
+17H45 ************ STEP CHECK NEW CART REMINDER ****************
+17H45 **** START                  : 17:45:01.490323
+17H45 MAIN SQL               START: 17:45:01.490371
+17H45 MAIN SQL               END: 17:45:01.509499
+17H45 Carts to check  : 2
+17H45 *** CART 10407 ***
+17H45 Cart update          : 2019-09-08 12:37:25
+17H45 Rule                : No rule applicable
+17H45 *** CART 10416 ***
+17H45 Cart update          : 2019-09-09 08:29:04
+17H45 Rule                : No rule applicable
+17H45 END                  : 17:45:01.511236
+17H45 ************ STEP CLEANING  ****************
+17H45 END                  : 17:45:01.516846
+17H45 ************ STEP CHECK RUNNING REMINDER  ****************
+17H45 **** START                  : 17:45:01.516969
+17H45 *** CART 10278 ***
+17H45 Execution date not reached
+17H45 *** CART 10262 ***
+17H45 Execution date not reached
+17H45 *** CART 10301 ***
+17H45 Execution date not reached
+17H45 *** CART 10312 ***
+17H45 Execution date not reached
+17H45 *** CART 10284 ***
+17H45 Execution date not reached
+17H45 *** CART 10357 ***
+17H45 Execution date not reached
+17H45 *** CART 10371 ***
+17H45 Execution date not reached
+17H45 *** CART 10372 ***
+17H45 Execution date not reached
+17H45 *** CART 10405 ***
+17H45 Execution date not reached
+17H45 *** CART 10409 ***
+17H45 Execution date not reached
+17H45 END                  : 17:45:01.530120
+18H00 Launch batch
+SHOP ID:1
+============================================================================18H00 SHOP ID:1
+18H00 SHOP                   : 1
+18H00 ************ STEP CHECK NEW CART REMINDER ****************
+18H00 **** START                  : 18:00:02.163931
+18H00 MAIN SQL               START: 18:00:02.163968
+18H00 MAIN SQL               END: 18:00:02.176244
+18H00 Carts to check  : 2
+18H00 *** CART 10407 ***
+18H00 Cart update          : 2019-09-08 12:37:25
+18H00 Rule                : No rule applicable
+18H00 *** CART 10416 ***
+18H00 Cart update          : 2019-09-09 08:29:04
+18H00 Rule                : No rule applicable
+18H00 END                  : 18:00:02.177203
+18H00 ************ STEP CLEANING  ****************
+18H00 END                  : 18:00:02.180762
+18H00 ************ STEP CHECK RUNNING REMINDER  ****************
+18H00 **** START                  : 18:00:02.180892
+18H00 *** CART 10278 ***
+18H00 Execution date not reached
+18H00 *** CART 10262 ***
+18H00 Execution date not reached
+18H00 *** CART 10301 ***
+18H00 Execution date not reached
+18H00 *** CART 10312 ***
+18H00 Execution date not reached
+18H00 *** CART 10284 ***
+18H00 Execution date not reached
+18H00 *** CART 10357 ***
+18H00 Execution date not reached
+18H00 *** CART 10371 ***
+18H00 Execution date not reached
+18H00 *** CART 10372 ***
+18H00 Execution date not reached
+18H00 *** CART 10405 ***
+18H00 Execution date not reached
+18H00 *** CART 10409 ***
+18H00 Execution date not reached
+18H00 END                  : 18:00:02.191411
+18H15 Launch batch
+SHOP ID:1
+============================================================================18H15 SHOP ID:1
+18H15 SHOP                   : 1
+18H15 ************ STEP CHECK NEW CART REMINDER ****************
+18H15 **** START                  : 18:15:01.289516
+18H15 MAIN SQL               START: 18:15:01.289573
+18H15 MAIN SQL               END: 18:15:01.308462
+18H15 Carts to check  : 2
+18H15 *** CART 10407 ***
+18H15 Cart update          : 2019-09-08 12:37:25
+18H15 Rule                : No rule applicable
+18H15 *** CART 10416 ***
+18H15 Cart update          : 2019-09-09 08:29:04
+18H15 Rule                : No rule applicable
+18H15 END                  : 18:15:01.309995
+18H15 ************ STEP CLEANING  ****************
+18H15 END                  : 18:15:01.315836
+18H15 ************ STEP CHECK RUNNING REMINDER  ****************
+18H15 **** START                  : 18:15:01.315965
+18H15 *** CART 10278 ***
+18H15 Execution date not reached
+18H15 *** CART 10262 ***
+18H15 Execution date not reached
+18H15 *** CART 10301 ***
+18H15 Execution date not reached
+18H15 *** CART 10312 ***
+18H15 Execution date not reached
+18H15 *** CART 10284 ***
+18H15 Execution date not reached
+18H15 *** CART 10357 ***
+18H15 Execution date not reached
+18H15 *** CART 10371 ***
+18H15 Execution date not reached
+18H15 *** CART 10372 ***
+18H15 Execution date not reached
+18H15 *** CART 10405 ***
+18H15 Execution date not reached
+18H15 *** CART 10409 ***
+18H15 Execution date not reached
+18H15 END                  : 18:15:01.329792
+18H30 Launch batch
+SHOP ID:1
+============================================================================18H30 SHOP ID:1
+18H30 SHOP                   : 1
+18H30 ************ STEP CHECK NEW CART REMINDER ****************
+18H30 **** START                  : 18:30:01.414049
+18H30 MAIN SQL               START: 18:30:01.414079
+18H30 MAIN SQL               END: 18:30:01.436007
+18H30 Carts to check  : 2
+18H30 *** CART 10407 ***
+18H30 Cart update          : 2019-09-08 12:37:25
+18H30 Rule                : No rule applicable
+18H30 *** CART 10416 ***
+18H30 Cart update          : 2019-09-09 08:29:04
+18H30 Rule                : No rule applicable
+18H30 END                  : 18:30:01.437271
+18H30 ************ STEP CLEANING  ****************
+18H30 END                  : 18:30:01.441360
+18H30 ************ STEP CHECK RUNNING REMINDER  ****************
+18H30 **** START                  : 18:30:01.441487
+18H30 *** CART 10278 ***
+18H30 Execution date not reached
+18H30 *** CART 10262 ***
+18H30 Execution date not reached
+18H30 *** CART 10301 ***
+18H30 Execution date not reached
+18H30 *** CART 10312 ***
+18H30 Execution date not reached
+18H30 *** CART 10284 ***
+18H30 Execution date not reached
+18H30 *** CART 10357 ***
+18H30 Execution date not reached
+18H30 *** CART 10371 ***
+18H30 Execution date not reached
+18H30 *** CART 10372 ***
+18H30 Execution date not reached
+18H30 *** CART 10405 ***
+18H30 Execution date not reached
+18H30 *** CART 10409 ***
+18H30 Execution date not reached
+18H30 END                  : 18:30:01.453094
+18H45 Launch batch
+SHOP ID:1
+============================================================================18H45 SHOP ID:1
+18H45 SHOP                   : 1
+18H45 ************ STEP CHECK NEW CART REMINDER ****************
+18H45 **** START                  : 18:45:01.813206
+18H45 MAIN SQL               START: 18:45:01.813274
+18H45 MAIN SQL               END: 18:45:01.833697
+18H45 Carts to check  : 2
+18H45 *** CART 10407 ***
+18H45 Cart update          : 2019-09-08 12:37:25
+18H45 Rule                : No rule applicable
+18H45 *** CART 10416 ***
+18H45 Cart update          : 2019-09-09 08:29:04
+18H45 Rule                : No rule applicable
+18H45 END                  : 18:45:01.834886
+18H45 ************ STEP CLEANING  ****************
+18H45 END                  : 18:45:01.838721
+18H45 ************ STEP CHECK RUNNING REMINDER  ****************
+18H45 **** START                  : 18:45:01.838851
+18H45 *** CART 10278 ***
+18H45 Execution date not reached
+18H45 *** CART 10262 ***
+18H45 Execution date not reached
+18H45 *** CART 10301 ***
+18H45 Execution date not reached
+18H45 *** CART 10312 ***
+18H45 Execution date not reached
+18H45 *** CART 10284 ***
+18H45 Execution date not reached
+18H45 *** CART 10357 ***
+18H45 Execution date not reached
+18H45 *** CART 10371 ***
+18H45 Execution date not reached
+18H45 *** CART 10372 ***
+18H45 Execution date not reached
+18H45 *** CART 10405 ***
+18H45 Execution date not reached
+18H45 *** CART 10409 ***
+18H45 Execution date not reached
+18H45 END                  : 18:45:01.853709
+19H00 Launch batch
+SHOP ID:1
+============================================================================19H00 SHOP ID:1
+19H00 SHOP                   : 1
+19H00 ************ STEP CHECK NEW CART REMINDER ****************
+19H00 **** START                  : 19:00:01.496640
+19H00 MAIN SQL               START: 19:00:01.496670
+19H00 MAIN SQL               END: 19:00:01.507195
+19H00 Carts to check  : 2
+19H00 *** CART 10407 ***
+19H00 Cart update          : 2019-09-08 12:37:25
+19H00 Rule                : No rule applicable
+19H00 *** CART 10416 ***
+19H00 Cart update          : 2019-09-09 08:29:04
+19H00 Rule                : No rule applicable
+19H00 END                  : 19:00:01.507982
+19H00 ************ STEP CLEANING  ****************
+19H00 END                  : 19:00:01.511085
+19H00 ************ STEP CHECK RUNNING REMINDER  ****************
+19H00 **** START                  : 19:00:01.511143
+19H00 *** CART 10278 ***
+19H00 Execution date not reached
+19H00 *** CART 10262 ***
+19H00 Execution date not reached
+19H00 *** CART 10301 ***
+19H00 Execution date not reached
+19H00 *** CART 10312 ***
+19H00 Execution date not reached
+19H00 *** CART 10284 ***
+19H00 Execution date not reached
+19H00 *** CART 10357 ***
+19H00 Execution date not reached
+19H00 *** CART 10371 ***
+19H00 Execution date not reached
+19H00 *** CART 10372 ***
+19H00 Execution date not reached
+19H00 *** CART 10405 ***
+19H00 Execution date not reached
+19H00 *** CART 10409 ***
+19H00 Execution date not reached
+19H00 END                  : 19:00:01.520105
+19H15 Launch batch
+SHOP ID:1
+============================================================================19H15 SHOP ID:1
+19H15 SHOP                   : 1
+19H15 ************ STEP CHECK NEW CART REMINDER ****************
+19H15 **** START                  : 19:15:01.735601
+19H15 MAIN SQL               START: 19:15:01.735659
+19H15 MAIN SQL               END: 19:15:01.746887
+19H15 Carts to check  : 2
+19H15 *** CART 10407 ***
+19H15 Cart update          : 2019-09-08 12:37:25
+19H15 Rule                : No rule applicable
+19H15 *** CART 10416 ***
+19H15 Cart update          : 2019-09-09 08:29:04
+19H15 Rule                : No rule applicable
+19H15 END                  : 19:15:01.748006
+19H15 ************ STEP CLEANING  ****************
+19H15 END                  : 19:15:01.751650
+19H15 ************ STEP CHECK RUNNING REMINDER  ****************
+19H15 **** START                  : 19:15:01.751773
+19H15 *** CART 10278 ***
+19H15 Execution date not reached
+19H15 *** CART 10262 ***
+19H15 Execution date not reached
+19H15 *** CART 10301 ***
+19H15 Execution date not reached
+19H15 *** CART 10312 ***
+19H15 Execution date not reached
+19H15 *** CART 10284 ***
+19H15 Execution date not reached
+19H15 *** CART 10357 ***
+19H15 Execution date not reached
+19H15 *** CART 10371 ***
+19H15 Execution date not reached
+19H15 *** CART 10372 ***
+19H15 Execution date not reached
+19H15 *** CART 10405 ***
+19H15 Execution date not reached
+19H15 *** CART 10409 ***
+19H15 Execution date not reached
+19H15 END                  : 19:15:01.762076
+19H30 Launch batch
+SHOP ID:1
+============================================================================19H30 SHOP ID:1
+19H30 SHOP                   : 1
+19H30 ************ STEP CHECK NEW CART REMINDER ****************
+19H30 **** START                  : 19:30:02.6296
+19H30 MAIN SQL               START: 19:30:02.6361
+19H30 MAIN SQL               END: 19:30:02.25117
+19H30 Carts to check  : 2
+19H30 *** CART 10407 ***
+19H30 Cart update          : 2019-09-08 12:37:25
+19H30 Rule                : No rule applicable
+19H30 *** CART 10416 ***
+19H30 Cart update          : 2019-09-09 08:29:04
+19H30 Rule                : No rule applicable
+19H30 END                  : 19:30:02.26254
+19H30 ************ STEP CLEANING  ****************
+19H30 END                  : 19:30:02.30033
+19H30 ************ STEP CHECK RUNNING REMINDER  ****************
+19H30 **** START                  : 19:30:02.30161
+19H30 *** CART 10278 ***
+19H30 Execution date not reached
+19H30 *** CART 10262 ***
+19H30 Execution date not reached
+19H30 *** CART 10301 ***
+19H30 Execution date not reached
+19H30 *** CART 10312 ***
+19H30 Execution date not reached
+19H30 *** CART 10284 ***
+19H30 Execution date not reached
+19H30 *** CART 10357 ***
+19H30 Execution date not reached
+19H30 *** CART 10371 ***
+19H30 Execution date not reached
+19H30 *** CART 10372 ***
+19H30 Execution date not reached
+19H30 *** CART 10405 ***
+19H30 Execution date not reached
+19H30 *** CART 10409 ***
+19H30 Execution date not reached
+19H30 END                  : 19:30:02.42172
+19H45 Launch batch
+SHOP ID:1
+============================================================================19H45 SHOP ID:1
+19H45 SHOP                   : 1
+19H45 ************ STEP CHECK NEW CART REMINDER ****************
+19H45 **** START                  : 19:45:01.897245
+19H45 MAIN SQL               START: 19:45:01.897305
+19H45 MAIN SQL               END: 19:45:01.913419
+19H45 Carts to check  : 2
+19H45 *** CART 10407 ***
+19H45 Cart update          : 2019-09-08 12:37:25
+19H45 Rule                : No rule applicable
+19H45 *** CART 10416 ***
+19H45 Cart update          : 2019-09-09 08:29:04
+19H45 Rule                : No rule applicable
+19H45 END                  : 19:45:01.914239
+19H45 ************ STEP CLEANING  ****************
+19H45 END                  : 19:45:01.917481
+19H45 ************ STEP CHECK RUNNING REMINDER  ****************
+19H45 **** START                  : 19:45:01.917542
+19H45 *** CART 10278 ***
+19H45 Execution date not reached
+19H45 *** CART 10262 ***
+19H45 Execution date not reached
+19H45 *** CART 10301 ***
+19H45 Execution date not reached
+19H45 *** CART 10312 ***
+19H45 Execution date not reached
+19H45 *** CART 10284 ***
+19H45 Execution date not reached
+19H45 *** CART 10357 ***
+19H45 Execution date not reached
+19H45 *** CART 10371 ***
+19H45 Execution date not reached
+19H45 *** CART 10372 ***
+19H45 Execution date not reached
+19H45 *** CART 10405 ***
+19H45 Execution date not reached
+19H45 *** CART 10409 ***
+19H45 Execution date not reached
+19H45 END                  : 19:45:01.926475
+20H00 Launch batch
+SHOP ID:1
+============================================================================20H00 SHOP ID:1
+20H00 SHOP                   : 1
+20H00 ************ STEP CHECK NEW CART REMINDER ****************
+20H00 **** START                  : 20:00:01.539707
+20H00 MAIN SQL               START: 20:00:01.539816
+20H00 MAIN SQL               END: 20:00:01.554194
+20H00 Carts to check  : 2
+20H00 *** CART 10407 ***
+20H00 Cart update          : 2019-09-08 12:37:25
+20H00 Rule                : No rule applicable
+20H00 *** CART 10416 ***
+20H00 Cart update          : 2019-09-09 08:29:04
+20H00 Rule                : No rule applicable
+20H00 END                  : 20:00:01.555483
+20H00 ************ STEP CLEANING  ****************
+20H00 END                  : 20:00:01.559300
+20H00 ************ STEP CHECK RUNNING REMINDER  ****************
+20H00 **** START                  : 20:00:01.559432
+20H00 *** CART 10278 ***
+20H00 Execution date not reached
+20H00 *** CART 10262 ***
+20H00 Execution date not reached
+20H00 *** CART 10301 ***
+20H00 Execution date not reached
+20H00 *** CART 10312 ***
+20H00 Execution date not reached
+20H00 *** CART 10284 ***
+20H00 Execution date not reached
+20H00 *** CART 10357 ***
+20H00 Execution date not reached
+20H00 *** CART 10371 ***
+20H00 Execution date not reached
+20H00 *** CART 10372 ***
+20H00 Execution date not reached
+20H00 *** CART 10405 ***
+20H00 Execution date not reached
+20H00 *** CART 10409 ***
+20H00 Execution date not reached
+20H00 END                  : 20:00:01.572244
+20H15 Launch batch
+SHOP ID:1
+============================================================================20H15 SHOP ID:1
+20H15 SHOP                   : 1
+20H15 ************ STEP CHECK NEW CART REMINDER ****************
+20H15 **** START                  : 20:15:02.88571
+20H15 MAIN SQL               START: 20:15:02.88620
+20H15 MAIN SQL               END: 20:15:02.108556
+20H15 Carts to check  : 2
+20H15 *** CART 10407 ***
+20H15 Cart update          : 2019-09-08 12:37:25
+20H15 Rule                : No rule applicable
+20H15 *** CART 10416 ***
+20H15 Cart update          : 2019-09-09 08:29:04
+20H15 Rule                : No rule applicable
+20H15 END                  : 20:15:02.109685
+20H15 ************ STEP CLEANING  ****************
+20H15 END                  : 20:15:02.113310
+20H15 ************ STEP CHECK RUNNING REMINDER  ****************
+20H15 **** START                  : 20:15:02.113431
+20H15 *** CART 10278 ***
+20H15 Execution date not reached
+20H15 *** CART 10262 ***
+20H15 Execution date not reached
+20H15 *** CART 10301 ***
+20H15 Execution date not reached
+20H15 *** CART 10312 ***
+20H15 Execution date not reached
+20H15 *** CART 10284 ***
+20H15 Execution date not reached
+20H15 *** CART 10357 ***
+20H15 Execution date not reached
+20H15 *** CART 10371 ***
+20H15 Execution date not reached
+20H15 *** CART 10372 ***
+20H15 Execution date not reached
+20H15 *** CART 10405 ***
+20H15 Execution date not reached
+20H15 *** CART 10409 ***
+20H15 Execution date not reached
+20H15 END                  : 20:15:02.125475
+20H30 Launch batch
+SHOP ID:1
+============================================================================20H30 SHOP ID:1
+20H30 SHOP                   : 1
+20H30 ************ STEP CHECK NEW CART REMINDER ****************
+20H30 **** START                  : 20:30:01.569020
+20H30 MAIN SQL               START: 20:30:01.569058
+20H30 MAIN SQL               END: 20:30:01.583963
+20H30 Carts to check  : 2
+20H30 *** CART 10407 ***
+20H30 Cart update          : 2019-09-08 12:37:25
+20H30 Rule                : No rule applicable
+20H30 *** CART 10416 ***
+20H30 Cart update          : 2019-09-09 08:29:04
+20H30 Rule                : No rule applicable
+20H30 END                  : 20:30:01.585146
+20H30 ************ STEP CLEANING  ****************
+20H30 END                  : 20:30:01.589423
+20H30 ************ STEP CHECK RUNNING REMINDER  ****************
+20H30 **** START                  : 20:30:01.589500
+20H30 *** CART 10278 ***
+20H30 Execution date not reached
+20H30 *** CART 10262 ***
+20H30 Execution date not reached
+20H30 *** CART 10301 ***
+20H30 Execution date not reached
+20H30 *** CART 10312 ***
+20H30 Execution date not reached
+20H30 *** CART 10284 ***
+20H30 Execution date not reached
+20H30 *** CART 10357 ***
+20H30 Execution date not reached
+20H30 *** CART 10371 ***
+20H30 Execution date not reached
+20H30 *** CART 10372 ***
+20H30 Execution date not reached
+20H30 *** CART 10405 ***
+20H30 Execution date not reached
+20H30 *** CART 10409 ***
+20H30 Execution date not reached
+20H30 END                  : 20:30:01.601575
+20H45 Launch batch
+SHOP ID:1
+============================================================================20H45 SHOP ID:1
+20H45 SHOP                   : 1
+20H45 ************ STEP CHECK NEW CART REMINDER ****************
+20H45 **** START                  : 20:45:02.192315
+20H45 MAIN SQL               START: 20:45:02.192368
+20H45 MAIN SQL               END: 20:45:02.211065
+20H45 Carts to check  : 2
+20H45 *** CART 10407 ***
+20H45 Cart update          : 2019-09-08 12:37:25
+20H45 Rule                : No rule applicable
+20H45 *** CART 10416 ***
+20H45 Cart update          : 2019-09-09 08:29:04
+20H45 Rule                : No rule applicable
+20H45 END                  : 20:45:02.212163
+20H45 ************ STEP CLEANING  ****************
+20H45 END                  : 20:45:02.216302
+20H45 ************ STEP CHECK RUNNING REMINDER  ****************
+20H45 **** START                  : 20:45:02.216425
+20H45 *** CART 10278 ***
+20H45 Execution date not reached
+20H45 *** CART 10262 ***
+20H45 Execution date not reached
+20H45 *** CART 10301 ***
+20H45 Execution date not reached
+20H45 *** CART 10312 ***
+20H45 Execution date not reached
+20H45 *** CART 10284 ***
+20H45 Execution date not reached
+20H45 *** CART 10357 ***
+20H45 Execution date not reached
+20H45 *** CART 10371 ***
+20H45 Execution date not reached
+20H45 *** CART 10372 ***
+20H45 Execution date not reached
+20H45 *** CART 10405 ***
+20H45 Execution date not reached
+20H45 *** CART 10409 ***
+20H45 Execution date not reached
+20H45 END                  : 20:45:02.226835
+21H00 Launch batch
+SHOP ID:1
+============================================================================21H00 SHOP ID:1
+21H00 SHOP                   : 1
+21H00 ************ STEP CHECK NEW CART REMINDER ****************
+21H00 **** START                  : 21:00:02.77716
+21H00 MAIN SQL               START: 21:00:02.77747
+21H00 MAIN SQL               END: 21:00:02.89123
+21H00 Carts to check  : 3
+21H00 *** CART 10407 ***
+21H00 Cart update          : 2019-09-08 12:37:25
+21H00 Rule                : No rule applicable
+21H00 *** CART 10416 ***
+21H00 Cart update          : 2019-09-09 08:29:04
+21H00 Rule                : No rule applicable
+21H00 *** CART 10427 ***
+21H00 Cart update          : 2019-09-09 12:49:23
+21H00 Rule                : No rule applicable
+21H00 END                  : 21:00:02.112819
+21H00 ************ STEP CLEANING  ****************
+21H00 END                  : 21:00:02.117090
+21H00 ************ STEP CHECK RUNNING REMINDER  ****************
+21H00 **** START                  : 21:00:02.117223
+21H00 *** CART 10278 ***
+21H00 Execution date not reached
+21H00 *** CART 10262 ***
+21H00 Execution date not reached
+21H00 *** CART 10301 ***
+21H00 Execution date not reached
+21H00 *** CART 10312 ***
+21H00 Execution date not reached
+21H00 *** CART 10284 ***
+21H00 Execution date not reached
+21H00 *** CART 10357 ***
+21H00 Execution date not reached
+21H00 *** CART 10371 ***
+21H00 Execution date not reached
+21H00 *** CART 10372 ***
+21H00 Execution date not reached
+21H00 *** CART 10405 ***
+21H00 Execution date not reached
+21H00 *** CART 10409 ***
+21H00 Execution date not reached
+21H00 END                  : 21:00:02.132002
+21H15 Launch batch
+SHOP ID:1
+============================================================================21H15 SHOP ID:1
+21H15 SHOP                   : 1
+21H15 ************ STEP CHECK NEW CART REMINDER ****************
+21H15 **** START                  : 21:15:02.180866
+21H15 MAIN SQL               START: 21:15:02.180927
+21H15 MAIN SQL               END: 21:15:02.198463
+21H15 Carts to check  : 3
+21H15 *** CART 10407 ***
+21H15 Cart update          : 2019-09-08 12:37:25
+21H15 Rule                : No rule applicable
+21H15 *** CART 10416 ***
+21H15 Cart update          : 2019-09-09 08:29:04
+21H15 Rule                : No rule applicable
+21H15 *** CART 10427 ***
+21H15 Cart update          : 2019-09-09 12:49:23
+21H15 Rule                : No rule applicable
+21H15 END                  : 21:15:02.199712
+21H15 ************ STEP CLEANING  ****************
+21H15 END                  : 21:15:02.203080
+21H15 ************ STEP CHECK RUNNING REMINDER  ****************
+21H15 **** START                  : 21:15:02.203148
+21H15 *** CART 10278 ***
+21H15 Execution date not reached
+21H15 *** CART 10262 ***
+21H15 Execution date not reached
+21H15 *** CART 10301 ***
+21H15 Execution date not reached
+21H15 *** CART 10312 ***
+21H15 Execution date not reached
+21H15 *** CART 10284 ***
+21H15 Execution date not reached
+21H15 *** CART 10357 ***
+21H15 Execution date not reached
+21H15 *** CART 10371 ***
+21H15 Execution date not reached
+21H15 *** CART 10372 ***
+21H15 Execution date not reached
+21H15 *** CART 10405 ***
+21H15 Execution date not reached
+21H15 *** CART 10409 ***
+21H15 Execution date not reached
+21H15 END                  : 21:15:02.212020
+21H30 Launch batch
+SHOP ID:1
+============================================================================21H30 SHOP ID:1
+21H30 SHOP                   : 1
+21H30 ************ STEP CHECK NEW CART REMINDER ****************
+21H30 **** START                  : 21:30:02.66369
+21H30 MAIN SQL               START: 21:30:02.66400
+21H30 MAIN SQL               END: 21:30:02.84953
+21H30 Carts to check  : 4
+21H30 *** CART 10407 ***
+21H30 Cart update          : 2019-09-08 12:37:25
+21H30 Rule                : No rule applicable
+21H30 *** CART 10416 ***
+21H30 Cart update          : 2019-09-09 08:29:04
+21H30 Rule                : No rule applicable
+21H30 *** CART 10427 ***
+21H30 Cart update          : 2019-09-09 12:49:23
+21H30 Rule                : No rule applicable
+21H30 *** CART 10422 ***
+21H30 Cart update          : 2019-09-09 13:24:59
+21H30 Rule                : No rule applicable
+21H30 END                  : 21:30:02.108674
+21H30 ************ STEP CLEANING  ****************
+21H30 END                  : 21:30:02.113817
+21H30 ************ STEP CHECK RUNNING REMINDER  ****************
+21H30 **** START                  : 21:30:02.113964
+21H30 *** CART 10278 ***
+21H30 Execution date not reached
+21H30 *** CART 10262 ***
+21H30 Execution date not reached
+21H30 *** CART 10301 ***
+21H30 Execution date not reached
+21H30 *** CART 10312 ***
+21H30 Execution date not reached
+21H30 *** CART 10284 ***
+21H30 Execution date not reached
+21H30 *** CART 10357 ***
+21H30 Execution date not reached
+21H30 *** CART 10371 ***
+21H30 Execution date not reached
+21H30 *** CART 10372 ***
+21H30 Execution date not reached
+21H30 *** CART 10405 ***
+21H30 Execution date not reached
+21H30 *** CART 10409 ***
+21H30 Execution date not reached
+21H30 END                  : 21:30:02.127099
+21H45 Launch batch
+SHOP ID:1
+============================================================================21H45 SHOP ID:1
+21H45 SHOP                   : 1
+21H45 ************ STEP CHECK NEW CART REMINDER ****************
+21H45 **** START                  : 21:45:01.488775
+21H45 MAIN SQL               START: 21:45:01.488809
+21H45 MAIN SQL               END: 21:45:01.506290
+21H45 Carts to check  : 4
+21H45 *** CART 10407 ***
+21H45 Cart update          : 2019-09-08 12:37:25
+21H45 Rule                : No rule applicable
+21H45 *** CART 10416 ***
+21H45 Cart update          : 2019-09-09 08:29:04
+21H45 Rule                : No rule applicable
+21H45 *** CART 10427 ***
+21H45 Cart update          : 2019-09-09 12:49:23
+21H45 Rule                : No rule applicable
+21H45 *** CART 10422 ***
+21H45 Cart update          : 2019-09-09 13:24:59
+21H45 Rule                : No rule applicable
+21H45 END                  : 21:45:01.508058
+21H45 ************ STEP CLEANING  ****************
+21H45 END                  : 21:45:01.511645
+21H45 ************ STEP CHECK RUNNING REMINDER  ****************
+21H45 **** START                  : 21:45:01.511759
+21H45 *** CART 10278 ***
+21H45 Execution date not reached
+21H45 *** CART 10262 ***
+21H45 Execution date not reached
+21H45 *** CART 10301 ***
+21H45 Execution date not reached
+21H45 *** CART 10312 ***
+21H45 Execution date not reached
+21H45 *** CART 10284 ***
+21H45 Execution date not reached
+21H45 *** CART 10357 ***
+21H45 Execution date not reached
+21H45 *** CART 10371 ***
+21H45 Execution date not reached
+21H45 *** CART 10372 ***
+21H45 Execution date not reached
+21H45 *** CART 10405 ***
+21H45 Execution date not reached
+21H45 *** CART 10409 ***
+21H45 Execution date not reached
+21H45 END                  : 21:45:01.521636
+22H00 Launch batch
+SHOP ID:1
+============================================================================22H00 SHOP ID:1
+22H00 SHOP                   : 1
+22H00 ************ STEP CHECK NEW CART REMINDER ****************
+22H00 **** START                  : 22:00:01.819027
+22H00 MAIN SQL               START: 22:00:01.819093
+22H00 MAIN SQL               END: 22:00:01.836544
+22H00 Carts to check  : 4
+22H00 *** CART 10407 ***
+22H00 Cart update          : 2019-09-08 12:37:25
+22H00 Rule                : No rule applicable
+22H00 *** CART 10416 ***
+22H00 Cart update          : 2019-09-09 08:29:04
+22H00 Rule                : No rule applicable
+22H00 *** CART 10427 ***
+22H00 Cart update          : 2019-09-09 12:49:23
+22H00 Rule                : No rule applicable
+22H00 *** CART 10422 ***
+22H00 Cart update          : 2019-09-09 13:24:59
+22H00 Rule                : No rule applicable
+22H00 END                  : 22:00:01.838322
+22H00 ************ STEP CLEANING  ****************
+22H00 END                  : 22:00:01.841759
+22H00 ************ STEP CHECK RUNNING REMINDER  ****************
+22H00 **** START                  : 22:00:01.841867
+22H00 *** CART 10278 ***
+22H00 Execution date not reached
+22H00 *** CART 10262 ***
+22H00 Execution date not reached
+22H00 *** CART 10301 ***
+22H00 Execution date not reached
+22H00 *** CART 10312 ***
+22H00 Execution date not reached
+22H00 *** CART 10284 ***
+22H00 Execution date not reached
+22H00 *** CART 10357 ***
+22H00 Execution date not reached
+22H00 *** CART 10371 ***
+22H00 Execution date not reached
+22H00 *** CART 10372 ***
+22H00 Execution date not reached
+22H00 *** CART 10405 ***
+22H00 Execution date not reached
+22H00 *** CART 10409 ***
+22H00 Execution date not reached
+22H00 END                  : 22:00:01.851020
+22H15 Launch batch
+SHOP ID:1
+============================================================================22H15 SHOP ID:1
+22H15 SHOP                   : 1
+22H15 ************ STEP CHECK NEW CART REMINDER ****************
+22H15 **** START                  : 22:15:01.782961
+22H15 MAIN SQL               START: 22:15:01.783010
+22H15 MAIN SQL               END: 22:15:01.801385
+22H15 Carts to check  : 4
+22H15 *** CART 10407 ***
+22H15 Cart update          : 2019-09-08 12:37:25
+22H15 Rule                : No rule applicable
+22H15 *** CART 10416 ***
+22H15 Cart update          : 2019-09-09 08:29:04
+22H15 Rule                : No rule applicable
+22H15 *** CART 10427 ***
+22H15 Cart update          : 2019-09-09 12:49:23
+22H15 Rule                : No rule applicable
+22H15 *** CART 10422 ***
+22H15 Cart update          : 2019-09-09 13:24:59
+22H15 Rule                : No rule applicable
+22H15 END                  : 22:15:01.802667
+22H15 ************ STEP CLEANING  ****************
+22H15 END                  : 22:15:01.805867
+22H15 ************ STEP CHECK RUNNING REMINDER  ****************
+22H15 **** START                  : 22:15:01.805927
+22H15 *** CART 10278 ***
+22H15 Execution date not reached
+22H15 *** CART 10262 ***
+22H15 Execution date not reached
+22H15 *** CART 10301 ***
+22H15 Execution date not reached
+22H15 *** CART 10312 ***
+22H15 Execution date not reached
+22H15 *** CART 10284 ***
+22H15 Execution date not reached
+22H15 *** CART 10357 ***
+22H15 Execution date not reached
+22H15 *** CART 10371 ***
+22H15 Execution date not reached
+22H15 *** CART 10372 ***
+22H15 Execution date not reached
+22H15 *** CART 10405 ***
+22H15 Execution date not reached
+22H15 *** CART 10409 ***
+22H15 Execution date not reached
+22H15 END                  : 22:15:01.814700
+22H30 Launch batch
+SHOP ID:1
+============================================================================22H30 SHOP ID:1
+22H30 SHOP                   : 1
+22H30 ************ STEP CHECK NEW CART REMINDER ****************
+22H30 **** START                  : 22:30:01.585302
+22H30 MAIN SQL               START: 22:30:01.585337
+22H30 MAIN SQL               END: 22:30:01.599678
+22H30 Carts to check  : 5
+22H30 *** CART 10407 ***
+22H30 Cart update          : 2019-09-08 12:37:25
+22H30 Rule                : No rule applicable
+22H30 *** CART 10416 ***
+22H30 Cart update          : 2019-09-09 08:29:04
+22H30 Rule                : No rule applicable
+22H30 *** CART 10427 ***
+22H30 Cart update          : 2019-09-09 12:49:23
+22H30 Rule                : No rule applicable
+22H30 *** CART 10422 ***
+22H30 Cart update          : 2019-09-09 13:24:59
+22H30 Rule                : No rule applicable
+22H30 *** CART 10432 ***
+22H30 Cart update          : 2019-09-09 14:22:47
+22H30 Rule                : No rule applicable
+22H30 END                  : 22:30:01.619644
+22H30 ************ STEP CLEANING  ****************
+22H30 END                  : 22:30:01.624494
+22H30 ************ STEP CHECK RUNNING REMINDER  ****************
+22H30 **** START                  : 22:30:01.624563
+22H30 *** CART 10278 ***
+22H30 Execution date not reached
+22H30 *** CART 10262 ***
+22H30 Execution date not reached
+22H30 *** CART 10301 ***
+22H30 Execution date not reached
+22H30 *** CART 10312 ***
+22H30 Execution date not reached
+22H30 *** CART 10284 ***
+22H30 Execution date not reached
+22H30 *** CART 10357 ***
+22H30 Execution date not reached
+22H30 *** CART 10371 ***
+22H30 Execution date not reached
+22H30 *** CART 10372 ***
+22H30 Execution date not reached
+22H30 *** CART 10405 ***
+22H30 Execution date not reached
+22H30 *** CART 10409 ***
+22H30 Execution date not reached
+22H30 END                  : 22:30:01.638454
+22H45 Launch batch
+SHOP ID:1
+============================================================================22H45 SHOP ID:1
+22H45 SHOP                   : 1
+22H45 ************ STEP CHECK NEW CART REMINDER ****************
+22H45 **** START                  : 22:45:01.333274
+22H45 MAIN SQL               START: 22:45:01.333344
+22H45 MAIN SQL               END: 22:45:01.349842
+22H45 Carts to check  : 5
+22H45 *** CART 10407 ***
+22H45 Cart update          : 2019-09-08 12:37:25
+22H45 Rule                : No rule applicable
+22H45 *** CART 10416 ***
+22H45 Cart update          : 2019-09-09 08:29:04
+22H45 Rule                : No rule applicable
+22H45 *** CART 10427 ***
+22H45 Cart update          : 2019-09-09 12:49:23
+22H45 Rule                : No rule applicable
+22H45 *** CART 10422 ***
+22H45 Cart update          : 2019-09-09 13:24:59
+22H45 Rule                : No rule applicable
+22H45 *** CART 10432 ***
+22H45 Cart update          : 2019-09-09 14:22:47
+22H45 Rule                : No rule applicable
+22H45 END                  : 22:45:01.351423
+22H45 ************ STEP CLEANING  ****************
+22H45 END                  : 22:45:01.354937
+22H45 ************ STEP CHECK RUNNING REMINDER  ****************
+22H45 **** START                  : 22:45:01.355003
+22H45 *** CART 10278 ***
+22H45 Execution date not reached
+22H45 *** CART 10262 ***
+22H45 Execution date not reached
+22H45 *** CART 10301 ***
+22H45 Execution date not reached
+22H45 *** CART 10312 ***
+22H45 Execution date not reached
+22H45 *** CART 10284 ***
+22H45 Execution date not reached
+22H45 *** CART 10357 ***
+22H45 Execution date not reached
+22H45 *** CART 10371 ***
+22H45 Execution date not reached
+22H45 *** CART 10372 ***
+22H45 Execution date not reached
+22H45 *** CART 10405 ***
+22H45 Execution date not reached
+22H45 *** CART 10409 ***
+22H45 Execution date not reached
+22H45 END                  : 22:45:01.363773
+23H00 Launch batch
+SHOP ID:1
+============================================================================23H00 SHOP ID:1
+23H00 SHOP                   : 1
+23H00 ************ STEP CHECK NEW CART REMINDER ****************
+23H00 **** START                  : 23:00:02.218070
+23H00 MAIN SQL               START: 23:00:02.218100
+23H00 MAIN SQL               END: 23:00:02.234379
+23H00 Carts to check  : 5
+23H00 *** CART 10407 ***
+23H00 Cart update          : 2019-09-08 12:37:25
+23H00 Rule                : No rule applicable
+23H00 *** CART 10416 ***
+23H00 Cart update          : 2019-09-09 08:29:04
+23H00 Rule                : No rule applicable
+23H00 *** CART 10427 ***
+23H00 Cart update          : 2019-09-09 12:49:23
+23H00 Rule                : No rule applicable
+23H00 *** CART 10422 ***
+23H00 Cart update          : 2019-09-09 13:24:59
+23H00 Rule                : No rule applicable
+23H00 *** CART 10432 ***
+23H00 Cart update          : 2019-09-09 14:22:47
+23H00 Rule                : No rule applicable
+23H00 END                  : 23:00:02.236448
+23H00 ************ STEP CLEANING  ****************
+23H00 END                  : 23:00:02.240651
+23H00 ************ STEP CHECK RUNNING REMINDER  ****************
+23H00 **** START                  : 23:00:02.240771
+23H00 *** CART 10278 ***
+23H00 Execution date not reached
+23H00 *** CART 10262 ***
+23H00 Execution date not reached
+23H00 *** CART 10301 ***
+23H00 Execution date not reached
+23H00 *** CART 10312 ***
+23H00 Execution date not reached
+23H00 *** CART 10284 ***
+23H00 Execution date not reached
+23H00 *** CART 10357 ***
+23H00 Execution date not reached
+23H00 *** CART 10371 ***
+23H00 Reminder position         : 3
+23H00 Reminder nb hours         : 48.00
+23H00 Reminder mail             : Bestellung ist noch nicht abgeschlossen!
+23H00 Reminder manual           : 1
+23H00 Reminder launched   : YES
+23H00 *** CART 10372 ***
+23H00 Execution date not reached
+23H00 *** CART 10405 ***
+23H00 Execution date not reached
+23H00 *** CART 10409 ***
+23H00 Execution date not reached
+23H00 END                  : 23:00:02.489792
+23H15 Launch batch
+SHOP ID:1
+============================================================================23H15 SHOP ID:1
+23H15 SHOP                   : 1
+23H15 ************ STEP CHECK NEW CART REMINDER ****************
+23H15 **** START                  : 23:15:01.481416
+23H15 MAIN SQL               START: 23:15:01.481463
+23H15 MAIN SQL               END: 23:15:01.500313
+23H15 Carts to check  : 5
+23H15 *** CART 10407 ***
+23H15 Cart update          : 2019-09-08 12:37:25
+23H15 Rule                : No rule applicable
+23H15 *** CART 10416 ***
+23H15 Cart update          : 2019-09-09 08:29:04
+23H15 Rule                : No rule applicable
+23H15 *** CART 10427 ***
+23H15 Cart update          : 2019-09-09 12:49:23
+23H15 Rule                : No rule applicable
+23H15 *** CART 10422 ***
+23H15 Cart update          : 2019-09-09 13:24:59
+23H15 Rule                : No rule applicable
+23H15 *** CART 10432 ***
+23H15 Cart update          : 2019-09-09 14:22:47
+23H15 Rule                : No rule applicable
+23H15 END                  : 23:15:01.502477
+23H15 ************ STEP CLEANING  ****************
+23H15 END                  : 23:15:01.506284
+23H15 ************ STEP CHECK RUNNING REMINDER  ****************
+23H15 **** START                  : 23:15:01.506356
+23H15 *** CART 10278 ***
+23H15 Execution date not reached
+23H15 *** CART 10262 ***
+23H15 Execution date not reached
+23H15 *** CART 10301 ***
+23H15 Execution date not reached
+23H15 *** CART 10312 ***
+23H15 Execution date not reached
+23H15 *** CART 10284 ***
+23H15 Execution date not reached
+23H15 *** CART 10357 ***
+23H15 Execution date not reached
+23H15 *** CART 10371 ***
+23H15 Execution date not reached
+23H15 *** CART 10372 ***
+23H15 Execution date not reached
+23H15 *** CART 10405 ***
+23H15 Execution date not reached
+23H15 *** CART 10409 ***
+23H15 Execution date not reached
+23H15 END                  : 23:15:01.521326
+23H30 Launch batch
+SHOP ID:1
+============================================================================23H30 SHOP ID:1
+23H30 SHOP                   : 1
+23H30 ************ STEP CHECK NEW CART REMINDER ****************
+23H30 **** START                  : 23:30:01.521919
+23H30 MAIN SQL               START: 23:30:01.521950
+23H30 MAIN SQL               END: 23:30:01.537798
+23H30 Carts to check  : 5
+23H30 *** CART 10407 ***
+23H30 Cart update          : 2019-09-08 12:37:25
+23H30 Rule                : No rule applicable
+23H30 *** CART 10416 ***
+23H30 Cart update          : 2019-09-09 08:29:04
+23H30 Rule                : No rule applicable
+23H30 *** CART 10427 ***
+23H30 Cart update          : 2019-09-09 12:49:23
+23H30 Rule                : No rule applicable
+23H30 *** CART 10422 ***
+23H30 Cart update          : 2019-09-09 13:24:59
+23H30 Rule                : No rule applicable
+23H30 *** CART 10432 ***
+23H30 Cart update          : 2019-09-09 14:22:47
+23H30 Rule                : No rule applicable
+23H30 END                  : 23:30:01.539949
+23H30 ************ STEP CLEANING  ****************
+23H30 END                  : 23:30:01.543606
+23H30 ************ STEP CHECK RUNNING REMINDER  ****************
+23H30 **** START                  : 23:30:01.543732
+23H30 *** CART 10278 ***
+23H30 Execution date not reached
+23H30 *** CART 10262 ***
+23H30 Execution date not reached
+23H30 *** CART 10301 ***
+23H30 Execution date not reached
+23H30 *** CART 10312 ***
+23H30 Execution date not reached
+23H30 *** CART 10284 ***
+23H30 Execution date not reached
+23H30 *** CART 10357 ***
+23H30 Execution date not reached
+23H30 *** CART 10371 ***
+23H30 Execution date not reached
+23H30 *** CART 10372 ***
+23H30 Execution date not reached
+23H30 *** CART 10405 ***
+23H30 Execution date not reached
+23H30 *** CART 10409 ***
+23H30 Execution date not reached
+23H30 END                  : 23:30:01.554273
+23H45 Launch batch
+SHOP ID:1
+============================================================================23H45 SHOP ID:1
+23H45 SHOP                   : 1
+23H45 ************ STEP CHECK NEW CART REMINDER ****************
+23H45 **** START                  : 23:45:01.501566
+23H45 MAIN SQL               START: 23:45:01.501620
+23H45 MAIN SQL               END: 23:45:01.521103
+23H45 Carts to check  : 5
+23H45 *** CART 10407 ***
+23H45 Cart update          : 2019-09-08 12:37:25
+23H45 Rule                : No rule applicable
+23H45 *** CART 10416 ***
+23H45 Cart update          : 2019-09-09 08:29:04
+23H45 Rule                : No rule applicable
+23H45 *** CART 10427 ***
+23H45 Cart update          : 2019-09-09 12:49:23
+23H45 Rule                : No rule applicable
+23H45 *** CART 10422 ***
+23H45 Cart update          : 2019-09-09 13:24:59
+23H45 Rule                : No rule applicable
+23H45 *** CART 10432 ***
+23H45 Cart update          : 2019-09-09 14:22:47
+23H45 Rule                : No rule applicable
+23H45 END                  : 23:45:01.522634
+23H45 ************ STEP CLEANING  ****************
+23H45 END                  : 23:45:01.526039
+23H45 ************ STEP CHECK RUNNING REMINDER  ****************
+23H45 **** START                  : 23:45:01.526099
+23H45 *** CART 10278 ***
+23H45 Execution date not reached
+23H45 *** CART 10262 ***
+23H45 Execution date not reached
+23H45 *** CART 10301 ***
+23H45 Execution date not reached
+23H45 *** CART 10312 ***
+23H45 Execution date not reached
+23H45 *** CART 10284 ***
+23H45 Execution date not reached
+23H45 *** CART 10357 ***
+23H45 Execution date not reached
+23H45 *** CART 10371 ***
+23H45 Execution date not reached
+23H45 *** CART 10372 ***
+23H45 Execution date not reached
+23H45 *** CART 10405 ***
+23H45 Execution date not reached
+23H45 *** CART 10409 ***
+23H45 Execution date not reached
+23H45 END                  : 23:45:01.534738

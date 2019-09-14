@@ -1,0 +1,11 @@
+--- modules/khlcart/khlcart.php
++++ modules/khlcart/khlcart.php
+@@ -218,7 +218,7 @@
+                 continue;
+             }
+             
+-            $productExpectedDeliveryList = $product->getExpectedDelivery();
++            $productExpectedDeliveryList = $product->getExpectedDeliveryAndDbkStock();
+             
+             foreach( $productExpectedDeliveryList as $productExpectedDelivery ){
+                 if( $cartProduct['id_product_attribute'] == $productExpectedDelivery['id_product_attribute'] ){

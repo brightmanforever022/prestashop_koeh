@@ -1,0 +1,927 @@
+557; Chiffon Abendkleid mit One Shoulder Schnitt in Royal Lilac;0001_Royal Lilac
+558;One Shoulder Abendkleid aus Chiffon in Peacock Green;0001_Peacock Green
+559;Taftabendkleid mit Neckholder in Smoked Pearl;0002_Smoked Pearl
+560;Abendkleid aus Taft mit Neckholder in Eclipse Blue;0002_Eclipse Blue
+561;Abendkleid mit Petticoat aus Satin in Salsa Red;0003_Salsa Red
+562;Satin Petticoat Abendkleid in Dahlia Purple;0003_Dahlia Purple
+563;Vokuhila Abendkleid aus Chiffon in Macadamia Nut;0004_Macadamia Nut
+564;Chiffon Abendkleid mit Rückenschleppe Pearl Pink;0004_Pearl Pink
+565;One Shoulder Abendkleid aus Chiffon in Lettuce Green;0005_Lettuce Green
+566;Chiffon Abendkleid mit One Shoulder in Calypso Pink;0005_Calypso Pink
+567;Chiffon Abendkleid mit Strasssteinen in Salsa Red;0006_Salsa Red
+568;One Shoulder Abendkleid aus Chiffon in Buttercup Yellow;0006_Buttercup Yellow
+569;One Shoulder Abendkleid aus Chiffon in Diva Blue;0007_Diva Blue
+570;Abendkleid aus Chiffon mit One Shoulder in Apricot Blush;0007_Apricot Blush
+571;trägerloses Abendkeid aus Chiffon in Dahlia Purple;0008_Dahlia Purple
+572;Chiffon Abendkleid im Vokuhila-Schnitt in Pink Lady;0008_Pink Lady
+573;One Shoulder Chiffon Abendkleid in Phantom Black;0009_Phantom Black
+574;Abendkleid aus Chiffon mit Strassapplikation in Royal Blue;0009_Royal Blue
+575;Abendkleid mit Taft und Tüll in Red Plum;0010_Red Plum
+576;Trägerloses Abendkleid aus Taft und Tüll in Rio Red;0010_Rio Red
+577;Langes Abendkleid aus Chiffon mit Strasssteinen in Virtual Red;0011_Virtual Red
+637;Chiffon Abendkleid mit Strasssteinen in Twilight Blue;0005_Twilight Blue
+638;Chiffon Abendkleid in Phantom Black mit One Shoulder Schnitt;0007_Phantom Black
+639;Vokuhila Abendkleid aus Chiffon in Spectrum Blue;0008_Spectrum Blue
+640;Trägerloses Abendkleid aus Chiffon in Atlantis Green;0008_Atlantis Green
+761;Abendkleid aus Jersey mit Perlen in Orchid Pink;0029_Orchid Pink
+762;Abendkleid aus Tüll mit Spitze in Night Blue;0033_Night Blue
+763;Cocktailkleid aus Chiffon mit gerafftem Oberteil in Eclipse Blue;0014_Eclipse Blue
+764;Tüll-Cocktailkleid mit Spitze in Champagne;0015_Champagne
+765;Chiffon-Cocktailkleid mit Strass in Smoked Pearl;0016_Smoked Pearl
+766;Chiffon Cocktailkleid mit Wellenlook in Atlantis Green;0017_Atlantis Green
+767;Cocktailkleid mit Raffung aus Chiffon in Amazon Green;0012_Amazon Green
+768;Chiffon-Abendkleid schulterfrei in Rio Red;0027_Rio Red
+769;Abendkleid in Jersey mit floralem Dekor in Snow White;0028_Snow White
+770;Abendkleid aus Chiffon im Empire-Stil in Galapagos Green;0027_Galapagos Green
+771;Abendkleid aus Jersey mit Golddekor in Phantom Black;0028_Phantom Black
+772;Trägerloses Cocktailkleid mit Strassapplikation in Twilight Blue;0020_Twilight Blue
+773;Abendkleid Chiffon mit Wasserfallträgern Pearl Pink;0030_Pearl Pink
+774;Schulterfreies Abendkleid aus Chiffon in Flamingo Pink - Nicht aktivieren!!!;0031_Flamingo Pink
+775;Abendkleid aus Chiffon mit Strassbesatz in Atlantis Green;0031_Atlantis Green
+776;Chiffon Abendkleid mit Spitze Silver Cloud;0026_Silver Cloud
+777;Abendkleid aus Chiffon mit Strass Neckholder in Night Blue;0024_Night Blue
+778;Chiffon Abendkleid im Vokuhila-Look in Orchid Lilac;0023_Orchid Lilac
+779;Abendkleid aus Chiffon mit Stickerei in Night Blue;0022_Night Blue
+780;Chiffon-Cocktailkleid mit asymmetrischer Linie in Rio Red;0019_Rio Red
+781;Asymmetrisches Cocktailkleid aus Chiffon in Peaches & Cream;0019_Peaches & Cream
+782;Schulterfreies Abendkleid aus Chiffon in Royal Lilac;0021_Royal Lilac
+783;Tüll Cocktailkleid mit Spitze in Macadamia Nut;0018_Macadamia Nut
+784;Abendkleid mit Paillettenzier aus Jersey in Snow White;0042_Snow White
+785;Abendkleid aus Tüll und Satin mit Strassbustier in Vanilla Ice;0041_Vanilla Ice
+786;Abendkleid mit breiten Trägern Chiffon in Eclipse Blue;0040_Eclipse Blue
+788;Abendkleid in Black & White mit Paillettenstickerei aus Jersey;0042_Black & White
+789;Abendkleid aus Chiffon mit Raffungen in Pink Nectar;0043_Pink Nectar
+790;Chiffon Abendkleid Strass und langen Ärmeln in Posy Green;0044_Posy Green
+791;Abendkleid aus Chiffon mit langen Ärmeln in Twilight Blue;0044_Twilight Blue
+792;Abendkleid aus Jersey mit floraler Stickerei in Eclipse Blue;0039_Eclipse Blue
+793;Trägerloses Abendkleid aus Chiffon in Smoked Pearl;0038_Smoked Pearl
+794;Abendkleid aus Chiffon mit Raffungen in Eclipse Blue;0038_Eclipse Blue
+795;Schulterfreies Abendkleid aus Chiffon in Dawn Pink;0038_Dawn Pink
+796;Abendkleid aus Chiffon mit Weboptik in Mars Red;0038_Mars Red
+797;Abendkleid aus Jersey mit Glitzerdekor in Ultramarine Green;0037_Ultramarine Green
+798;Abendkleid in Phantom Black aus Jersey mit Beinschlitz;0037_Phantom Black
+799;Abendkleid aus Chiffon mit Schleppe in Macadamia Nut;0036_Macadamia Nut
+800;Chiffon Abendkleid mit Spitze in Bleached Sand;0035_Bleached Sand
+801;Abendkleid aus Chiffon mit V-Ausschnitt in Royal Purple;0034_Royal Purple
+802;Chiffon Abendkleid mit Raffungen in Powder Blue;0034_Powder Blue
+803;Gerafftes Abendkleid aus Chiffon in Galapagos Green;0034_Galapagos Green
+804;Abendkleid aus Chiffon mit Glitzerdekor in Posy Green;0036_Posy Green
+805;Abendkleid mit Spitze und floralem Muster in Vanilla Ice;0049_Vanilla Ice
+806;Abendkleid Chiffon mit Spitzenbesatz in Silver Cloud;0045_Silver Cloud
+807;Abendkleid aus Spitze und Blumenmuster in Twilight Blue;0049_Twilight Blue
+808;Chiffon Abendkleid mit ornamentaler Stickerei in Royal Purple;0048_Royal Purple
+809;Abendkleid in aus Spitze mit langen Ärmeln in Violet Ice;0047_Violet Ice
+810;Langärmliges Abendkleid aus Spitze in Dusk Grey;0047_Dusk Grey
+811;Abendkleid aus Chiffon in Champagne mit Spitze und Pailletten;0046_Champagne
+812;Abendkleid Chiffon mit Pailletten und Spitze in Twilight Blue;0046_Twilight Blue
+813;Abendkleid Chiffon mit handgefertigter Stickerei in Mauve Pink;0048_Mauve Pink
+814;Abendkleid aus Tüll in Champagne mit Strass;0055_Champagne
+815;Abendkleid aus Chiffon mit Vokuhila Rock in Ice Green;0056_Ice Green
+816;Chiffon Cocktailkleid mit Glitzerdekor in Eclipse Blue;0050_Eclipse Blue
+817;Chiffon Abendkleid im Vokuhila Style in Violet Ice;0056_Violet Ice
+818;Trägerloses Cocktailkleid aus Chiffon in Amazon Green;0013_Amazon Green
+819;Abendkleid aus Jersey mit floralem Dekor in Monaco Blue;0054_Monaco Blue
+820;Jersey Abendkleid mit floralen Verzierungen in Peacock Green ;0054_Peacock Green
+821;Abendkleid aus Jersey Glitzerdekor in Virtual Red;0054_Virtual Red
+822;Abendkleid aus Jersey mit floralen Goldornamenten in Phantom Black;0053_Phantom Black
+823;Abendkleid aus Chiffon mit ornamentalem Dekor in Elderberry;0052_Elderberry
+824;Abendkleid aus Chiffon mit Ornamenten in Macadamia Nut;0052_Macadamia Nut
+826;Cocktailkleid aus Chiffon mit Pailletten in Mauve Shadow;0050_Mauve Shadow
+827;Abendkleidaus Jersey mit floralen Goldelementen in Vanilla Ice;0053_Vanilla Ice
+828;Neckholder Abendkleid aus Chiffon in Pink Nectar;0025_Pink Nectar
+829;Schulterfreies Abendkleid mit Strass in Dawn Pink;0032_Dawn Pink
+830;Abendkleid aus Chiffon schräg verlaufenden Trägern in Bermuda Green;0043_Bermuda Green
+831;Cocktailkleid aus Tüll mit Blütenspitzen in Pearl Pink;0051_Pearl Pink
+982;Zwei-teiliges Abendkleid mit Gehschlitz aus Jersey in Black & Cream;0245_Black & Cream
+983;Abendkleid im Etui-Stil in Champagne aus Spitze;0201_Champagne
+984;Abendkleid aus Jersey mit Spitze in Salsa Red;0202_Salsa Red
+985;Jersey Abendkleid mit Verzierungen in Lollipop Red;0203_Lollipop Red
+986;Abendkleid aus Chiffon mit Strass-Verzierungen in Night Blue;0204_Night Blue
+987;Chiffon Abendkleid in Night Blue mit Wickeloptik;0205_Night Blue
+988;Langärmliges Abendkleid aus Jersey mit Pailletten in Night Blue;0207_Night Blue
+989;Abendkleid aus Chiffon mit Steinapplikationen in Night Blue;0206_Night Blue
+990;Abendkleid aus Jersey mit Strass in in Night Blue;0208_Night Blue
+991;Chiffon Abendkleid in Champagne mit halblangen Ärmeln;0209_Champagne
+992;Abendkleid aus Chiffon mit Spitze in Pink Nectar;0209_Pink Nectar
+993;Abendkleid aus Jersey mit Pailletten in Orchid Lilac;0069_Orchid Lilac
+994;Chiffon Abendkleid mit tiefem V-Ausschnitt in Etherea Brown;0070CH_Etherea Brown
+995;Abendkleid aus Jersey mit Raffungen in Stormy Grey;0213_Stormy Grey
+996;Abendkleid mit Paillettenverzierungen in Black & Cream;0215_Black & Cream
+997;Abendkleid aus Chiffon mit Stickereien in Bleached Sand;0216_Bleached Sand
+998;Abendkleid aus Chiffon mit Glanzeffekt in Iron Grey;0214_Iron Grey
+999;Schulterfreies Abendkleid aus Chiffon mit Raffungen in Night Blue;0217_Night Blue
+1000;Abendkleid mit Schleppe in Cloud Gray;0219_Cloud Gray
+1001;Chiffon Abendkleid mit Strass-Besatz in Cloud Gray;0218_Cloud Gray
+1002;One Shoulder Cocktailkleid aus Tüll mit Spitze in Black & Cream;0222_Black & Cream
+1003;Chiffon Abendkleid in mit Strassverzierung in Night Blue;0221_Night Blue
+1004;One-Shoulder Abendkleid aus Chiffon mit Steinbesatz in Pink Nectar;0220_Pink Nectar
+1005;Abendkleid aus Chiffon mit Strassbesatz in Peacock Green;0223_Peacock Green
+1006;Abendkleid in Champagne mit schwarzen Strassverzierungen;0224_Champagne
+1007;Abendkleid mit kurzem Duchesse-Rock in Black & Cream;0066C_Black & Cream
+1011;Abendkleid aus Jersey mit Strass und Pailletten in Black & Cream;0228_Black & Cream
+1012;Chiffon Abendkleid in Snow White mit Strassbustier;0229_Snow White
+1013;Abendkleid in Phantom Black mit Raffungen aus Jersey;0231_Phantom Black
+1015;Abendkleid mit Glanz-Effekt aus Jersey in Gothic Olive;0232_Gothic Olive
+1016;Langärmliges Abendkleid aus Chiffon in Black & Cream;0233_Black & Cream
+1018;Abendkleid aus Jersey mit Strass in Ultramarine Green;0235_Ultramarine Green
+1019;Jersey Abendkleid mit Strasszierde in Peacock Green;0234_Peacock Green
+1021;Chiffon Cocktailkleid in Phantom Black mit Wellenraffungen;0238_Phantom Black
+1022;Abendkleid aus Chiffon mit Raffungen in Mosaic Blue;0237_Mosaic Blue
+1024;Schulterfreies Abendkleid aus Spitze in Twilight Purple;0239_Twilight Purple
+1026;Chiffon Abendkleid mit Strass in Twilight Blue;0242_Twilight Blue
+1027;Abendkleid aus Chiffon mit Paillettenzierde in Twilight Blue;0241_Twilight Blue
+1028;Jersey Abendkleid mit Perlenverzierungen in Pink Nectar;0244_Pink Nectar
+1030;Einärmliges Abendkleid mit Pailletten aus Chiffon in Phantom Black;0247_Phantom Black
+1032;Abendkleid mit Glanzoptik in Meteorite Black;0246_Meteorite Black
+1033;Abendkleid aus Pailletten mit Stickereien in Silver Star;0248_Silver Star
+1034;Cocktailkleid aus Tüll mit Strasssteinen in Phantom Black;0249_Phantom Black
+1035;Abendkleid aus Tüll mit Stickereien in Smoked Pearl;0253_Smoked Pearl
+1036;Cocktailkleid aus Tüll mit Pailletten und Stickerei in Night Blue;0250_Night Blue
+1037;Tüll Cocktailkleid in Phantom Black mit Spitze und Corsage;0200_Phantom Black
+1038;Abendkleid aus Jersey mit Perlenzierde in Champagne;0252_Champagne
+1039;Cocktailkleid mit schwarzer Spitze in Amethyst Purple;0254_Amethyst Purple
+1040;Abendkleid mit Paillettenverzierungen in Black & Cream;0255_Black & Cream
+1041;Abendkleid aus Tüll mit Pailletten und Strass in Black & Cream ;0256_Black & Cream
+1042;Chiffon Abendkleid in Phantom Black mit Raffungen;0257_Phantom Black
+1043;Tüll Abendkleid in Black & Cream mit Bestickeungen;0258_Black & Cream 
+1044;Abendkleid aus Tüll mit Pailletten in Twilight Blue;0259_Twilight Blue
+1045;Einärmeliges One-Shoulder Abendkleid aus Chiffon in Black & Cream;0260_Black & Cream
+1080;Abendkleid aus Chiffon mit Spitze in Orchid Lilac;0045_Orchid Lilac
+1081;Cocktailkleid aus Tüll mit Stickreien in Ghost Gray;0096_ Ghost Gray
+1082;Tüll Abendkleid im Vokuhila Style mit Spitze in Rosewater;0095_Rosewater
+1083;Cocktailkleid aus Tüll mit Stickereien in French Vanilla;0094C_French Vanilla
+1084;Abendkleid aus Chiffon mit Raffungen in Orchid Pink;0093_Orchid Pink
+1085;Neckholder Abendkleid aus Chiffon in Ice Green;0092_Ice Green
+1086;Chiffon Abendkleid mit Spitze in Calypso Coral;0092_Calypso Coral
+1087;Abendkleid mit kurzer Schleppe aus Jersey in Phantom Black;0063_Phantom Black
+1088;Abendkleid mit Neckholder aus Tüll in Rosewater;0090_Rosewater
+1089;Abendkleid aus Tüll in Twilight Purple mit Glanz-Effekt ;0085_Twilight Purple
+1090;Abendkleid aus Chiffon mit Beinschlitz in Lollipop Red;0086_Lollipop Red
+1091;Rückenfreies Chiffon Abendkleid in French Vanilla;0083_French Vanilla
+1092;Chiffon Abendkleid mit Beinschlitz in Orchid Pink;0082_Orchid Pink
+1093;Cocktailkleid aus Chiffon und Spitze in Orchid Pink;0081_Orchid Pink
+1094;Tüll Abendkleid mit Spitze in Moonlight Jade;0076_Moonlight Jade
+1095;Cocktailkleid aus Chiffon mit Stickereien in Vanilla Ice;0077_Vanilla Ice
+1096;Cocktailkleid aus Tüll mit Stickereien in Lollipop Red;0079_Lollipop Red
+1100;Abendkleid aus Chiffon mit Raffungen in Moonlight Jade;0105_Moonlight Jade
+1101;Mikado Abendkleid im Meerjungfrauen Schnitt in Palace Blue;0111_Palace Blue
+1102;Gerafftes Abendkleid aus Chiffon in Flamingo Pink;0105_Flamingo Pink
+1103;Abendkleid aus Taft und Spitze in Vanilla Ice;0106_Vanilla Ice
+1104;Cocktailkleid / Abendkleid aus Spitze und Tüll in Black & Cream;0104_Black & Cream
+1105;Schulterfreies Abendkleid aus Tüll und Spitze in Night Blue;0103_Night Blue
+1106;Cocktailkleid aus Chiffon mit Spitze in Monaco Blue;0102_Monaco Blue
+1107;Cocktailkleid aus Spitze mit floralem Muster in Orchid Pink;0101_Orchid Pink
+1108;Cocktailkleid aus Spitze mit V-Rückenausschnitt in Moonlight Jade;0100_Moonlight Jade
+1109;Neckholder Cocktailkleid aus Tüll in Ghost Gray;0099_Ghost Gray
+1110;One-Shoulder Chiffon Abendkleid mit Beinschlitz in Atlantis Green;0089_Atlantis Green
+1111;Vokuhilla Abendkleid aus Chiffon in Amethyst Orchid;0091_Amethyst Orchid
+1112;Cocktailkleid aus Spitze mit halblangem Arm in Whispering Aqua;0097_Whispering Aqua
+1113;Chiffon Abendkleid mit Spitze in Aqua Blue;0088_Aqua Blue
+1114;Tüll Cocktailkleid mit silbernen Schimmer-Effekt in Navy Blue;0084_Navy Blue
+1115;Besticktes Abendkleid aus Chiffon in Moonlight Jade;0080_Moonlight Jade
+1116;Cocktailkleid aus Tüll mit Stickereien in Moonlight Jade;0098_Moonlight Jade
+1117;Abendkleid aus Tüll mit Spitzenoberteil in Amethyst Orchid;0076_Amethyst Orchid
+1118;Besticktes Abendkleid aus Tüll in Orchid Pink;0078_Orchid Pink
+1120;Tüll Cocktailkleid mit handgefertigter Stickerei in Whispering Blue;0066C_Whispering Blue
+1121;Abendkleid mit Schleppe und Gehschlitz in Black & White aus Jersey;0065_Black & White
+1122;Jersey Abendkleid mit hohem Beinausschnitt in Atlantis Green;0062_Atlantis Green
+1123;Bodenlanges Chiffon Abendkleid mit Steinbesatz in Pearl Pink;0064_Pearl Pink
+1124;Tüll Abendkleid mit großem Glitzerbesatz in Royal Blue;0060_Royal Blue
+1125;Tüll Abendkleid mit Spitze in Woodrose;0059_Woodrose
+1126;Abendkleid aus Tüll und Spitze in Phantom Black;0059_Phantom Black
+1128;Abendkleid mit Strass verziert aus Jersey in Eclipse Blue;0057_Eclipse Blue
+1132;Chiffon Abendkleid mit kurzer Schleppe in Phantom Black;0075_Phantom Black
+1133;Abendkleid mit Steinbesatz aus Chiffon in Pearl Pink;0073_Pearl Pink
+1134;Chiffon Abendkleid mit Strass in Aqua Blue;0072_Aqua Blue
+1135;Chiffon Abendkleid mit edlem Strass in Flamingo Pink;0072_Flamingo Pink
+1136;Chiffon Abendkleid mit handgefertigter Spitze in Lollipop Red;0071_Lollipop Red
+1137;Abendkleid aus Jersey mit edlem Strass in Twilight Purple;0069_Twilight Purple
+1138;Cocktailkleid mit handgefertigter Stickerei aus Tüll in Pearl Pink;0066C_Pearl Pink
+1142;Chiffon Abendkleid mit Schleppe in Phantom Black;0074_Phantom Black
+1143;Chiffon Abendkleid mit Strass in Black & Cream - ACHTUNG: Darf nicht aktiviert werden da unterstoff jetzt schwarz ist;0072_Black & Cream
+1145;Chiffon Abendkleid mit Neckholder in French Vanilla;0068_French Vanilla
+1146;Schulterfreies Jersey Abendkleid mit Strassbesatz in Phantom Black;0061_Phantom Black
+1147;Cocktailkleid mit Spitze aus Tüll in Pearl Pink;0058_Pearl Pink
+1149;Schulterfreies Chiffon-Abendkleid in Pink Lady;0038_Pink Lady
+1150;Abendkleid aus Mikado mit Strassband in Shocking Pink;0110_Shocking Pink
+1153;Abendkleid aus Chiffon mit Spitze in Lollipop Red;0112_Lollipop Red
+1154;Mikado Abendkleid in Phantom Black mit Spitze;0261_Phantom Black
+1155;Abendkleid aus Tüll mit Strassapplikationen in Soft Aqua / Macadamia Nut;0108_Soft Aqua & Nut
+1156;Abendkleid aus Chiffon mit Steinbesatz in Posy Green;0113_Posy Green
+1157;Abendkleid aus Mikado mit floralem Bestickungen in Pastel Lavender;0109_Pastel Lavender
+1158;Abendkleid aus Chiffon mit Raffungen in Virtual Red;0087_Virtual Red
+1159;Cocktailkleid aus Spitze mit Taillenband in Lollipop Red;0100_Lollipop Red
+1160;Schulterfreies Abendkleid aus Chiffon in Atlantis Green;0107_Atlantis Green
+1161;Cocktailkleid aus Tüll in Macadamia Nut;0036C_Macadamia Nut
+1162;Tüll Cocktailkleid mit Pailletten in Twilight Blue;0036C_Twilight Blue
+1163;Cocktailkleid aus Tüll in Ghost Gray;0036C_Ghost Gray
+1164;Tüll Cocktailkleid mit Strass in Pearl Pink;0036C_Pearl Pink
+1165;Abendkleid aus Chiffon in Ghost Gray;0036_Ghost Gray
+1166;Chiffon Abendkleid mit Pailletten in Pearl Pink;0036_Pearl Pink
+1167;Chiffon Abendkleid mit Pailletten in Twilight Blue;0036_Twilight Blue
+1169;Abendkleid aus Tüll mit Strassapplikationen in Flamingo Pink ;0108_Flamingo Pink & Nut
+1170;Abendkleid aus Satin mit Steinbesatz in Crimson Red;0113_Crimson Red
+1171;Chiffon Abendkleid mit Neckholder in Snow White;0068_Snow White
+1172;Cocktailkleid aus Chiffon in Bisque Pink;0114_Bisque Pink
+1173;Cocktailkleid aus Chiffon in Champagne;0115_Champagne
+1174;Abendkleid aus Chiffon mit Steinbesatz in Ghost Gray;0116_Ghost Gray
+1175;Abendkleid aus Tüll mit Taillengürtel in Geranium Pink;0117_Geranium Pink
+1176;Abendkleid aus Chiffon mit steinbesätzten Oberteil in Black & Cream;0118_Black & Cream
+1177;Tüll Abendkleid aus Tüll mit Verzierungen in Illusion Blue;0119_Illusion Blue
+1178;Abendkleid aus Jersey mit aufwendigen Details in Twilight Blue;0120_Twilight Blue
+1179;Jersey Abendkleid mit Strassbesatz in Posy Green;0120_Posy Green
+1180;Abendkleid aus Stickereien und Tüll mit Strass in Twilight Blue;0121_Twilight Blue
+1181;Abendkleid aus Chiffon mit Steinbesatz in Twilight Blue;0122_Twilight Blue
+1182;Abendkleid aus Chiffon mit Steinbesatz in Peacock Green;0123_Peacock Green
+1183;Abendkleid aus Jersey im Meerjungrauenschnitt in Aqua Blue;0124_Aqua Blue
+1184;Beige schimmerndes Abendkleid aus Tüll in Ghost Gray;0125_Ghost Gray
+1185;Tüll Cocktailkleid mit Strassbesatz in Iron Grey;0126_Iron Grey
+1186;Kurzes Tüll Cocktailkleid mit aufwendigem Glanzdekor;0127_Grey
+1187;Abendkleid aus Mikado in Palace Blue;0128_Palace Blue
+1188;Mikado Abendkleid schulterfrei in Pearl Pink;0128_Pearl Pink
+1189;Schulterfreies Abendkleid aus Mikado in Posy Green;0128_Posy Green
+1190;Abendkleid schulterfrei aus Mikado in Snow White;0128_Snow White
+1191;Abendkleid aus Jersey mit Schleppe in Flame Red;0129_Flame Red
+1192;Jersey Abendkleid mit Schleppe in Posy Green;0129_Posy Green
+1193;Abendkleid aus Jersey mit raffinierten Details in Phantom Black;0129_Phantom Black
+1194;Cocktailkleid aus Mikado in Pearl Pink;0130_Pearl Pink
+1195;Mikado Cocktailkleid in Illusion Blue;0130_Illusion Blue
+1196;Schulterfreies Cocktailkleid aus Mikado in Pearl Pink;0131_Pearl Pink
+1197;Cocktailkleid schulterfrei aus Mikado in Aqua Blue ;0131_Aqua Blue
+1198;Tüll Abendkleid mit handgefertigter Stickerei in Whispering Blue;0066_Whispering Blue
+1199;Abendkleid mit handgefertigter Stickerei aus Tüll in Pearl Pink;0066_Pearl Pink
+1200;Abendkleid aus Tüll mit Stickereien in French Vanilla;0094_French Vanilla
+1201;Abendkleid aus Chiffon mit Steinbesatz in Night Blue;0132_Night Blue
+1202;Chiffon Abendkleid mit Strass in Ghost Gray;0132_Ghost Gray
+1203;Abendkleid aus Chiffon mit Strassoberteil in Champagne;0132_Champagne
+1204;Chiffon Abendkleid mit Strassapplikationen in Pearl Pink;0132_Pearl Pink
+1205;Chiffon Abendkleid mit Paillettenverzierungen in Opal Green;0011_Opal Green
+1210;Chiffon Abendkleid mit Neckholder in Apple Mint;0068_Apple Mint
+1211;Jersey Abendkleid mit tiefem V-Ausschnitt in Etherea Brown;0070J_Etherea Brown
+1212;Abendkleid aus Chiffon in Royal Blue mit Strass;0067_Royal Blue
+1213;Abendkleid aus Chiffon in Lollipop Red mit Strass;0067_Lollipop Red
+1214;Abendkleid in Chiffon mit Perlen- und Strassbesatz in Opal Green;0141_Opal Green
+1215;Abendkleid in Phantom Black aus Spitze und Tüll;0134_Phantom Black
+1216;Zweiteiliges Abendkleid in Lollipop Red mit Beinschlitzeb in Jersey;0176_Lollipop Red
+1217;Abendkleid aus Jersey mit floralen Stickereien in Phantom Black;0175_Phantom Black
+1218;Jersey Abendkleid in Pink Lady mit Strassapllikationen ;0174_Pink Lady
+1220;Chiffon Abendkleid in Snow White im klassischem Schnitt ;0173_Snow White
+1221;Abendkleid aus Spitze in Snow White mit Applikationen am Oberteil;0172_Snow White
+1222;Zweiteiliges Abendkleid in Pearl Pink mit Strassbesatz aus Jersey;0171_Pearl Pink
+1223;Jersey Abendkleid in Phantom Black mit Ausschnitten an der Taille;0170_Phantom Black
+1224;Abendkleid in Phantom Black aus Jersey mit Neckholder;0169_Phantom Black
+1225;Abendkleid aus Tüll in Red Berry im Vokuhila Schnitt;0168_Red Berry
+1226;Chiffon Abendkleid in Twilight Blue im klassischem Schnitt;0167_Twilight Blue
+1227;Abendkleid aus Chiffon in Pearl Pink mit Strassbesatz;0133_Pearl Pink
+1228;Abendkleid aus Chiffon mit Strass in Apple Mint;0165_Apple Mint
+1229;Abendkleid in Royal Purple aus Strass und Tüll mit raffiniertem Schnitt;0163_Royal Purple
+1230;Jersey Abendkleid mit Schleppe aus Tüll in Lollipop Red;0164_Lollipop Red
+1231;Chiffon Abendkleid in Opal Green mit Strass;0162_Opal Green
+1232;Abendkleid in Vanilla Ice aus Jersey mit Steinbesatz;0159_Vanilla Ice
+1233;Abendkleid in Ghost Gray mit Verzierungen;0161_Ghost Gray
+1234;Jersey Abendkleid in Champagne mit Beinschlitz;0160_Champagne
+1235;Jersey Abendkleid in Twilight Purple mit Beinschlitz;0158_Twilight Purple
+1236;Zweiteiliges Abendkleid mit Strassbesatz aus Tüll in Pearl Pink;0156_Pearl Pink
+1237;Tüll Abendkleid in Opal Green mit floraler Stickerei;0157_Opal Green
+1238;Abendkleid aus Spitze in Champagne im klassischen Schnitt;0155_Champagne
+1239;Satin Abendkleid zweiteilig in Pearl Pink mit Strass;0154_Pearl Pink
+1240;Abendkleid aus Tüll in Aqua Blue mit Strassbesatz;0153_Aqua Blue
+1241;Abendkleid mit Schleppe in Night Beige aus Tüll und Spitze;0152_Night Beige
+1242;Abendkleid aus Spitze in Champagne im Meerjungfrauen Style;0151_Champagne
+1248;Abendkleid in Etherea Brown aus Chiffon mit Spitze;0149_Etherea Brown
+1249;Chiffon Abendkleid in Pearl Pink mit klassischem Schnitt;0148_Pearl Pink
+1250;Chiffon Abendkleid in Opal Green mit Strassbesatz;0146_Opal Green
+1251;Abendkleid im Meerjungfrauen Stik mit Spitze und Tüll in Black & Cream;0147_Black & Cream
+1252;Abendkleid aus Spitze in Dusk Grey;0145_Dusk Grey
+1253;Tüll Abendkleid mit floralem Oberteil in Pearl Pink;0144_Pearl Pink
+1254;Abendkleid aus Chiffon mit Strassband in Champagne;0143_Champagne
+1255;Cocktailkleid in Satin mit Oberteil aus Spitze in French Vanilla;0142_French Vanilla
+1256;Chiffon Abendkleid in French Vanilla mit Strass im Dekolltebereich;0140_French Vanilla
+1257;Abendkleid aus Jersey mit Spitzenträgern in Illusion Blue;0139_Illusion Blue
+1258;Chiffon Abendkleid mit Plissee Rock in Cloud Gray;0138_Cloud Gray
+1259;Abendkleid aus Jersey mit Dekollte Auschnitt in Night Blue;0136_Night Blue
+1260;Abendkleid aus Chiffon in Cloud Gray mit Oberteil aus Spitze;0137_Cloud Gray
+1261;Chiffon Abendkleid mit Taillenband aus Perlen in Crimson Red;0135_Crimson Red
+1262;Abendkleid in Pink;0166_Pink
+1263;Abendkleid aus Chiffon in Snow White mit goldenem Taillengürtel;0178_Snow White
+1264;Zweiteiliges Satin Abendkleid in Cloud Gray und strassbesetztem Oberteil;0177_Cloud Gray
+1266;Jersey Abendkleid in Phantom Black mit Eclipse Auschnitt;0136_Phantom Black
+1267;Sonstige Position / verlorene Sendung;Position1
+1268;Abendkleid aus Chiffon mit ornamentalem Dekor in Twilight Blue;0052_Twilight Blue
+1269;Chiffon Abendkleid in Twilight Blue;0150_Twilight Blue
+1270;Jersey Abendkleid in Apricot Blush;0179_Apricot Blush
+1271;Jersey Abendkleid in Snow white;0179_Snow White
+1272;Jersey Abendkleid in Apricot Blush;0180_Bleached Sand
+1273;1;0045_white
+1274;1;0100_white
+1275;1;0092_white
+1276;1;0078_white
+1277;Chiffon Cocktailkleid in Weiß;0094_Ivory
+1278;Chiffon Abendkleid mit Strassapplikationen in Rio Red;0132_Rio Red
+1279;1;0035_white
+1280;1;0076_white
+1281;1;0080_white
+1282;1;0040_white
+1283;1;0048_white
+1284;Tüll Abendkleid mit großem Glitzerbesatz in Ghost Grey;0060_Ghost Grey
+1285;Abendkleid aus Tüll in Champagne mit Strassbesatz;0181_Champagne
+1286;Abendkleid aus Tüll mit Strassverzierungen in Phantom Black;0182_Phantom Black
+1287;Tüll Abendkleid in Night Blue mit floraler Stickerei und Strass;0183_Night Blue
+1288;Abendkleid aus Jersey mit Strassoberteil in Illusion Blue;0184_Illusion Blue
+1289;Abendkleid aus Jersey mit Beinschlitz in Ice Green;0185_Ice Green
+1290;Abendkleid aus Chiffon mit floraler Stickerei in Pearl Pink;0186_Pearl Pink
+1291;Chiffon Abendkleid in Aqua Blue mit Strassverzierungen;0187_Aqua Blue
+1292;Abendkleid aus Jersey in Twilight Blue mit aufwendigen Verzierungen;0188_Twilight Blue
+1293;Jersey Abendkleid in Macadamia Nut mit Ornamenten;0189_Macadamia Nut
+1294;Abendkleid aus Jersey in Ice Green mit Strassoberteil;0190_Ice Green
+1295;Jersey Abendkleid mit blumenverzierten Rücken in Champagne;0191_Champagne
+1296;Zweiteiliges Abendkleid aus Jersey in Champagne mit Strassoberteil;0192_Champagne
+1297;DEAKTIVIERT;0193_Phantom Black
+1298;Abendkleid aus Jersey mit Perlen- und Strassbesatz in Phantom Black;0194_Phantom Black
+1299;Abendkleid aus Tüll mit Perlenverzierungen in French Vanilla;0195_French Vanilla
+1300;Tüll Abendkleid mit Spitze und floralen Verzierungen in Champagne;0196_Champagne
+1301;Abendkleid in Etherea Brown aus Spitze mit floralen Ornamenten ;0197_Etherea Brown
+1302;Chiffon Abendkleid in Night Blue mit Strassverzierungen;0198_Night Blue
+1303;Abendkleid aus Spitze und Tüll in Phantom Black mit Schleppe;0199_Phantom Black
+1304;Abendkleid aus Mikado in Night Blue-Red mit Strassgürtel;0262_Night Blue-Red
+1305;Abendkleid aus Mikado in Aqua Blue mit Strassgürtel;0263_Aqua Blue
+1306;Mikado Abendkleid im floralem Design in Night Blue-Yellow;0262_Night Blue-Yellow
+1307;Abendkleid aus Tüll mit Strassbesatz in Ghost Gray;0265_Ghost Gray
+1308;Abendkleid aus Mikado in Night Blue mit Spitze und Strass;0266_Night Blue
+1309;Mikado Abendkleid in Cloud Gray mit floralen Ornamenten;0267_Cloud Gray
+1310;Abenkleid aus Mikado mit weit ausgestelltem Rock in Palace Blue;0268_Palace Blue
+1311;Cocktailkleid aus Tüll und Spitze in Black & Cream ;0269_Black & Cream
+1312;Abendkleid aus Mikado mit Raffungen in Pearl Pink;0270_Pearl Pink
+1313;Mikado Abendkleid in Night Blue mit Strassgürtel;0272_Night Blue
+1314;Abendkleid aus Mikado in Illusion Blue mit Vokuhila Schnitt;0273_Illusion Blue
+1315;Cocktailkleid aus Mikado mit Strassgürtel in Pearl Pink;0271_Pearl Pink
+1316;Mikado Cocktailkleid in Night Blue mit Strassoberteil;0274_Night Blue
+1317;Neckholder Abendkleid in Night Blue aus Mikado;0275_Night Blue
+1319;Abendkleid aus Mikado im Vokuhila-Schnitt in Pearl Pink;0277_Pearl Pink
+1323;Abendkleid aus Chiffon in Snow White mit Strassoberteil;0279_Snow White
+1324;Zweiteiliges Abendkleid aus Tüll und Spitze in French Vanilla;0278_French Vanilla
+1325;Abendkleid in Aqua Blue aus Chiffon mit Strassverzierungen;0280_Aqua Blue
+1326;Tüll Abendkleid in Orchid Pink mit Spitze und Strass;0281_Orchid Pink
+1327;Chiffon Abendkleid in Snow White mit floralen Ornamenten;0282_Snow White
+1328;Abendkleid aus Spitze mit Strassbesatz in French Vanilla;0283_French Vanilla
+1329;Chiffon Abendkleid mit 3/4 Ärmeln und Strassverzierungen in Dusk Grey;0284_Dusk Grey
+1330;Abendkleid aus Tüll und zarter Spitze mit Strass in Pink Nectar;0285_Pink Nectar
+1331;Abendkleid aus Tüll und dekorativer Spitze in Black & Creme;0286_Black & Cream
+1332;Abendkleid aus Tüll und Blüten-Spitze mit Schleppe in Phantom Black-Nude;0287_Phantom Black-Nude
+1333;Chiffon Abendkleid in Champagne mit Strassbesatz ;0288_Champagne
+1334;Abendkleid aus Tüll mit Strasselementen in French Vanille;0289_French Vanille
+1335;Abendkleid aus Spitze und Tüll in Champagne mit Ornamenten;0290_Champagne
+1336;Jersey Abendkleid in Pearl Pink mit Beinschlitz und Strassverzierungen;0291_Pearl Pink
+1337;Chiffon Abendkleid in Apricot Blush mit Strass-Oberteil;0293_Apricot Blush
+1338;Abendkleid in Ice Green aus Tüll mit Spitze und Strassverzierungen;0295_Ice Green
+1339;Abendkleid aus Jersey mit Beinschlitz und Strass in Palace Blue;0292_Palace Blue
+1340;Chiffon Abendkleid in Pearl Pink mit Strassverzierungen;0296_Pearl Pink
+1341;Cocktailkleid aus Spitze in Black & Cream mit tiefem Rückenausschnitt;0294_Black & Cream
+1342;Chiffon Abendkleid mit Glitzerdekor in Pearl Pink;0297_Pearl Pink
+1344;Abendkleid in Pearl Pink mit Beinschlitz und Taillengürtel aus Chiffon;0298_Pearl Pink
+1345;Chiffon Abendkleid mit Strassbesatz und V-Ausschnitt in Pearl Pink;0187_Pearl Pink
+1346;Abendkleid aus Chiffon in Pearl Pink mit Spitze;0299_Pearl Pink
+1347;Bodenlanges Chiffon Abendkleid mit Steinbesatz in Twilight Blue;0064_Twilight Blue
+1348;Chiffon Abendkleid mit handgefertigter Spitze in Twilight Blue;0071_Twilight Blue
+1349;Abendkleid aus Chiffon mit Glitzerdekor in Salsa Red;0036_Salsa Red
+1350;Abendkleid aus Chiffon mit Glitzerdekor in Mint;0036_Mint
+1351;Abendkleid mit Schleppe in Ivory aus Tüll und Spitze;0152_Ivory
+1352;Abendkleid aus Chiffon mit bestickten Top in Dusk Grey;0300_Dusk Grey
+1353;Chiffon Abendkleid in Twilight Blue mit Strassbesatz;0146_Twilight_Blue
+1354;Chiffon Abendkleid in Pearl Pink;0146_Pearl Pink
+1355;Bodenlanges Chiffon Abendkleid mit Steinbesatz in Aqua Blue;0064_Aqua Blue
+1356;Chiffon Abendkleid mit handgefertigter Spitze in Pearl Pink;0071_Pearl Pink
+1357;Chiffon Abendkleid mit handgefertigter Spitze in Aqua Blue;0071_Aqua Blue
+1358;Abendkleid aus Jersey mit verzierter Taille in Salsa Red;0301_Salsa Red
+1359;Abendkleid aus Tüll mit Strassbesatz in Pearl Pink;0265_Pearl Pink
+1360;Abendkleid aus Tüll mit Strassbesatz in Twilight Blue;0265_Twilight Blue
+1361;Abendkleid aus Tüll mit Strassbesatz in Aqua Blue;0265_Aqua Blue
+1362;Abendkleid aus Tüll mit Strassbesatz in Dawn Pink;0265_Dawn Pink
+1363;Abendkleid aus Tüll mit üppig verziertem Top in Rio Red;0302_Rio Red
+1364;Jersey Abendkleid in Phantom Black ;0303_Phantom Black
+1365;Abendkleid in Snow White;0304_Snow White
+1366;Abendkleid in Iron Grey;0305_Iron Grey
+1367;Chiffon Abendkleid in Twilight Blue ;0306_Twilight Blue
+1368;Abendkleid aus Jersey mit Spitzen-Oberteil in Twilight Blue;0307_Twilight Blue
+1369;Abendkleid in Eclipse Blue;0308_Eclipse Blue
+1370;Abendkleid in Snow White;0309_Snow White
+1371;Tüll Abendkleid in Snow White;0310_Snow White
+1372;Abendkleid aus Mikado mit goldfarbener Perlenstickerei in Twilight Blue;0311_Twilight Blue
+1373;Abendkleid aus Mikado mit funkelndem Besatz in Pearl Pink;0312_Pearl Pink
+1374;Jersey Abendkleid in Pearl Pink;0313_Pearl Pink
+1375;Abendkleid in Macadamia Nut;0314_Macadamia Nut
+1376;Abendkleid aus Mikado mit verziertem Bustier in Snow White;0315_Snow White
+1377;Chiffon Abendkleid in Eclipse Blue ;0316_Eclipse Blue
+1378;Jersey Abendkleid in Eclipse Blue;0317_Eclipse Blue
+1379;Abendkleid in Twilight Blue;0318_Twilight Blue
+1380;Zweiteiliges Jersey-Abendkleid mit Collierkragen in Phantom Black;0321_Phantom Black
+1381;Zweiteiliges Mikado-Abendkleid mit Strassbesatz in Monaco Grey;0320_Monaco Blue
+1382;Abendkleid in Twilight Blue;0319_Twilight Blue
+1383;Mikado Abendkleid in Posy Green;0270_Posy Green
+1384;Tüll-Abendkleid mit Pailletten in Ghost Grey;0322_Ghost Gray
+1385;Chiffon-Abendkleid mit dekorativem Spitzentop in Twilight Blue;0149_Twilight Blue
+1386;Kleiderschutzbeutel;Kleiderschutzbeutel
+1387;Freebra;Freebra
+1388;Sonstige Position / Extra Stoff;Position2
+1389;Sonstige Position / Dummy Artikel3;Position3
+1390;Sonstige Position / Dummy Artikel5;Position5
+1391;Sonstige Position / Dummy Artikel7;Position7
+1392;Sonstige Position / Dummy Artikel6;Position6
+1393;Sonstige Position / Dummy Artikel4;Position4
+1394;Sonstige Position / Dummy Artikel8;Position8
+1396;Sonstige Position / Dummy Artikel8;Position9
+1398;Tüll Abendkleid in Twilight Blue;0330_Twilight Blue
+1399;Abendkleid aus Spitze in French Vanilla;0327_French Vanilla
+1400;Cocktailkleid aus Spitze in Apple Mint;0326_Apple Mint
+1404;Chiffon Abendkleid in Ice Blue;0328_Ice Blue
+1417;Strass Abendkleid in Snow White;0329_Snow White
+1418;Tüll Abendkleid in Aqua Blue;0331_Aqua Blue
+1419;Sonstige Position / Dummy Artikel8;Position10
+1420;Cocktailkleid aus Chiffon in Ghost Gray;0036C_CH_Ghost Gray
+1421;Chiffon Cocktailkleid mit Strass in Pearl Pink;0036C_CH_Pearl Pink
+1422;Chiffon Cocktailkleid mit Pailletten in Twilight Blue;0036C_CH_Phantom Black
+1423;Chiffon Cocktailkleid mit Pailletten in Twilight Blue;0036C_CH_Twilight Blue
+1424;Besticktes Abendkleid aus Tüll in Salsa Red;0080_Salsa Red
+1425;Besticktes Abendkleid Tüll in Twilight Blue;0080_Twilight Blue
+1426;Abendkleid aus Chiffon mit Beinschlitz in Twilight Blue;0086_Twilight Blue
+1427;Chiffon Abendkleid mit Spitze in Rio Red;0092_Rio Red
+1428;Abendkleid aus Chiffon mit Raffungen in Galapagos Green;0093_Galapagos Green
+1429;Cocktailkleid aus Tüll mit Stickereien in French Vanilla;0094C_CH_French Vanilla
+1430;Cocktailkleid aus Tüll mit Stickereien in Twilight Blue;0098_Twilight Blue
+1431;Jersey Abendkleid mit Spitze in Dawn Pink;0164_Dawn Pink
+1432;Jersey Abendkleid mit Spitze in Twilight Blue;0164_Twilight Blue
+1433;Abendkleid aus Tüll in Rosa mit Strassbesatz;0181_Pearl Pink
+1434;Abendkleid aus Mikado in Salsa Red mit Strassgürtel;0263_Salsa Red
+1435;Abendkleid aus Mikado in Pearl Pink mit Strassgürtel;0263_Pearl Pink
+1436;Mikado Abendkleid in Salsa Red;0270_Salsa Red
+1437;Neckholder Abendkleid in Pearl Pink aus Mikado;0275_Pearl Pink
+1438;Jersey Abendkleid in Salsa Red;0313_Salsa Red
+1439;Jersey Abendkleid in Twilight Blue;0313_Twilight Blue
+1440;Tüll Abendkleid in Pearl Pink;0094_Pearl Pink
+1441;1;0094_Aqua Blue
+1442;Cocktailkleid aus Spitze in Twilight Blue;0326_Twilight Blue
+1443;Cocktailkleid aus Spitze in Rio Red;0326_Rio Red
+1444;Cocktailkleid aus Spitze in Dawn Pink;0326_Dawn Pink
+1445;Abendkleid aus Spitze in Dawn Pink;0327_Dawn Pink
+1446;Abendkleid aus Spitze in Twilight Blue;0327_Twilight Blue
+1447;Abendkleid aus Spitze in Moonlight Jade;0327_Moonlight Jade
+1448;Chiffon Abendkleid in Pearl Pink;0328_Pearl Pink
+1449;Chiffon Abendkleid mit floralem Muster in Virtual Red;0328_Virtual Red
+1450;Strass Abendkleid in Ghost Grey;0329_Ghost Grey
+1451;Strass Abendkleid in Phantom Black;0329_Phantom Black
+1452;Strass Abendkleid in Night Beige;0329_Night Beige
+1453;Tüll Abendkleid in Dawn Pink;0330_Dawn Pink
+1454;Tüll Abendkleid mit Stickereien in Virtual Red;0330_Virtual Red
+1455;Tüll Abendkleid in Moonlight Jade;0330_Moonlight Jade
+1456;Tüll Abendkleid in Pearl Pink;0331_Pearl Pink
+1457;Mikado Abendkleid in Rio Red;0332_Rio Red
+1458;Mikado Abendkleid in Twilight Blue;0332_Twilight Blue
+1459;Mikado Abendkleid in Pearl Pink;0332_Pearl Pink
+1460;Tüll Abendkleid in Rio Red;0333_Rio Red
+1461;Tüll Abendkleid in Virtual Red;0333_Virtual Red
+1462;Tüll Abendkleid in Champagne;0333_Champagne
+1463;Tüll Abendkleid in Twilight Blue;0333_Twilight Blue
+1464;Chiffon Abendkleid in Rio Red;0335_Rio Red
+1465;Chiffon Abendkleid in Twilight Blue;0336_Twilight Blue
+1466;Chiffon Abendkleid in Iron Grey;0335_Iron Grey
+1467;Kurzes Cocktailkleid in Phantom Black;0334_Phantom Black
+1468;Kurzes Cocktailkleid in Aqua Blue;0334_Aqua Blue
+1469;Kurzes Cocktailkleid in Cloud Grey;0334_Cloud Grey
+1470;Mikado Abendkleid mit Spitze in Rio Red;0344_Rio Red
+1471;Mikado Abendkleid mit Spitze in Dusk Grey;0344_Dusk Grey
+1472;Abendkleid aus Mikado in Pearl Pink;0344_Pearl Pink
+1473;Tüll Abendkleid mit Strass in Twilight Blue;0345_Twilight Blue
+1474;Tüll Abendkleid mit Strass in Geranium Pink;0345_Geranium Pink
+1475;Tüll Abendkleid mit Strass in Rio Red;0345_Rio Red
+1476;Jersey Abendkleid mit Beinschlitz in Rio Red;0343_Rio Red
+1477;Abendkleid in Aqua Blue;0342_Aqua Blue
+1478;Abendkleid mit Beinschlitz in Aqua Blue;0341_Aqua Blue
+1479;Abendkleid mit Beinschlitz in Royal Lilac;0341_Royal Lilac
+1480;Abendkleid in Galapagos Green;0340_Galapagos Green
+1481;Jersey Abendkleid mit Spitze in Twilight Blue;0340_Twilight Blue
+1482;Chiffon Abendkleid in Dawn Pink;0340_Dawn Pink
+1483;Abendkleid mit Beinschlitz in Rio Red;0339_Rio Red
+1484;Abendkleid mit Beinschlitz in Ice Green;0339_Ice Green
+1485;Abendkleid in Orchid Lilac;0339_Orchid Lilac
+1486;Abendkleid mit Beinschlitz in Phantom Black;0339_Phantom Black
+1487;Chiffon Abendkleid in Rio Red;0338_Rio Red
+1488;Chiffon Abendkleid in Black & Cream;0338_Black & Cream
+1489;Zweiteiler Chiffon Abendkleid in Pearl Pink;0337_Pearl Pink
+1490;Abendkleid in Ghost Grey;0346_Ghost Grey
+1491;Jersey Abendkleid in Twilight Blue;0347_Twilight Blue
+1492;Jersey Brautkleid / Abendkleid in Snow White;0347_Snow White
+1493;Chiffon Abendkleid mit Beinschlitz in Twilight Blue;0348_Twilight Blue
+1494;Chiffon Abendkleid mit Beinschlitz in Rio Red;0348_Rio Red
+1495;Chiffon Abendkleid in Dawn Pink;0348_Dawn Pink
+1496;Chiffon Abendkleid in Posy Green;0349_Posy Green
+1497;Chiffon Abendkleid in French Vanilla;0349_French Vanilla
+1498;Chiffon Abendkleid in Twilight Blue;0349_Twilight Blue
+1499;Chiffon Abendkleid mit halblangen Ärmeln in Twilight Blue;0350_Twilight Blue
+1500;Chiffon Abendkleid mit halblangen Ärmeln in Rio Red;0350_Rio Red
+1501;-;Neuer Artikel
+1502;Chiffon Abendkleid mit halblangen Ärmeln in Ghost Grey;0350_Ghost Grey
+1503;Chiffon Abendkleid mit kurzen Ärmeln in Rio Red;0351_Rio Red
+1504;Chiffon Abendkleid mit kurzen Ärmeln in Twilight Blue;0351_Twilight Blue
+1505;Chiffon Abendkleid in Etherea Brown;0351_Etherea Brown
+1506;Mikado Abendkleid in Twilight Blue;0352_Twilight Blue
+1507;Mikao Abendkleid in Pearl Pink;0352_Pearl Pink
+1508;Chiffon Abendkleid mit tiefem Ausschnitt in Rio Red;0353_Rio Red
+1509;Chiffon Abendkleid mit tiefem Ausschnitt in Twilight Blue;0353_Twilight Blue
+1510;Mikado Abendkleid mit Spitze in Twilight Blue;0354_Twilight Blue
+1511;Abendkleid in Ice Green;0354_Ice Green
+1512;Zweiteiler Abendkleid in Phantom Black;0355_Phantom Black
+1513;Jersey Abendkleid in Etherea Brown;0361_Etherea Brown
+1514;Jersey Abendkleid in Galapagos Green;0361_Galapagos Green
+1515;Jersey Abendkleid in Phantom Black;0361_Phantom Black
+1516;Abendkleid in Royal Purple;0362_Royal Purple
+1517;Abendkleid in Pearl Pink;0362_Pearl Pink
+1518;Tüll Abendkleid in Rio Red;0363_Rio Red
+1519;Tüll Abendkleid mit Spitze in French Vanilla;0363_French Vanilla
+1520;Tüll Abendkleid in Twilight Blue;0363_Twilight Blue
+1521;Tüll Abendkleid mit Spitze in Pearl Pink;0363_Pearl Pink
+1522;Trägerloses Cocktailkleid aus Chiffon in Twilight Blue;0364_Twilight Blue
+1523;Trägerloses Cocktailkleid aus Chiffon in Pearl Pink;0364_Pearl Pink
+1524;Chiffon Abendkleid in Geranium Pink;0365_Geranium Pink
+1525;Chiffon Abendkleid in Aqua Blue;0365_Aqua Blue
+1526;Bodenlanges Abendkleid / Brautkleid aus Tüll in Snow White ;0359_Snow white
+1527;Abendkleid mit floralen Stickereien in Phantom Black;0356_Phantom Black
+1528;Bodenlanges Jersey Abendkleid mit tiefem Ausschnitt in Iron Grey;0357_Iron Grey
+1529;Mikado Abendkleid in Twilight Blue;0358_Twilight Blue
+1530;Tüll Abendkleid in Royal Purple;0359_Royal Purple
+1531;Bodenlanges Chiffon Abendkleid in Phantom Black;0366_Phantom Black
+1532;Tüll Abendkleid in Twilight Blue;0359_Twilight Blue
+1533;Tüll Abendkleid mit Glanzdeko in Dawn Pink;0359_Dawn Pink
+1534;Mikado Cocktailkleid in Palace Blue;0360_Palace Blue
+1535;Chiffon Abendkleid mit langen Ärmeln in Galapagos Green;0368_Galapagos Green
+1536;Bodenlanges Abendkleid mit Print in Twilight Blue;0367_Twilight Blue Print
+1537;Chiffon Abendkleid mit langen Ärmeln in Twilight Blue;0368_Twilight Blue
+1538;Chiffon Abendkleid mit Raffungen in Rio Red;0369_Rio Red
+1539;Chiffon Abendkleid in Ghost Grey;0369_Ghost Grey
+1540;Chiffon Cocktailkleid in Pearl Pink;0370_Pearl Pink
+1541;Chiffon Cocktailkleid in French Vanilla;0370_French Vanilla
+1542;Chiffon Cocktailkleid in Aqua Blue;0370_Aqua Blue
+1543;Zweiteiler Cocktailkleid in Aqua Blue;0371_Aqua Blue
+1544;Zweiteiler Cocktailkleid in Pearl Pink;0371_Pearl Pink
+1545;Zweiteiler Abendkleid aus Tüll in Dawn Pink;0372_Dawn Pink
+1546;Zweiteiler Abendkleid aus Tüll in Twilight Blue;0372_Twilight Blue
+1547;Tüll Abendkleid mit Spitze in Pearl Pink;0374_Pearl Pink
+1548;Tüll Abendkleid mit Spitze in Moonlight Jade;0374_Moonlight Jade
+1549;Tüll Abendkleid mit Spitze in Orchid Lilac;0374_Orchid Lilac
+1550;Tüll Abendkleid mit Spitze in Aqua Blue;0374_Aqua Blue
+1551;Tüll Cocktailkleid mit Spitze in French Vanilla;0375_French Vanilla
+1552;Tüll Cocktailkleid mit Spitze in Dawn Pink;0375_Dawn Pink
+1553;Tüll Cocktailkleid mit Spitze in Twilight Blue;0375_Twilight Blue
+1554;Zweiteiler Abendkleid mit Tüll in Champagne;0376_Champagne
+1555;Zweiteiler Abendkleid in Pearl Pink;0376_Pearl Pink
+1556;Abendkleid mit Muster in Phantom Black;0377_Phantom Black
+1557;Vokuhila Kleid aus Mikado mit Spitze in Pearl Pink;0378_Pearl Pink
+1558;Abendkleid mit Spitze in Ghost Grey;0379_Ghost Grey
+1559;Cocktailkleid in Dawn Pink;0381_Dawn Pink
+1560;Abendkleid in Pearl Pink;0380_Pearl Pink
+1561;Jersey Abendkleid in Ghost Grey;0382_Ghost Grey
+1562;Abendkleid in Macadamia Nut;0383_Macadamia Nut
+1563;Abendkleid in Dawn Pink;0384_Dawn Pink
+1565;Bodenlanges Abendkleid aus Tüll in Twilight Blue ;0385_Twilight Blue
+1623;Bodenlanges Abendkleid in Gold;0346_Gold
+1624;Chiffon Abendkleid in Pearl Pink;0349_Pearl Pink
+1625;Tüll Abendkleid in Dawn Pink;0403_Dawn Pink
+1626;Abendkleid in Ghost Grey;0402_Ghost Grey
+1627;Jersey Abendkleid in Dawn Pink;0401_Dawn Pink
+1628;Bodenlanges Chiffon Abendkleid mit halblangen Ärmeln in Twilight Blue;0400_Twilight Blue
+1629;Chiffon Abendkleid mit halblangen Ärmeln in Dawn Pink;0400_Dawn Pink
+1630;Jersey Abendkleid in Rio Red;0399_Rio Red
+1631;Abendkleid mit weitem Ausschnitt in Phantom Black;0398_Phantom Black
+1632;Abendkleid in Twilight Blue;0397_Twilight Blue
+1633;Jersey Abendkleid in Rio Red;0397_Rio Red
+1634;Abendkleid mit Raffungen in Dawn Pink;0397_Dawn Pink
+1635;Abendkleid in Phantom Black;0396_Phantom Black
+1636;Chiffon Abendkleid mit halblangen Ärmeln in Twilight Blue;0395_Twilight Blue
+1637;Chiffon Abendkleid mit halblangen Ärmeln in Rio Red;0395_Rio Red
+1638;Chiffon Abendkleid mit halblangen Ärmeln in Posy Green;0395_Posy Green
+1639;Tüll Abendkleid in Twilight Blue;0394_Twilight Blue
+1640;Abendkleid in Phantom Black;0393_Phantom Black
+1641;Jersey Abendkleid in Twilight Blue;0392_Twilight Blue
+1642;Jersey Abendkleid in Rio Red;0392_Rio Red
+1643;Abendkleid in Dawn Pink;0391_Dawn Pink
+1644;Chiffon Abendkleid in Salsa Red;0390_Salsa Red
+1645;Tüll Abendkleid in Orchid Lilac;0389_Orchid Lilac
+1646;Tüll Abendkleid in Twilight Blue;0388_Twilight Blue
+1647;Abendkleid in Twilight Blue;0387_Twilight Blue
+1648;Jersey Abendkleid in Etherea Brown;0386_Etherea Brown
+1649;Abendkleid in Pearl Pink;0404_Pearl Pink
+1650;Jersey Abendkleid in Posy Green;0402_Posy Green
+1651;Abendkleid in Twilight Blue;0404_Twilight Blue
+1655;Vokuhilla Kleid mit Spitze in Ice Green;0378_Ice Green
+1656;Jersey Abendkleid mit Schleppe in Rio Red;0402_Rio Red
+1657;Schulterfreies Abendkleid aus Chiffon in Poweder Blue;0038_Powder Blue
+1658;Cocktailkleid in Twilight Blue;0079_Twilight Blue
+1659;Abendkleid aus Chiffon mit Glitzerdekor in Posy Green mit geschlossenem Rücken;0405_Posy Green
+1660;Chiffon Abendkleid mit Pailletten in Twilight Blue mit geschlossenem Rücken;0405_Twilight Blue
+1661;Chiffon Abendkleid mit Spitze in Rio Red;0035_Rio Red
+1662;Tüll-Abendkleid mit Pailletten in Vanilla Ice;0323_Vanilla Ice
+1666;Abendkleid in Phantom Black;0392_Phantom Black
+1670;Vokuhila Kleid in Rio Red;0444_Rio Red
+1671;Vokuhila Abendkleid in Pearl Pink;0444_Pearl Pink
+1673;Tüll Abendkleid mit unterlegter Spitze in Snow White ;0374_Snow White
+1674;Tüll Abendkleid in Apple Mint;0359_Apple Mint
+1675;Tüll Abendkleid / Brautkleid mit Spitze in Snow White;0345_Snow White
+1676;Tüll Abendkleid / Brautkleid mit Spitze in Snow White;0333_Ivory
+1677;Tüll Abendkleid / Brautkleid mit Spitze in Snow White;0394_Snow White
+1678;Tüll Abendkleid mit Spitze in Snow White;0363_Snow White
+1679;Tüll Abendkleid / Brautkleid mit Strassoberteil in Snow White;0183_Snow White
+1708;Abendkleid aus Tüll mit Strassbesatz in Champagne;0265_Champagne
+1709;Abendkleid aus Tüll mit Strassbesatz in Rio Red;0265_Rio Red
+1712;Cocktailkleid aus Mikado in Illusion Blue;0131_Illusion Blue
+1714;Bodenlanges Chiffon Abendkleid mit Paillettenverzierung in Geranium Pink;0405_Geranium Pink
+1716;Mikado Abendkleid in Rio Red;0352_Rio Red
+1717;Tüll Abendkleid in Rio Red;0181_Rio Red
+1718;Abendkleid in Pearl Pink;0445_Pearl Pink
+1720;Mikado Abendkleid in Twilight Blue ;0312_Twilight Blue
+1721;Mikado Abendkleid in Champagne ;0406_Champagne
+1722;Mikado Abendkleid in Palace Blue ;0406_Palace Blue
+1723;Mikado Abendkleid in Pearl Pink;0406_Pearl Pink
+1724;Mikado Abendkleid in Twilight Blue ;0406_Twilight Blue
+1725;Chiffon Abendkleid in Dawn Pink ;0407_Dawn Pink
+1726;Chiffon Abendkleid in Macadamia Nut ;0409_Macadamia Nut
+1727;Abendkleid / Brautkleid in Snow White ;0411_Snow White
+1728;Chiffon Abendkleid / Brautkleid in Snow White ;0412_Snow White
+1729;Abendkleid in Silver Gold;0413_Silver Gold
+1730;Chiffon Abendkleid in Twilight Blue ;0414_Twilight Blue
+1731;Jersey Abendkleid in Rio Red;0415_Rio Red
+1732;Jersey Abendkleid in Rio Red;0416_Rio Red
+1733;Mikado Abendkleid in Orchid Lilac;0417_Orchid Lilac
+1734;Mikado Abendkleid / Brautkleid in Snow White ;0418_Snow White
+1735;Chiffon Abendkleid in Pearl Pink;0419_Pearl Pink
+1736;Chiffon Abendkleid in Twilight Blue ;0419_Twilight Blue
+1737;Mikado Abendkleid in Twilight Blue;0420_Twilight Blue
+1738;Chiffon Abendkleid in Champagne;0421_Champagne
+1739;Edles Chiffon Abendkleid in Phantom Black ;0422_Phantom Black
+1740;Tüll Abendkleid in Dawn Pink;0408_Dawn Pink
+1741;Chiffon Abendkleid in Macadamia Nut ;0410_Macadmia Nut
+1742;Edles Abendkleid in Twilight Blue;0383_Twilight Blue
+1743;Jersey Abendkleid in Rio Red;0382_Rio Red
+1744;Jersey Abendkleid in Twilight Blue;0382_Twilight Blue
+1745;Tüll Abendkleid in Ghost Grey;0408_Ghost Grey
+1746;Tüll Abendkleid in Pearl Pink;0408_Pearl Pink
+1747;Tüll Abendkleid in Rio Red;0408_Rio Red
+1748;Tüll Abendkleid in Twilight Blue;0408_Twilight Blue
+1749;Jersey Abendkleid in Palace Blue ;0415_Palace Blue
+1750;Chiffon Abendkleid in Snow White;0423_Snow White
+1751;Chiffon Abendkleid in Dawn Pink ;0424_Dawn Pink
+1752;Chiffon Abendkleid in Twilight Blue ;0424_Twilight Blue
+1753;Chiffon Abendkleid in Palace Blue ;0425_Palace Blue
+1754;Edles Abendkleid in Twilight Blue ;0426_Twilight Blue
+1755;Tüll Abendkleid in Dawn Pink;0427_Dawn Pink
+1756;Jersey Abendkleid in Palace Blue ;0428_Palace Blue
+1757;Edles Abendkleid in Snow White;0429_Snow White
+1758;Abendkleid in Phantom Black ;0430_Phantom Black
+1759;Jersey Abendkleid in Palace Blue;0431_Palace Blue
+1760;Edles Abendkleid mit langen Ärmeln in Phantom Black;0432_Phantom Black
+1761;Edles Abendkleid in Ice Blue ;0433_Ice Blue
+1762;Jersey Abendkleid in Dawn Pink ;0434_Dawn Pink
+1763;Jersey Abendkleid in Phantom Black;0434_Phantom Black
+1764;Jersey Abendkleid in Rio Red ;0435_Rio Red
+1765;Mikado Abendkleid in Palace Blue;0436_Palace Blue
+1766;Tüll Abendkleid in Dawn Pink;0437_Dawn Pink
+1767;Chiffon Abendkleid in Ghost Gray;0405_Ghost Gray
+1768;Glitzerabendkleid mit Paillettenbesetztem Taillenband in Ice Blue;0413_Ice Blue
+1769;Ausgestelltes Glitzerkleid mit Strassgürtel in Ice Blue;0446_Ice Blue
+1770;Besticktes Chiffon Abendkleid in Posy Green;0297_Posy Green
+1771;Abendkleid aus Chiffon mit Steinbesatz in Aqua Blue;0132_Aqua Blue
+1772;Bodenlanges Chiffon Abendkleid mit Stickerei in Virtual Red;0297_Virtual Red
+1773;Tüll Abendkleid mit Glanzdekor in Pearl Pink;0333_Pearl Pink
+1774;Edles Abendkleid aus Chiffon in Rio Red;0405_Rio Red
+1775;Edles Abendkleid aus Chiffon in Macadamia Nut;0405_Macadamia Nut
+1776;Edles Abendkleid aus Chiffon in Pearl Pink;0405_Pearl Pink
+1777;Abendkleid in Ivory;0382_Ivory
+1778;Abendkleid in Ivory;0438_Salsa Red
+1779;Abendkleid in Ivory;0438_Twilight Blue
+1780;Abendkleid in Ivory;0438_Palace Blue
+1781;Abendkleid in Ivory;0438_Ghost Grey
+1782;Abendkleid in Ivory;0438_Pearl Pink
+1783;Abendkleid in Ivory;0439_Ghost Grey
+1784;Abendkleid in Ghost Gray;0440_Ghost Grey
+1785;Abendkleid in Silber;0441_Silver
+1796;Schwarzes, bodenlanges Chiffon Abendkleid mit Strass;0072_Phantom Black
+1797;Abendkleid aus Tüll mit Strassbesatz in Ice Blue;0265_Ice Blue
+1798;Besticktes Abendkleid mit Glitzerapplikation in Blue & Cream;0383_Blue & Cream
+1799;Abendkleid mit Rückenschnürung in Shining Black;0410_Shining Black
+1800;Abendkleid mit Rückenschnürung in Twilight Blue;0410_Twilight Blue
+1801;Ausgestelltes Tüll Abendkleid in Aqua Blue;0440_Aqua Blue
+1802;Ausgestelltes Tüll Abendkleid in Rio Red;0440_Rio Red
+1803;Ausgestelltes Tüll Abendkleid in Snow White;0440_Snow White
+1804;Besticktes Abendkleid mit hängender Strassapplikation in Champagne;0442_Champagne
+1805;Bodenlanges Abendkleid mit Collierkragen in Champagne;0443_Champagne
+1806;Glitzerabendkleid mit Paillettenbesetztem Taillenband in Glitter Grey;0446_Glitter Grey
+1807;Abendkleid im Meerjungfrauenstil in Ghost Gray;0447_Ghost Gray
+1808;Bodenlanges Abendkleid mit Federapplikation in Ghost Gray;0448_Ghost Gray
+1809;Abendkleid mit Paillettenstickerei in Ghost Gray;0449_Ghost Gray
+1810;Abendkleid mit Strassbesatz in Ghost Gray;0450_Ghost Gray
+1811;Glitzerabendkleid in Glitter Aqua;0451_Glitter Aqua
+1812;Glitzerabendkleid in Glitter Mauve;0451_Glitter Mauve
+1813;Glitzerabendkleid in Glitter Mint;0451_Glitter Mint
+1814;Glitzerabendkleid mit Strassdekor in Glitter Aqua;0452_Glitter Aqua
+1815;Glitzerabendkleid mit Strassdekor in Glitter Black;0452_Glitter Black
+1816;Glitzerabendkleid mit Strassdekor in Glitter Pink;0452_Glitter Pink
+1817;Jumpsuit mit Strassdekor in Champagne;0453_Champagne
+1818;Glitzerabendkleid in Glitter Black;0454_Glitter Black
+1819;Glitzerabendkleid in Glitter Blue;0454_Glitter Blue
+1820;Glitzerabendkleid in Glitter Pink;0455_Glitter Pink
+1821;Glitzerabendkleid mit Paillettenbesetztem Taillenband in Glitter Aqua;0456_Glitter Aqua
+1822;Glitzerabendkleid mit Paillettenbesetztem Taillenband in Glitter Grey;0456_Glitter Grey
+1823;Glitzerabendkleid mit Paillettenbesetztem Taillenband in Glitter Lilac;0456_Glitter Lilac
+1824;Glitzerabendkleid mit Paillettenbesetztem Taillenband in Glitter Purple;0456_Glitter Purple
+1825;Glitzerabendkleid mit ausgestelltem Rock in Glitter Grey;0457_Glitter Grey
+1826;Glitzerabendkleid mit ausgestelltem Rock in Glitter Pink;0457_Glitter Pink
+1827;2;0458_Twilight Blue
+1828;Kurzärmliges Abendkleid mit Spitzenapplikation in Ghost Grey;0459_Ghost Grey
+1829;Jersey Glitzerkleid in Glitter Lilac;0460_Glitter Lilac
+1830;Paillettenbesticktes Abendkleid in Glitter Grey;0461_Glitter Grey
+1831;Abendkleid mit ausgestelltem Rock in Shining Gold;0462_Shining Gold
+1832;2;0463_Orchid Lilac
+1833;Kurzärmliges Abendkleid mit Spitzenbesatz in Moonlight Jade;0464_Moonlight Jade
+1834;Bodenlanges Glitzerabendkleid in Glitter Grey & Lilac;0465_Glitter Grey & Lilac
+1835;Bodenlanges Glitzerabendkleid in Glitter Grey & Pink;0465_Glitter Grey & Pink
+1836;Bodenlanges Glitzerabendkleid in Glitter Grey & Purple;0465_Glitter Grey & Purple
+1837;Tüll Abendkleid mit hohem Kragen in Twilight Blue;0466_Twilight Blue
+1838;Tüll Abendkleid mit Strassbesatz in Dawn Pink;0467_Dawn Pink
+1839;Zweiteiler Abendkleid mit Paillettenbesatz in Macadamia Nut;0468_Macadamia Nut
+1840;Jersey Glitzerkleid in Orchid Pink;0469_Orchid Pink
+1841;Neckholder Abendkleid mit Paillettenbesatz in Silver;0470_Silver
+1842;Chiffon Abendkleid mit Stickerei in Twilight Blue;0471_Twilight Blue
+1843;2;0472_Shining Black
+1844;Tüllabendkleid mit aufwendiger Stickerei in Dawn Pink;0473_Dawn Pink
+1845;Tüllabendkleid mit aufwendiger Stickerei in Ghost Gray;0473_Ghost Gray
+1846;Paillettenbesetzes Offshoulder Abendkleid in Silver;0475_Silver
+1847;Offshoulder Abendkleid in Ghost Gray;0476_Ghost Gray
+1848;Neckholder Abendkleid mit raffiniertem Rückenausschnitt in Shining Rio Red;0477_Shining Rio Red
+1849;2;0478_Palace Blue
+1850;Abendkleid mit aufwendiger Paillettenstickerei in Twilight blue;0479_Twilight Blue
+1851;Abendkleid mit kurzen Ärmeln in Twilight Blue;0480_Twilight Blue
+1852;Glitzerkleid mit optischer Dekolletéschnürung in Glitter Blue;0481_Glitter Blue
+1853;Neckholder Abendkleid mit Paillettenbesatz in Twilight Blue;0482_Glitter Mint
+1854;Neckholder Abendkleid mit Paillettenbesatz in Twilight Blue;0482_Twilight Blue
+1855;Jersey Abendkleid mit raffiniertem Taillenabschnitt in Pearl Pink;0483_Pearl Pink
+1856;Tüll Abendkleid mit kurzen Ärmeln in Dawn Pink;0484_Dawn Pink
+1857;Langärmliges Abendkleid mit Strassverzierungen in Ghost Gray;0485_Ghost Gray
+1858;2;0486_Aqua Blue
+1859;2;0487_Black & Cream
+1860;Abendkleid mit hängenden Strassverzierungen in Champagne;0488_Champagne
+1861;Glitzerabendkleid mit Spaghettiträgern in Glitter Purple;0489_Glitter Purple
+1862;Abendkleid mit Paillettenverzierung in Champagne;0490_Champagne
+1863;Abendkleid mit Stickereiverzierungen in Snow White;0491_Snow White
+1864;Bodenlanges Abendkleid aus Chiffon in Dawn Pink;0492_Dawn Pink
+1865;Tüll Abendkleid mit unterlegter Spitze in Dawn Pink;0493_Dawn Pink
+1866;Tüll Abendkleid mit unterlegter Spitze in Twilight Blue;0494_Twiliight Blue
+1867;Abendkleid in Champagne;0382_Champagne
+1868;Versandkosten;Transport
+1871;Ausgestelltes Tüll Abendkleid in Champagne;0440_Champagne
+1872;Ausgestelltes Tüll Abendkleid in Dawn Pink;0440_Dawn Pink
+1873;Ausgestelltes Tüll Abendkleid in Ice Blue;0440_Ice Blue
+1874;Ausgestelltes Tüll Abendkleid in Royal Purple;0440_Royal Purple
+1875;new;0266_Rio Red
+1876;- 1;0403_Iron Grey
+1877;2;0452_Ghost Grey
+1878;2;0466_Pearl Pink
+1879;2;0473_Rio Red
+1880;2;0495_Rio Red
+1881;Produkt vom CK shop. Deaktiviert bei VIP;0094_Z_French Vanilla
+1882;-;0297_Salsa Red
+1883;-;0445_Rio Red
+1886;-;probe_artikel
+1889;Ausgestelltes Glitzerkleid;0496_Glitter Grey & Red
+1890;-;0132_Snow white
+1891;-;0265_Snow White
+1892;-;0424_Snow white
+1893;2;0489_Glitter Blue
+1895;2;0489_Glitter Mauve
+1896;2;0489_Glitter Pink
+1897;-;0497_Macadamia Nut
+1898;-;0497_Dawn Pink
+1899;-;0498_Lavender Snow
+1900;-;0498_Pearl Pink
+1901;-;0498_Phantom Black
+1902;-;0498_Rio Red
+1903;-;0499_Pearl Pink
+1904;-;0499_Rio Red
+1905;-;0500_Glitter Blue & Pink
+1906;-;0501_Cappuccino
+1907;-;0501_Royal Purple
+1908;-;0501_Twilight Blue
+1909;-;0502_Rio Red
+1910;-;0502_Twilight Blue
+1911;-;0503_Pearl Pink
+1912;-;0503_Ghost Grey
+1913;-;0503_Phantom Black
+1914;-;0504_Silver Grey
+1915;-;0504_Night Blue
+1916;-;0505_Dawn Pink
+1917;-;0506_Rio Red
+1918;-;0506_Twilight Blue
+1919;-;0507_Glitter Black
+1920;-;0507_Glitter Rio
+1921;-;0507_Glitter Ocean
+1922;-;0508_Twilight Blue & Gold
+1923;-;0509_Pearl Pink
+1924;-;0510_Glitter Infinity
+1925;-;0511_Ocean Flower
+1926;-;0512_Orchid Lilac
+1927;-;0512_Rio Red
+1928;-;0512_Royal Lilac
+1929;-;0513_Phantom Black
+1930;-;0514_Glitter Black & Gold
+1931;-;0515_Gold Print
+1932;-;0516_Dawn Pink
+1933;-;0517_Glitter Dawn & Gold
+1934;-;0517_Glitter Silver & Gold
+1935;-;0518_Dawn Pink
+1936;-;0518_Ghost Grey
+1937;-;0518_Rio Red
+1938;-;0519_Dawn Pink
+1939;-;0519_Ghost Grey
+1940;-;0519_Rio Red
+1941;-;0520_Dawn Pink
+1942;-;0520_Ghost Grey
+1943;-;0520_Phantom Black
+1944;-;0521_Alaska Blue
+1945;-;0521_Pearl Pink
+1946;-;0521_Rio Red
+1947;-;0522_Iron Grey
+1948;-;0522_Pearl Pink
+1949;-;0522_Rio Red
+1950;-;0523_Ghost Grey
+1951;-;0523_Phantom Black
+1952;-;0523_Rio Red
+1953;-;0524_Iron Grey
+1954;-;0524_Alaska Blue
+1955;-;0524_Pearl Pink
+1956;-;0525_Silver Print
+1957;-;0526_Phantom Black
+1958;-;0526_Snow White
+1959;-;0527_Rio Red
+1960;-;0527_Night Blue
+1961;-;0528_Deep Grey
+1962;-;0528_Dawn Pink
+1963;-;0528_Royal Purple
+1964;-;0529_Deep Grey
+1965;-;0530_Phantom Black
+1966;-;0531_Shining Dawn Pink
+1967;-;0531_Shining Black
+1968;-;0532_Dawn Pink
+1969;-;0532_Lavender
+1970;-;0532_Phantom Black
+1971;-;0533_Pearl Pink
+1972;-;0534_Alaska Blue & Nut
+1973;-;0535_Shining Red
+1974;-;0535_Shining Ocean
+1975;-;0536_Shining Brown
+1976;-;0536_Shining Pink
+1977;-;0536_Shining Black
+1978;-;0537_Shining Grey
+1979;-;0537_Shining Pink
+1980;-;0537_Shining Ocean
+1981;-;0538_Orchid Lilac
+1982;-;0539_Iron Grey
+1983;-;0540_Dawn Pink
+1984;-;0540_Ghost Grey
+1985;-;0540_Orchid Ice
+1986;-;0540_Phantom Black
+1987;-;0541_Rio Red
+1988;-;0541_Twilight Blue
+1989;-;0542_Pearl Pink
+1990;-;0545_Champagne
+1991;-;0545_Ghost Grey
+1992;-;0545_Ice Blue
+1993;-;0545_Dawn Pink
+1994;-;0545_Rio Red
+1995;-;0546_Night Grey
+1996;-;0546_Rio Red
+1997;-;0546_Twilight Blue
+1998;-;0545_Twilight Blue
+2000;-;0547_Champagne
+2001;-;0547_Dawn Pink
+2002;-;0547_Ghost Grey
+2003;-;0547_Ice Blue
+2005;-;0547_Rio Red
+2006;-;0545_Snow White
+2007;Trägerloser Silikon PushUp-BH;freebra
+2008;Chiffonabendkleid mit Spitzendekor in Pearl Pink;0548_Pearl Pink
+2011;-;0547_Aqua Blue
+2013;-;0412_Ivory
+2014;-;Discount 109
+2015;-;Discount 115
+2016;-;Discount 119
+2017;-;Discount 125
+2018;-;Discount 129
+2019;-;Discount 135
+2020;-;Discount 139
+2021;-;Discount 145
+2022;-;Discount 149
+2023;-;Discount 155
+2024;-;Discount 159
+2025;-;Discount 169
+2026;-;Discount 179
+2027;-;Discount 79
+2028;-;Discount 89
+2029;-;Discount 99
+2030;-;Einzelstueck_Premium
