@@ -4,7 +4,7 @@ Salve {firstname} {lastname},
 
 Grazie per aver ordinato presso {shop_name}! 
 
-ORDINE: {order_name} Effettuato su {date}
+ORDINE: {id_order} Effettuato su {date}
 
 PAGAMENTO: {payment} 		 
 

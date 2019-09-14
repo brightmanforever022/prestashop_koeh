@@ -4,7 +4,7 @@ Bonjour {firstname} {lastname},
 
 Merci d'avoir effectué vos achats sur {shop_name}! 
 
-COMMANDE : {order_name} passée le {date}
+COMMANDE : {id_order} passée le {date}
 
 PAIEMENT : {payment} 		 
 
