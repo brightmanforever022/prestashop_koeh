@@ -1,0 +1,13 @@
+--- admin971jqkmvw/themes/default/template/controllers/orders/helpers/view/view.tpl
++++ admin971jqkmvw/themes/default/template/controllers/orders/helpers/view/view.tpl
+@@ -147,6 +147,10 @@
+ 						{l s='Print html shipping info'}
+ 					</a>
+ 					&nbsp;
++                                        <a class="btn btn-default" target="_blank" href="{$link->getAdminLink('AdminOrders')|escape:'html':'UTF-8'}&amp;getSmartShippingList&order_id[]={$order->id}">
++						{l s='Smart shipping list'}
++					</a>
++					&nbsp;
+ 					{if Configuration::get('PS_INVOICE') && count($invoices_collection) && $order->invoice_number}
+ 						<a data-selenium-id="view_invoice" class="btn btn-default _blank" href="{$link->getAdminLink('AdminPdf')|escape:'html':'UTF-8'}&amp;submitAction=generateInvoicePDF&amp;id_order={$order->id|intval}">
+ 							<i class="icon-file"></i>

@@ -1,0 +1,25 @@
+--- admin971jqkmvw/themes/default/template/controllers/orders/helpers/list/list_header.tpl
++++ admin971jqkmvw/themes/default/template/controllers/orders/helpers/list/list_header.tpl
+@@ -179,7 +179,21 @@
+             </ol>
+             <br>
+             Shipping priority is calculated by following rules:<br>
+-            Common rule is that earlier order should be shipped earlier, products are reserved for order even if it is not paid yet.
++            Common rule is that earlier order should be shipped earlier, products are reserved for order even if it is not paid yet.<br/>
++            We calculate quantity of products available to fulfil current ordered item and show this quantity as "avail for ship".<br/>
++            Here is formulas by which we calculate this quantity:<br>
++            physQty = avail(db stock) + notShippedKoehlert + notShippedDbk  -- quantity physically presenting in our wirehouse (part in vipdress, part in dbk)<br>
++            avForCurAndBelow = physQty - sumQtyOfHigherPriorityOrders(dbk preorders+koehlert) -- available for ship in current order and in orders below by priority<br>
++            avForCurAndBelow = avail(db stock) + notShippedDbkCurAndBelow + notShippiedKhlCurAndBelow <br>
++            if avForCurAndBelow<=0 it means we need to ship -avForCurAndBelow items first (in higher priority orders) to start to fulfil current order<br>
++            if avForCurAndBelow<=0, then we need to look in supplier orders. To understand that supplier order may be used for current order we calculate following:<br>
++            supOrderOffset = sum of all earlier orders + curSupOrderQty -- position of supplier order in supplier order queue<br>
++            What supplier order can be used to fulfil current order? :<br>
++            1. All that have supOrderOffset > -avForCurAndBelow -- other words supOrderOffset fulfils all higher priority orders<br>
++            2. There may be many such supplier orders. We need to take from supplier orders only ordered quantity for current order. I.e. we don't need supplier orders
++            that start from offset greater, then we need to fulfil current order:
++            supOrderOffset - soOrdered > -(avForCurAndBelow - ordered), we need:
++supOrderOffset - soOrdered <= -(avForCurAndBelow - ordered)
+         </div>
+     </div>
+          
